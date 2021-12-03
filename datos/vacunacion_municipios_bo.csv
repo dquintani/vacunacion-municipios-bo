@@ -1,0 +1,3392 @@
+,fecha,departamento,municipio,dosis,vacunacion
+0,2021-10-23,La Paz,Aucapata,1,10%
+1,2021-10-23,La Paz,Caquiaviri,1,11%
+2,2021-10-23,La Paz,Tito Yupanqui (Parquipujio),1,11%
+3,2021-10-23,La Paz,Ancoraimes,1,12%
+4,2021-10-23,La Paz,Calacoto,1,13%
+5,2021-10-23,La Paz,Gral. J.J. Perez (Charazani),1,16%
+6,2021-10-23,La Paz,Sorata,1,16%
+7,2021-10-23,La Paz,Curva,1,17%
+8,2021-10-23,La Paz,Humanata,1,18%
+9,2021-10-23,La Paz,Apolo,1,19%
+10,2021-10-23,La Paz,Combaya,1,19%
+11,2021-10-23,La Paz,Santiago De Callapa,1,19%
+12,2021-10-23,La Paz,Catacora,1,20%
+13,2021-10-23,La Paz,Mapiri,1,21%
+14,2021-10-23,La Paz,Pelechuco,1,21%
+15,2021-10-23,La Paz,Sapahaqui,1,21%
+16,2021-10-23,La Paz,La Asunta,1,22%
+17,2021-10-23,La Paz,Puerto Carabuco,1,22%
+18,2021-10-23,La Paz,Sica Sica (Villa Aroma),1,22%
+19,2021-10-23,La Paz,Charaña,1,23%
+20,2021-10-23,La Paz,Mecapaca,1,23%
+21,2021-10-23,La Paz,Chacarilla,1,24%
+22,2021-10-23,La Paz,Mocomoco,1,24%
+23,2021-10-23,La Paz,Ayata,1,25%
+24,2021-10-23,La Paz,Comanche,1,25%
+25,2021-10-23,La Paz,Licoma Pampa,1,25%
+26,2021-10-23,La Paz,Alto Beni,1,26%
+27,2021-10-23,La Paz,Batallas,1,26%
+28,2021-10-23,La Paz,Cairoma,1,26%
+29,2021-10-23,La Paz,Ichoca,1,27%
+30,2021-10-23,La Paz,Malla,1,27%
+31,2021-10-23,La Paz,Pucarani,1,27%
+32,2021-10-23,La Paz,Chulumani (V. De La Libertad),1,28%
+33,2021-10-23,La Paz,Chuma,1,28%
+34,2021-10-23,La Paz,Guanay,1,28%
+35,2021-10-23,La Paz,Inquisivi,1,28%
+36,2021-10-23,La Paz,Santiago De Huata,1,28%
+37,2021-10-23,La Paz,Tacacoma,1,28%
+38,2021-10-23,La Paz,Teoponte,1,28%
+39,2021-10-23,La Paz,Colquencha,1,29%
+40,2021-10-23,La Paz,Ixiamas,1,29%
+41,2021-10-23,La Paz,Jesus De Machaca,1,29%
+42,2021-10-23,La Paz,San Andres De Machaca,1,29%
+43,2021-10-23,La Paz,San Pedro De Curahuara,1,29%
+44,2021-10-23,La Paz,Waldo Ballivian,1,29%
+45,2021-10-23,La Paz,Caranavi,1,30%
+46,2021-10-23,La Paz,Copacabana,1,30%
+47,2021-10-23,La Paz,Taraco,1,30%
+48,2021-10-23,La Paz,Coro Coro,1,31%
+49,2021-10-23,La Paz,Quiabaya,1,31%
+50,2021-10-23,La Paz,Santiago De Machaca,1,31%
+51,2021-10-23,La Paz,Tiawanacu,1,31%
+52,2021-10-23,La Paz,Coripata,1,32%
+53,2021-10-23,La Paz,Palos Blancos,1,32%
+54,2021-10-23,La Paz,Patacamaya,1,32%
+55,2021-10-23,La Paz,Ayo Ayo,1,33%
+56,2021-10-23,La Paz,Coroico,1,33%
+57,2021-10-23,La Paz,Irupana (Villa De Lanza),1,33%
+58,2021-10-23,La Paz,Puerto Perez,1,33%
+59,2021-10-23,La Paz,Achacachi,1,34%
+60,2021-10-23,La Paz,Cajuata,1,35%
+61,2021-10-23,La Paz,Chua Cocani,1,35%
+62,2021-10-23,La Paz,Huarina ,1,35%
+63,2021-10-23,La Paz,Papel Pampa,1,35%
+64,2021-10-23,La Paz,Luribay,1,36%
+65,2021-10-23,La Paz,Tipuani,1,37%
+66,2021-10-23,La Paz,Calamarca,1,38%
+67,2021-10-23,La Paz,Laja,1,38%
+68,2021-10-23,La Paz,Palca,1,38%
+69,2021-10-23,La Paz,Colquiri,1,39%
+70,2021-10-23,La Paz,Escoma,1,39%
+71,2021-10-23,La Paz,Huatajata,1,39%
+72,2021-10-23,La Paz,Yaco,1,39%
+73,2021-10-23,La Paz,Desaguadero,1,40%
+74,2021-10-23,La Paz,Yanacachi,1,40%
+75,2021-10-23,La Paz,Umala,1,41%
+76,2021-10-23,La Paz,Collana,1,42%
+77,2021-10-23,La Paz,Guaqui,1,42%
+78,2021-10-23,La Paz,San Buena Ventura,1,42%
+79,2021-10-23,La Paz,Puerto Acosta,1,43%
+80,2021-10-23,La Paz,San Pedro De Tiquina,1,43%
+81,2021-10-23,La Paz,Nazacara De Pacajes,1,44%
+82,2021-10-23,La Paz,Quime,1,44%
+83,2021-10-23,La Paz,Viacha,1,50%
+84,2021-10-23,La Paz,El Alto,1,51%
+85,2021-10-23,La Paz,Achocalla,1,68%
+86,2021-10-23,La Paz,La Paz,1,102%
+0,2021-10-23,Oruro,Cruz De Machacamarca,1,6%
+1,2021-10-23,Oruro,Escara,1,9%
+2,2021-10-23,Oruro,El Choro,1,17%
+3,2021-10-23,Oruro,Todos Santos,1,17%
+4,2021-10-23,Oruro,Esmeralda,1,19%
+5,2021-10-23,Oruro,Carangas,1,22%
+6,2021-10-23,Oruro,Chipaya,1,22%
+7,2021-10-23,Oruro,Santiago De Huari,1,25%
+8,2021-10-23,Oruro,Toledo,1,27%
+9,2021-10-23,Oruro,Salinas De Garci Mendoza,1,28%
+10,2021-10-23,Oruro,La Rivera,1,31%
+11,2021-10-23,Oruro,Corque,1,39%
+12,2021-10-23,Oruro,Santuario De Quillacas,1,39%
+13,2021-10-23,Oruro,Sabaya,1,40%
+14,2021-10-23,Oruro,Andamarca,1,41%
+15,2021-10-23,Oruro,Belen De Andamarca,1,42%
+16,2021-10-23,Oruro,Coipasa,1,42%
+17,2021-10-23,Oruro,Challapata,1,44%
+18,2021-10-23,Oruro,Turco,1,45%
+19,2021-10-23,Oruro,Yunguyo De Litoral,1,45%
+20,2021-10-23,Oruro,Choque Cota,1,47%
+21,2021-10-23,Oruro,Poopo,1,47%
+22,2021-10-23,Oruro,Caracollo,1,48%
+23,2021-10-23,Oruro,Pampa Aullagas,1,50%
+24,2021-10-23,Oruro,Pazña,1,51%
+25,2021-10-23,Oruro,Eucaliptus,1,52%
+26,2021-10-23,Oruro,Totora(Orr),1,52%
+27,2021-10-23,Oruro,Soracachi,1,54%
+28,2021-10-23,Oruro,Huayllamarca,1,59%
+29,2021-10-23,Oruro,Huanuni,1,61%
+30,2021-10-23,Oruro,Machacamarca,1,63%
+31,2021-10-23,Oruro,Curahuara De Carangas,1,66%
+32,2021-10-23,Oruro,Oruro,1,78%
+33,2021-10-23,Oruro,Antequera,1,83%
+34,2021-10-23,Oruro,Huachacalla,1,98%
+0,2021-10-23,Potosí,San Pedro De Buena Vista,1,12%
+1,2021-10-23,Potosí,Tinguipaya,1,14%
+2,2021-10-23,Potosí,Chuquihuta Ayllu Jucumani,1,18%
+3,2021-10-23,Potosí,Colquechaca,1,19%
+4,2021-10-23,Potosí,Acacio,1,20%
+5,2021-10-23,Potosí,Belen De Urmiri,1,21%
+6,2021-10-23,Potosí,Pocoata,1,22%
+7,2021-10-23,Potosí,Ravelo,1,23%
+8,2021-10-23,Potosí,Toro Toro,1,23%
+9,2021-10-23,Potosí,Mojinete,1,24%
+10,2021-10-23,Potosí,San Antonio De Esmoruco,1,27%
+11,2021-10-23,Potosí,Chayanta,1,28%
+12,2021-10-23,Potosí,Ckochas,1,28%
+13,2021-10-23,Potosí,Ocuri,1,29%
+14,2021-10-23,Potosí,Puna,1,30%
+15,2021-10-23,Potosí,Tacobamba,1,30%
+16,2021-10-23,Potosí,Porco,1,31%
+17,2021-10-23,Potosí,Llica,1,34%
+18,2021-10-23,Potosí,Sacaca,1,34%
+19,2021-10-23,Potosí,Tomave,1,34%
+20,2021-10-23,Potosí,Arampampa,1,35%
+21,2021-10-23,Potosí,Uncia,1,35%
+22,2021-10-23,Potosí,S.P.De Quemes,1,36%
+23,2021-10-23,Potosí,Yocalla,1,36%
+24,2021-10-23,Potosí,San P. De Lipez,1,37%
+25,2021-10-23,Potosí,Betanzos,1,38%
+26,2021-10-23,Potosí,Chaqui,1,38%
+27,2021-10-23,Potosí,Cotagaita,1,38%
+28,2021-10-23,Potosí,"Caiza ""D""",1,44%
+29,2021-10-23,Potosí,Vitichi,1,48%
+30,2021-10-23,Potosí,Caripuyo,1,49%
+31,2021-10-23,Potosí,Llallagua,1,55%
+32,2021-10-23,Potosí,Tahua,1,57%
+33,2021-10-23,Potosí,Villazon,1,66%
+34,2021-10-23,Potosí,Uyuni,1,68%
+35,2021-10-23,Potosí,"Colcha ""K""",1,69%
+36,2021-10-23,Potosí,San Agustin,1,74%
+37,2021-10-23,Potosí,Potosí,1,78%
+38,2021-10-23,Potosí,Tupiza,1,85%
+39,2021-10-23,Potosí,Atocha,1,90%
+0,2021-10-23,Cochabamba,Tiraque (Cbba),1,18%
+1,2021-10-23,Cochabamba,Tacopaya,1,26%
+2,2021-10-23,Cochabamba,Vacas,1,26%
+3,2021-10-23,Cochabamba,Bolivar,1,28%
+4,2021-10-23,Cochabamba,Pojo (Cbba),1,30%
+5,2021-10-23,Cochabamba,Cocapata,1,36%
+6,2021-10-23,Cochabamba,Colomi,1,36%
+7,2021-10-23,Cochabamba,Vinto,1,37%
+8,2021-10-23,Cochabamba,Pasorapa,1,38%
+9,2021-10-23,Cochabamba,Mizque,1,39%
+10,2021-10-23,Cochabamba,Morochata,1,39%
+11,2021-10-23,Cochabamba,Sacaba,1,39%
+12,2021-10-23,Cochabamba,Sipe Sipe,1,39%
+13,2021-10-23,Cochabamba,Ayopaya (V. De Independencia),1,40%
+14,2021-10-23,Cochabamba,Sicaya,1,40%
+15,2021-10-23,Cochabamba,Totora(Cbba),1,41%
+16,2021-10-23,Cochabamba,Vila Vila,1,41%
+17,2021-10-23,Cochabamba,Colcapirhua,1,43%
+18,2021-10-23,Cochabamba,Puerto Villarroel,1,43%
+19,2021-10-23,Cochabamba,Tiquipaya,1,43%
+20,2021-10-23,Cochabamba,Entre Rios,1,44%
+21,2021-10-23,Cochabamba,Tapacari,1,45%
+22,2021-10-23,Cochabamba,San Benito,1,47%
+23,2021-10-23,Cochabamba,Shinaota,1,47%
+24,2021-10-23,Cochabamba,Villa Tunari,1,47%
+25,2021-10-23,Cochabamba,Villa Rivero,1,48%
+26,2021-10-23,Cochabamba,Arani,1,49%
+27,2021-10-23,Cochabamba,Chimore,1,49%
+28,2021-10-23,Cochabamba,Sacabamba,1,51%
+29,2021-10-23,Cochabamba,Toco,1,53%
+30,2021-10-23,Cochabamba,Capinota,1,54%
+31,2021-10-23,Cochabamba,Alalay,1,56%
+32,2021-10-23,Cochabamba,Quillacollo,1,56%
+33,2021-10-23,Cochabamba,Arque,1,57%
+34,2021-10-23,Cochabamba,Pocona,1,60%
+35,2021-10-23,Cochabamba,Aiquile,1,66%
+36,2021-10-23,Cochabamba,Tacachi,1,69%
+37,2021-10-23,Cochabamba,Cliza,1,72%
+38,2021-10-23,Cochabamba,Punata,1,73%
+39,2021-10-23,Cochabamba,Arbieto,1,76%
+40,2021-10-23,Cochabamba,Anzaldo,1,79%
+41,2021-10-23,Cochabamba,Omereque,1,79%
+42,2021-10-23,Cochabamba,Tolata,1,90%
+43,2021-10-23,Cochabamba,Tarata,1,91%
+44,2021-10-23,Cochabamba,Cochabamba,1,96%
+45,2021-10-23,Cochabamba,Cuchumuela (V. G. Villarroel),1,98%
+46,2021-10-23,Cochabamba,Santivañes,1,130%
+0,2021-10-23,Chuquisaca,Presto,1,16%
+1,2021-10-23,Chuquisaca,Tarabuco,1,19%
+2,2021-10-23,Chuquisaca,Incahuasi,1,20%
+3,2021-10-23,Chuquisaca,Poroma,1,20%
+4,2021-10-23,Chuquisaca,Tarvita,1,20%
+5,2021-10-23,Chuquisaca,Villa Charcas,1,21%
+6,2021-10-23,Chuquisaca,Yamparaez,1,25%
+7,2021-10-23,Chuquisaca,Sopachuy,1,26%
+8,2021-10-23,Chuquisaca,Zudañez,1,28%
+9,2021-10-23,Chuquisaca,Mojocoya,1,35%
+10,2021-10-23,Chuquisaca,Azurduy,1,37%
+11,2021-10-23,Chuquisaca,San Lucas,1,38%
+12,2021-10-23,Chuquisaca,Icla,1,39%
+13,2021-10-23,Chuquisaca,Culpina,1,41%
+14,2021-10-23,Chuquisaca,Tomina,1,47%
+15,2021-10-23,Chuquisaca,Yotala,1,49%
+16,2021-10-23,Chuquisaca,Las Carreras,1,50%
+17,2021-10-23,Chuquisaca,Alcala,1,52%
+18,2021-10-23,Chuquisaca,Camataqui (C. Villa Abecia),1,52%
+19,2021-10-23,Chuquisaca,El Villar,1,64%
+20,2021-10-23,Chuquisaca,Huacaya (Villa De Huacaya),1,64%
+21,2021-10-23,Chuquisaca,Camargo,1,69%
+22,2021-10-23,Chuquisaca,Machareti,1,71%
+23,2021-10-23,Chuquisaca,Villa Serrano,1,74%
+24,2021-10-23,Chuquisaca,Villa Vaca Guzman (Muyupampa),1,76%
+25,2021-10-23,Chuquisaca,Huacareta,1,83%
+26,2021-10-23,Chuquisaca,Padilla,1,84%
+27,2021-10-23,Chuquisaca,Sucre,1,85%
+28,2021-10-23,Chuquisaca,Monteagudo,1,87%
+0,2021-10-23,Tarija,Yunchara,1,49%
+1,2021-10-23,Tarija,El Puente(Tja),1,64%
+2,2021-10-23,Tarija,Bermejo,1,67%
+3,2021-10-23,Tarija,Entre Rios,1,67%
+4,2021-10-23,Tarija,Padcaya,1,67%
+5,2021-10-23,Tarija,Yacuiba,1,67%
+6,2021-10-23,Tarija,Carapari,1,70%
+7,2021-10-23,Tarija,Uriondo (A. Concepcion),1,71%
+8,2021-10-23,Tarija,San Lorenzo(Tja),1,73%
+9,2021-10-23,Tarija,Villa Montes,1,76%
+10,2021-10-23,Tarija,Tarija,1,77%
+0,2021-10-23,Pando,Ingavi (Humaita),1,21%
+1,2021-10-23,Pando,Sena,1,29%
+2,2021-10-23,Pando,San Lorenzo(Pnd),1,32%
+3,2021-10-23,Pando,San Pedro(Pnd),1,35%
+4,2021-10-23,Pando,Bolpebra,1,38%
+5,2021-10-23,Pando,Nuevo Manoa (Nueva Esperanza),1,41%
+6,2021-10-23,Pando,Eureka (Santos Mercado),1,44%
+7,2021-10-23,Pando,Porvenir,1,48%
+8,2021-10-23,Pando,Puerto Gonzalo Moreno,1,48%
+9,2021-10-23,Pando,Filadelfia,1,49%
+10,2021-10-23,Pando,Villa Nueva (Loma Alta),1,51%
+11,2021-10-23,Pando,Nacebe (Santa Rosa Del Abuna),1,61%
+12,2021-10-23,Pando,Bella Flor,1,63%
+13,2021-10-23,Pando,Cobija,1,65%
+14,2021-10-23,Pando,Puerto Rico,1,71%
+0,2021-10-23,Beni,Exaltacion,1,14%
+1,2021-10-23,Beni,Loreto,1,17%
+2,2021-10-23,Beni,San Javier(Bni),1,17%
+3,2021-10-23,Beni,San Borja,1,23%
+4,2021-10-23,Beni,Reyes,1,34%
+5,2021-10-23,Beni,Rurrenabaque,1,35%
+6,2021-10-23,Beni,San Andres,1,38%
+7,2021-10-23,Beni,San Joaquin,1,44%
+8,2021-10-23,Beni,Santa Ana,1,44%
+9,2021-10-23,Beni,Huaracaje,1,46%
+10,2021-10-23,Beni,Magdalena,1,46%
+11,2021-10-23,Beni,San Ignacio,1,51%
+12,2021-10-23,Beni,Trinidad,1,52%
+13,2021-10-23,Beni,Santa Rosa,1,58%
+14,2021-10-23,Beni,Puerto Siles,1,59%
+15,2021-10-23,Beni,San Ramon,1,61%
+16,2021-10-23,Beni,Riberalta,1,70%
+17,2021-10-23,Beni,Guayaramerin,1,72%
+18,2021-10-23,Beni,Baures,1,74%
+0,2021-10-23,Santa Cruz,Yapacani,1,23%
+1,2021-10-23,Santa Cruz,Pailon,1,29%
+2,2021-10-23,Santa Cruz,San Julian,1,30%
+3,2021-10-23,Santa Cruz,San Jose De Chiquitos,1,31%
+4,2021-10-23,Santa Cruz,El Puente(Stc),1,32%
+5,2021-10-23,Santa Cruz,La Guardia,1,35%
+6,2021-10-23,Santa Cruz,Santa Rosa Del Sara,1,35%
+7,2021-10-23,Santa Cruz,Charagua,1,36%
+8,2021-10-23,Santa Cruz,Ascencion De Guarayos,1,37%
+9,2021-10-23,Santa Cruz,Cuatro Cañadas,1,37%
+10,2021-10-23,Santa Cruz,Warnes,1,39%
+11,2021-10-23,Santa Cruz,Saipina,1,42%
+12,2021-10-23,Santa Cruz,Fernandez Alonso,1,43%
+13,2021-10-23,Santa Cruz,Urubicha,1,44%
+14,2021-10-23,Santa Cruz,San Carlos,1,47%
+15,2021-10-23,Santa Cruz,San Pedro,1,47%
+16,2021-10-23,Santa Cruz,Pampa Grande,1,51%
+17,2021-10-23,Santa Cruz,Cabezas,1,54%
+18,2021-10-23,Santa Cruz,San Juan De Yapacani,1,54%
+19,2021-10-23,Santa Cruz,San Antonio De Lomerio,1,55%
+20,2021-10-23,Santa Cruz,Mairana,1,56%
+21,2021-10-23,Santa Cruz,Mineros,1,58%
+22,2021-10-23,Santa Cruz,Quirusillas,1,58%
+23,2021-10-23,Santa Cruz,Gutierrez,1,61%
+24,2021-10-23,Santa Cruz,Comarapa,1,63%
+25,2021-10-23,Santa Cruz,Postrer Valle,1,63%
+26,2021-10-23,Santa Cruz,San Javier(Stc),1,64%
+27,2021-10-23,Santa Cruz,Trigal,1,66%
+28,2021-10-23,Santa Cruz,Buena Vista,1,67%
+29,2021-10-23,Santa Cruz,El Torno,1,67%
+30,2021-10-23,Santa Cruz,Montero,1,67%
+31,2021-10-23,Santa Cruz,Cuevo,1,69%
+32,2021-10-23,Santa Cruz,San Rafael,1,69%
+33,2021-10-23,Santa Cruz,Carmen Rivero Torrez,1,70%
+34,2021-10-23,Santa Cruz,Puerto Suarez,1,71%
+35,2021-10-23,Santa Cruz,Concepcion,1,72%
+36,2021-10-23,Santa Cruz,Boyuibe,1,73%
+37,2021-10-23,Santa Cruz,Porongo,1,73%
+38,2021-10-23,Santa Cruz,San Ignacio De Velasco,1,74%
+39,2021-10-23,Santa Cruz,San Ramon,1,74%
+40,2021-10-23,Santa Cruz,Samaipata,1,75%
+41,2021-10-23,Santa Cruz,San Miguel De Velasco,1,75%
+42,2021-10-23,Santa Cruz,Okinawa,1,77%
+43,2021-10-23,Santa Cruz,Santa Cruz de la Sierra,1,78%
+44,2021-10-23,Santa Cruz,Pucara,1,79%
+45,2021-10-23,Santa Cruz,Portachuelo,1,80%
+46,2021-10-23,Santa Cruz,Puerto Quijarro,1,84%
+47,2021-10-23,Santa Cruz,Moro Moro,1,85%
+48,2021-10-23,Santa Cruz,San Matias,1,85%
+49,2021-10-23,Santa Cruz,Vallegrande,1,85%
+50,2021-10-23,Santa Cruz,General Saavedra,1,86%
+51,2021-10-23,Santa Cruz,Lagunillas,1,87%
+52,2021-10-23,Santa Cruz,Robore,1,87%
+53,2021-10-23,Santa Cruz,Colpa Belgica,1,93%
+54,2021-10-23,Santa Cruz,Cotoca,1,93%
+55,2021-10-23,Santa Cruz,Camiri,1,95%
+0,2021-10-23,La Paz,Aucapata,2,9%
+1,2021-10-23,La Paz,Caquiaviri,2,9%
+2,2021-10-23,La Paz,Ancoraimes,2,10%
+3,2021-10-23,La Paz,Tito Yupanqui (Parquipujio),2,11%
+4,2021-10-23,La Paz,Calacoto,2,12%
+5,2021-10-23,La Paz,Gral. J.J. Perez (Charazani),2,14%
+6,2021-10-23,La Paz,Humanata,2,14%
+7,2021-10-23,La Paz,Apolo,2,15%
+8,2021-10-23,La Paz,Curva,2,15%
+9,2021-10-23,La Paz,Sorata,2,15%
+10,2021-10-23,La Paz,Combaya,2,16%
+11,2021-10-23,La Paz,Santiago De Callapa,2,16%
+12,2021-10-23,La Paz,Mapiri,2,18%
+13,2021-10-23,La Paz,Pelechuco,2,18%
+14,2021-10-23,La Paz,Catacora,2,19%
+15,2021-10-23,La Paz,Sapahaqui,2,19%
+16,2021-10-23,La Paz,Charaña,2,20%
+17,2021-10-23,La Paz,Sica Sica (Villa Aroma),2,20%
+18,2021-10-23,La Paz,La Asunta,2,21%
+19,2021-10-23,La Paz,Puerto Carabuco,2,21%
+20,2021-10-23,La Paz,Licoma Pampa,2,22%
+21,2021-10-23,La Paz,Mecapaca,2,22%
+22,2021-10-23,La Paz,Ayata,2,23%
+23,2021-10-23,La Paz,Batallas,2,23%
+24,2021-10-23,La Paz,Comanche,2,23%
+25,2021-10-23,La Paz,Mocomoco,2,23%
+26,2021-10-23,La Paz,Cairoma,2,24%
+27,2021-10-23,La Paz,Chacarilla,2,24%
+28,2021-10-23,La Paz,Chuma,2,24%
+29,2021-10-23,La Paz,Pucarani,2,24%
+30,2021-10-23,La Paz,Teoponte,2,24%
+31,2021-10-23,La Paz,Alto Beni,2,25%
+32,2021-10-23,La Paz,Chulumani (V. De La Libertad),2,26%
+33,2021-10-23,La Paz,Colquencha,2,26%
+34,2021-10-23,La Paz,Ichoca,2,26%
+35,2021-10-23,La Paz,Malla,2,26%
+36,2021-10-23,La Paz,San Andres De Machaca,2,26%
+37,2021-10-23,La Paz,Santiago De Huata,2,26%
+38,2021-10-23,La Paz,Copacabana,2,27%
+39,2021-10-23,La Paz,Guanay,2,27%
+40,2021-10-23,La Paz,Inquisivi,2,27%
+41,2021-10-23,La Paz,Ixiamas,2,27%
+42,2021-10-23,La Paz,Tacacoma,2,27%
+43,2021-10-23,La Paz,Taraco,2,27%
+44,2021-10-23,La Paz,Waldo Ballivian,2,27%
+45,2021-10-23,La Paz,Caranavi,2,28%
+46,2021-10-23,La Paz,Coro Coro,2,28%
+47,2021-10-23,La Paz,Jesus De Machaca,2,28%
+48,2021-10-23,La Paz,San Pedro De Curahuara,2,29%
+49,2021-10-23,La Paz,Santiago De Machaca,2,29%
+50,2021-10-23,La Paz,Tiawanacu,2,29%
+51,2021-10-23,La Paz,Coripata,2,30%
+52,2021-10-23,La Paz,Palos Blancos,2,30%
+53,2021-10-23,La Paz,Patacamaya,2,30%
+54,2021-10-23,La Paz,Puerto Perez,2,30%
+55,2021-10-23,La Paz,Ayo Ayo,2,31%
+56,2021-10-23,La Paz,Coroico,2,31%
+57,2021-10-23,La Paz,Irupana (Villa De Lanza),2,31%
+58,2021-10-23,La Paz,Papel Pampa,2,31%
+59,2021-10-23,La Paz,Quiabaya,2,31%
+60,2021-10-23,La Paz,Achacachi,2,32%
+61,2021-10-23,La Paz,Huarina ,2,33%
+62,2021-10-23,La Paz,Cajuata,2,34%
+63,2021-10-23,La Paz,Chua Cocani,2,34%
+64,2021-10-23,La Paz,Luribay,2,34%
+65,2021-10-23,La Paz,Colquiri,2,35%
+66,2021-10-23,La Paz,Palca,2,35%
+67,2021-10-23,La Paz,Yaco,2,35%
+68,2021-10-23,La Paz,El Alto,2,36%
+69,2021-10-23,La Paz,Escoma,2,36%
+70,2021-10-23,La Paz,Tipuani,2,36%
+71,2021-10-23,La Paz,Calamarca,2,37%
+72,2021-10-23,La Paz,Huatajata,2,37%
+73,2021-10-23,La Paz,Laja,2,37%
+74,2021-10-23,La Paz,Yanacachi,2,37%
+75,2021-10-23,La Paz,Desaguadero,2,38%
+76,2021-10-23,La Paz,Umala,2,38%
+77,2021-10-23,La Paz,Guaqui,2,39%
+78,2021-10-23,La Paz,Nazacara De Pacajes,2,39%
+79,2021-10-23,La Paz,San Pedro De Tiquina,2,39%
+80,2021-10-23,La Paz,Collana,2,40%
+81,2021-10-23,La Paz,Puerto Acosta,2,40%
+82,2021-10-23,La Paz,San Buena Ventura,2,40%
+83,2021-10-23,La Paz,Quime,2,42%
+84,2021-10-23,La Paz,Viacha,2,47%
+85,2021-10-23,La Paz,Achocalla,2,63%
+86,2021-10-23,La Paz,La Paz,2,89%
+0,2021-10-23,Oruro,Cruz De Machacamarca,2,6%
+1,2021-10-23,Oruro,Escara,2,9%
+2,2021-10-23,Oruro,El Choro,2,16%
+3,2021-10-23,Oruro,Todos Santos,2,16%
+4,2021-10-23,Oruro,Chipaya,2,17%
+5,2021-10-23,Oruro,Esmeralda,2,18%
+6,2021-10-23,Oruro,Carangas,2,22%
+7,2021-10-23,Oruro,Santiago De Huari,2,23%
+8,2021-10-23,Oruro,Salinas De Garci Mendoza,2,25%
+9,2021-10-23,Oruro,Toledo,2,25%
+10,2021-10-23,Oruro,La Rivera,2,30%
+11,2021-10-23,Oruro,Corque,2,37%
+12,2021-10-23,Oruro,Santuario De Quillacas,2,38%
+13,2021-10-23,Oruro,Andamarca,2,39%
+14,2021-10-23,Oruro,Coipasa,2,39%
+15,2021-10-23,Oruro,Sabaya,2,39%
+16,2021-10-23,Oruro,Challapata,2,41%
+17,2021-10-23,Oruro,Choque Cota,2,41%
+18,2021-10-23,Oruro,Belen De Andamarca,2,42%
+19,2021-10-23,Oruro,Turco,2,43%
+20,2021-10-23,Oruro,Yunguyo De Litoral,2,44%
+21,2021-10-23,Oruro,Pampa Aullagas,2,45%
+22,2021-10-23,Oruro,Poopo,2,45%
+23,2021-10-23,Oruro,Caracollo,2,46%
+24,2021-10-23,Oruro,Eucaliptus,2,46%
+25,2021-10-23,Oruro,Pazña,2,47%
+26,2021-10-23,Oruro,Totora(Orr),2,48%
+27,2021-10-23,Oruro,Soracachi,2,50%
+28,2021-10-23,Oruro,Huanuni,2,58%
+29,2021-10-23,Oruro,Huayllamarca,2,58%
+30,2021-10-23,Oruro,Curahuara De Carangas,2,61%
+31,2021-10-23,Oruro,Machacamarca,2,61%
+32,2021-10-23,Oruro,Oruro,2,63%
+33,2021-10-23,Oruro,Antequera,2,80%
+34,2021-10-23,Oruro,Huachacalla,2,95%
+0,2021-10-23,Potosí,San Pedro De Buena Vista,2,8%
+1,2021-10-23,Potosí,Tinguipaya,2,11%
+2,2021-10-23,Potosí,Acacio,2,12%
+3,2021-10-23,Potosí,Colquechaca,2,13%
+4,2021-10-23,Potosí,Chuquihuta Ayllu Jucumani,2,15%
+5,2021-10-23,Potosí,Belen De Urmiri,2,16%
+6,2021-10-23,Potosí,Toro Toro,2,16%
+7,2021-10-23,Potosí,Pocoata,2,18%
+8,2021-10-23,Potosí,Ravelo,2,18%
+9,2021-10-23,Potosí,San Antonio De Esmoruco,2,20%
+10,2021-10-23,Potosí,Ckochas,2,22%
+11,2021-10-23,Potosí,Mojinete,2,22%
+12,2021-10-23,Potosí,Chayanta,2,23%
+13,2021-10-23,Potosí,Porco,2,23%
+14,2021-10-23,Potosí,Ocuri,2,24%
+15,2021-10-23,Potosí,Puna,2,25%
+16,2021-10-23,Potosí,Tacobamba,2,25%
+17,2021-10-23,Potosí,Chaqui,2,26%
+18,2021-10-23,Potosí,S.P.De Quemes,2,26%
+19,2021-10-23,Potosí,Yocalla,2,28%
+20,2021-10-23,Potosí,Llica,2,29%
+21,2021-10-23,Potosí,Sacaca,2,29%
+22,2021-10-23,Potosí,Tomave,2,30%
+23,2021-10-23,Potosí,San P. De Lipez,2,31%
+24,2021-10-23,Potosí,Uncia,2,31%
+25,2021-10-23,Potosí,Betanzos,2,32%
+26,2021-10-23,Potosí,Arampampa,2,33%
+27,2021-10-23,Potosí,Cotagaita,2,34%
+28,2021-10-23,Potosí,Caripuyo,2,36%
+29,2021-10-23,Potosí,"Caiza ""D""",2,37%
+30,2021-10-23,Potosí,Vitichi,2,40%
+31,2021-10-23,Potosí,Llallagua,2,48%
+32,2021-10-23,Potosí,Tahua,2,49%
+33,2021-10-23,Potosí,Villazon,2,54%
+34,2021-10-23,Potosí,Uyuni,2,61%
+35,2021-10-23,Potosí,Potosí,2,62%
+36,2021-10-23,Potosí,"Colcha ""K""",2,65%
+37,2021-10-23,Potosí,San Agustin,2,72%
+38,2021-10-23,Potosí,Tupiza,2,79%
+39,2021-10-23,Potosí,Atocha,2,85%
+0,2021-10-23,Cochabamba,Tiraque (Cbba),2,17%
+1,2021-10-23,Cochabamba,Tacopaya,2,22%
+2,2021-10-23,Cochabamba,Vacas,2,22%
+3,2021-10-23,Cochabamba,Bolivar,2,25%
+4,2021-10-23,Cochabamba,Pojo (Cbba),2,25%
+5,2021-10-23,Cochabamba,Vinto,2,29%
+6,2021-10-23,Cochabamba,Colomi,2,31%
+7,2021-10-23,Cochabamba,Sipe Sipe,2,32%
+8,2021-10-23,Cochabamba,Tiquipaya,2,34%
+9,2021-10-23,Cochabamba,Cocapata,2,35%
+10,2021-10-23,Cochabamba,Sacaba,2,35%
+11,2021-10-23,Cochabamba,Sicaya,2,35%
+12,2021-10-23,Cochabamba,Ayopaya (V. De Independencia),2,36%
+13,2021-10-23,Cochabamba,Colcapirhua,2,36%
+14,2021-10-23,Cochabamba,Mizque,2,36%
+15,2021-10-23,Cochabamba,Morochata,2,37%
+16,2021-10-23,Cochabamba,Pasorapa,2,37%
+17,2021-10-23,Cochabamba,Puerto Villarroel,2,37%
+18,2021-10-23,Cochabamba,Totora(Cbba),2,38%
+19,2021-10-23,Cochabamba,Tapacari,2,39%
+20,2021-10-23,Cochabamba,Vila Vila,2,39%
+21,2021-10-23,Cochabamba,Villa Tunari,2,39%
+22,2021-10-23,Cochabamba,Entre Rios,2,41%
+23,2021-10-23,Cochabamba,Shinaota,2,41%
+24,2021-10-23,Cochabamba,Arani,2,43%
+25,2021-10-23,Cochabamba,Sacabamba,2,43%
+26,2021-10-23,Cochabamba,San Benito,2,44%
+27,2021-10-23,Cochabamba,Villa Rivero,2,44%
+28,2021-10-23,Cochabamba,Chimore,2,45%
+29,2021-10-23,Cochabamba,Capinota,2,47%
+30,2021-10-23,Cochabamba,Toco,2,47%
+31,2021-10-23,Cochabamba,Alalay,2,50%
+32,2021-10-23,Cochabamba,Pocona,2,50%
+33,2021-10-23,Cochabamba,Quillacollo,2,50%
+34,2021-10-23,Cochabamba,Arque,2,52%
+35,2021-10-23,Cochabamba,Arbieto,2,62%
+36,2021-10-23,Cochabamba,Aiquile,2,64%
+37,2021-10-23,Cochabamba,Tacachi,2,64%
+38,2021-10-23,Cochabamba,Cliza,2,66%
+39,2021-10-23,Cochabamba,Anzaldo,2,68%
+40,2021-10-23,Cochabamba,Punata,2,68%
+41,2021-10-23,Cochabamba,Omereque,2,78%
+42,2021-10-23,Cochabamba,Cochabamba,2,82%
+43,2021-10-23,Cochabamba,Tolata,2,82%
+44,2021-10-23,Cochabamba,Tarata,2,83%
+45,2021-10-23,Cochabamba,Cuchumuela (V. G. Villarroel),2,90%
+46,2021-10-23,Cochabamba,Santivañes,2,122%
+0,2021-10-23,Chuquisaca,Poroma,2,13%
+1,2021-10-23,Chuquisaca,Presto,2,13%
+2,2021-10-23,Chuquisaca,Incahuasi,2,15%
+3,2021-10-23,Chuquisaca,Tarvita,2,17%
+4,2021-10-23,Chuquisaca,Villa Charcas,2,17%
+5,2021-10-23,Chuquisaca,Tarabuco,2,18%
+6,2021-10-23,Chuquisaca,Yamparaez,2,18%
+7,2021-10-23,Chuquisaca,Sopachuy,2,22%
+8,2021-10-23,Chuquisaca,Zudañez,2,26%
+9,2021-10-23,Chuquisaca,Icla,2,28%
+10,2021-10-23,Chuquisaca,Azurduy,2,30%
+11,2021-10-23,Chuquisaca,Mojocoya,2,30%
+12,2021-10-23,Chuquisaca,San Lucas,2,35%
+13,2021-10-23,Chuquisaca,Culpina,2,36%
+14,2021-10-23,Chuquisaca,Las Carreras,2,45%
+15,2021-10-23,Chuquisaca,Tomina,2,45%
+16,2021-10-23,Chuquisaca,Yotala,2,46%
+17,2021-10-23,Chuquisaca,Camataqui (C. Villa Abecia),2,50%
+18,2021-10-23,Chuquisaca,Alcala,2,51%
+19,2021-10-23,Chuquisaca,El Villar,2,57%
+20,2021-10-23,Chuquisaca,Huacaya (Villa De Huacaya),2,60%
+21,2021-10-23,Chuquisaca,Camargo,2,66%
+22,2021-10-23,Chuquisaca,Machareti,2,68%
+23,2021-10-23,Chuquisaca,Villa Vaca Guzman (Muyupampa),2,69%
+24,2021-10-23,Chuquisaca,Sucre,2,70%
+25,2021-10-23,Chuquisaca,Villa Serrano,2,71%
+26,2021-10-23,Chuquisaca,Huacareta,2,76%
+27,2021-10-23,Chuquisaca,Monteagudo,2,82%
+28,2021-10-23,Chuquisaca,Padilla,2,82%
+0,2021-10-23,Tarija,Yunchara,2,44%
+1,2021-10-23,Tarija,El Puente(Tja),2,53%
+2,2021-10-23,Tarija,Entre Rios,2,57%
+3,2021-10-23,Tarija,Yacuiba,2,58%
+4,2021-10-23,Tarija,Bermejo,2,60%
+5,2021-10-23,Tarija,Padcaya,2,61%
+6,2021-10-23,Tarija,Carapari,2,62%
+7,2021-10-23,Tarija,Uriondo (A. Concepcion),2,62%
+8,2021-10-23,Tarija,San Lorenzo(Tja),2,63%
+9,2021-10-23,Tarija,Tarija,2,66%
+10,2021-10-23,Tarija,Villa Montes,2,67%
+0,2021-10-23,Pando,Ingavi (Humaita),2,7%
+1,2021-10-23,Pando,Sena,2,15%
+2,2021-10-23,Pando,San Lorenzo(Pnd),2,16%
+3,2021-10-23,Pando,Bolpebra,2,26%
+4,2021-10-23,Pando,Eureka (Santos Mercado),2,27%
+5,2021-10-23,Pando,Nuevo Manoa (Nueva Esperanza),2,27%
+6,2021-10-23,Pando,San Pedro(Pnd),2,28%
+7,2021-10-23,Pando,Filadelfia,2,31%
+8,2021-10-23,Pando,Porvenir,2,33%
+9,2021-10-23,Pando,Villa Nueva (Loma Alta),2,33%
+10,2021-10-23,Pando,Puerto Gonzalo Moreno,2,37%
+11,2021-10-23,Pando,Nacebe (Santa Rosa Del Abuna),2,46%
+12,2021-10-23,Pando,Cobija,2,47%
+13,2021-10-23,Pando,Bella Flor,2,51%
+14,2021-10-23,Pando,Puerto Rico,2,56%
+0,2021-10-23,Beni,Exaltacion,2,13%
+1,2021-10-23,Beni,Loreto,2,13%
+2,2021-10-23,Beni,San Javier(Bni),2,15%
+3,2021-10-23,Beni,San Borja,2,20%
+4,2021-10-23,Beni,Reyes,2,28%
+5,2021-10-23,Beni,Rurrenabaque,2,29%
+6,2021-10-23,Beni,San Andres,2,32%
+7,2021-10-23,Beni,San Joaquin,2,35%
+8,2021-10-23,Beni,Trinidad,2,36%
+9,2021-10-23,Beni,Santa Ana,2,39%
+10,2021-10-23,Beni,Magdalena,2,40%
+11,2021-10-23,Beni,Huaracaje,2,43%
+12,2021-10-23,Beni,San Ignacio,2,45%
+13,2021-10-23,Beni,Puerto Siles,2,47%
+14,2021-10-23,Beni,Riberalta,2,50%
+15,2021-10-23,Beni,Santa Rosa,2,50%
+16,2021-10-23,Beni,San Ramon,2,52%
+17,2021-10-23,Beni,Guayaramerin,2,53%
+18,2021-10-23,Beni,Baures,2,70%
+0,2021-10-23,Santa Cruz,Pailon,2,15%
+1,2021-10-23,Santa Cruz,Yapacani,2,21%
+2,2021-10-23,Santa Cruz,San Jose De Chiquitos,2,25%
+3,2021-10-23,Santa Cruz,San Julian,2,27%
+4,2021-10-23,Santa Cruz,El Puente(Stc),2,28%
+5,2021-10-23,Santa Cruz,La Guardia,2,29%
+6,2021-10-23,Santa Cruz,Ascencion De Guarayos,2,31%
+7,2021-10-23,Santa Cruz,Charagua,2,33%
+8,2021-10-23,Santa Cruz,Santa Rosa Del Sara,2,33%
+9,2021-10-23,Santa Cruz,Cuatro Cañadas,2,34%
+10,2021-10-23,Santa Cruz,Urubicha,2,34%
+11,2021-10-23,Santa Cruz,Fernandez Alonso,2,35%
+12,2021-10-23,Santa Cruz,Warnes,2,35%
+13,2021-10-23,Santa Cruz,San Pedro,2,38%
+14,2021-10-23,Santa Cruz,Saipina,2,40%
+15,2021-10-23,Santa Cruz,Pampa Grande,2,41%
+16,2021-10-23,Santa Cruz,San Carlos,2,44%
+17,2021-10-23,Santa Cruz,Mineros,2,47%
+18,2021-10-23,Santa Cruz,Cabezas,2,51%
+19,2021-10-23,Santa Cruz,Montero,2,51%
+20,2021-10-23,Santa Cruz,Postrer Valle,2,51%
+21,2021-10-23,Santa Cruz,San Antonio De Lomerio,2,51%
+22,2021-10-23,Santa Cruz,San Juan De Yapacani,2,51%
+23,2021-10-23,Santa Cruz,Gutierrez,2,53%
+24,2021-10-23,Santa Cruz,Mairana,2,53%
+25,2021-10-23,Santa Cruz,Quirusillas,2,53%
+26,2021-10-23,Santa Cruz,Trigal,2,54%
+27,2021-10-23,Santa Cruz,San Javier(Stc),2,58%
+28,2021-10-23,Santa Cruz,Comarapa,2,59%
+29,2021-10-23,Santa Cruz,San Rafael,2,59%
+30,2021-10-23,Santa Cruz,Buena Vista,2,61%
+31,2021-10-23,Santa Cruz,El Torno,2,61%
+32,2021-10-23,Santa Cruz,Santa Cruz de la Sierra,2,62%
+33,2021-10-23,Santa Cruz,Robore,2,64%
+34,2021-10-23,Santa Cruz,Concepcion,2,65%
+35,2021-10-23,Santa Cruz,Porongo,2,65%
+36,2021-10-23,Santa Cruz,Cuevo,2,66%
+37,2021-10-23,Santa Cruz,San Ignacio De Velasco,2,66%
+38,2021-10-23,Santa Cruz,Carmen Rivero Torrez,2,67%
+39,2021-10-23,Santa Cruz,San Ramon,2,68%
+40,2021-10-23,Santa Cruz,Okinawa,2,69%
+41,2021-10-23,Santa Cruz,Puerto Suarez,2,69%
+42,2021-10-23,Santa Cruz,Cotoca,2,70%
+43,2021-10-23,Santa Cruz,Moro Moro,2,70%
+44,2021-10-23,Santa Cruz,Pucara,2,70%
+45,2021-10-23,Santa Cruz,San Miguel De Velasco,2,70%
+46,2021-10-23,Santa Cruz,Boyuibe,2,71%
+47,2021-10-23,Santa Cruz,General Saavedra,2,74%
+48,2021-10-23,Santa Cruz,Samaipata,2,74%
+49,2021-10-23,Santa Cruz,Vallegrande,2,74%
+50,2021-10-23,Santa Cruz,Portachuelo,2,76%
+51,2021-10-23,Santa Cruz,Puerto Quijarro,2,76%
+52,2021-10-23,Santa Cruz,Lagunillas,2,78%
+53,2021-10-23,Santa Cruz,San Matias,2,84%
+54,2021-10-23,Santa Cruz,Colpa Belgica,2,90%
+55,2021-10-23,Santa Cruz,Camiri,2,91%
+0,2021-10-30,La Paz,Aucapata,1,10%
+1,2021-10-30,La Paz,Caquiaviri,1,11%
+2,2021-10-30,La Paz,Tito Yupanqui (Parquipujio),1,11%
+3,2021-10-30,La Paz,Ancoraimes,1,12%
+4,2021-10-30,La Paz,Calacoto,1,13%
+5,2021-10-30,La Paz,Gral. J.J. Perez (Charazani),1,16%
+6,2021-10-30,La Paz,Curva,1,17%
+7,2021-10-30,La Paz,Sorata,1,17%
+8,2021-10-30,La Paz,Humanata,1,18%
+9,2021-10-30,La Paz,Apolo,1,19%
+10,2021-10-30,La Paz,Combaya,1,19%
+11,2021-10-30,La Paz,Santiago De Callapa,1,20%
+12,2021-10-30,La Paz,Catacora,1,20%
+13,2021-10-30,La Paz,Sapahaqui,1,21%
+14,2021-10-30,La Paz,Pelechuco,1,22%
+15,2021-10-30,La Paz,Mapiri,1,22%
+16,2021-10-30,La Paz,Sica Sica (Villa Aroma),1,22%
+17,2021-10-30,La Paz,Puerto Carabuco,1,23%
+18,2021-10-30,La Paz,La Asunta,1,23%
+19,2021-10-30,La Paz,Charaña,1,23%
+20,2021-10-30,La Paz,Mecapaca,1,23%
+21,2021-10-30,La Paz,Chacarilla,1,24%
+22,2021-10-30,La Paz,Mocomoco,1,24%
+23,2021-10-30,La Paz,Licoma Pampa,1,25%
+24,2021-10-30,La Paz,Ayata,1,25%
+25,2021-10-30,La Paz,Comanche,1,26%
+26,2021-10-30,La Paz,Batallas,1,26%
+27,2021-10-30,La Paz,Alto Beni,1,26%
+28,2021-10-30,La Paz,Cairoma,1,26%
+29,2021-10-30,La Paz,Ichoca,1,27%
+30,2021-10-30,La Paz,Malla,1,27%
+31,2021-10-30,La Paz,Pucarani,1,27%
+32,2021-10-30,La Paz,Santiago De Huata,1,28%
+33,2021-10-30,La Paz,Chuma,1,28%
+34,2021-10-30,La Paz,Inquisivi,1,29%
+35,2021-10-30,La Paz,Teoponte,1,29%
+36,2021-10-30,La Paz,Guanay,1,29%
+37,2021-10-30,La Paz,Waldo Ballivian,1,29%
+38,2021-10-30,La Paz,San Andres De Machaca,1,29%
+39,2021-10-30,La Paz,Tacacoma,1,29%
+40,2021-10-30,La Paz,Chulumani (V. De La Libertad),1,29%
+41,2021-10-30,La Paz,Jesus De Machaca,1,29%
+42,2021-10-30,La Paz,Colquencha,1,29%
+43,2021-10-30,La Paz,San Pedro De Curahuara,1,30%
+44,2021-10-30,La Paz,Taraco,1,30%
+45,2021-10-30,La Paz,Copacabana,1,30%
+46,2021-10-30,La Paz,Caranavi,1,30%
+47,2021-10-30,La Paz,Tiawanacu,1,31%
+48,2021-10-30,La Paz,Ixiamas,1,31%
+49,2021-10-30,La Paz,Coro Coro,1,31%
+50,2021-10-30,La Paz,Quiabaya,1,31%
+51,2021-10-30,La Paz,Santiago De Machaca,1,31%
+52,2021-10-30,La Paz,Coripata,1,32%
+53,2021-10-30,La Paz,Palos Blancos,1,32%
+54,2021-10-30,La Paz,Coroico,1,33%
+55,2021-10-30,La Paz,Puerto Perez,1,33%
+56,2021-10-30,La Paz,Ayo Ayo,1,33%
+57,2021-10-30,La Paz,Irupana (Villa De Lanza),1,34%
+58,2021-10-30,La Paz,Chua Cocani,1,35%
+59,2021-10-30,La Paz,Patacamaya,1,35%
+60,2021-10-30,La Paz,Achacachi,1,35%
+61,2021-10-30,La Paz,Huarina ,1,35%
+62,2021-10-30,La Paz,Cajuata,1,36%
+63,2021-10-30,La Paz,Papel Pampa,1,36%
+64,2021-10-30,La Paz,Luribay,1,36%
+65,2021-10-30,La Paz,Tipuani,1,37%
+66,2021-10-30,La Paz,Laja,1,39%
+67,2021-10-30,La Paz,Calamarca,1,39%
+68,2021-10-30,La Paz,Palca,1,39%
+69,2021-10-30,La Paz,Yaco,1,39%
+70,2021-10-30,La Paz,Colquiri,1,39%
+71,2021-10-30,La Paz,Escoma,1,40%
+72,2021-10-30,La Paz,Huatajata,1,40%
+73,2021-10-30,La Paz,Desaguadero,1,41%
+74,2021-10-30,La Paz,Umala,1,42%
+75,2021-10-30,La Paz,Guaqui,1,42%
+76,2021-10-30,La Paz,Collana,1,43%
+77,2021-10-30,La Paz,Yanacachi,1,43%
+78,2021-10-30,La Paz,Puerto Acosta,1,43%
+79,2021-10-30,La Paz,San Pedro De Tiquina,1,44%
+80,2021-10-30,La Paz,Nazacara De Pacajes,1,44%
+81,2021-10-30,La Paz,Quime,1,45%
+82,2021-10-30,La Paz,San Buena Ventura,1,45%
+83,2021-10-30,La Paz,Viacha,1,51%
+84,2021-10-30,La Paz,El Alto,1,52%
+85,2021-10-30,La Paz,Achocalla,1,68%
+86,2021-10-30,La Paz,La Paz,1,102%
+0,2021-10-30,Oruro,Cruz De Machacamarca,1,6%
+1,2021-10-30,Oruro,Escara,1,9%
+2,2021-10-30,Oruro,El Choro,1,17%
+3,2021-10-30,Oruro,Todos Santos,1,17%
+4,2021-10-30,Oruro,Esmeralda,1,19%
+5,2021-10-30,Oruro,Chipaya,1,22%
+6,2021-10-30,Oruro,Carangas,1,22%
+7,2021-10-30,Oruro,Santiago De Huari,1,26%
+8,2021-10-30,Oruro,Toledo,1,27%
+9,2021-10-30,Oruro,Salinas De Garci Mendoza,1,29%
+10,2021-10-30,Oruro,La Rivera,1,32%
+11,2021-10-30,Oruro,Corque,1,40%
+12,2021-10-30,Oruro,Santuario De Quillacas,1,40%
+13,2021-10-30,Oruro,Sabaya,1,41%
+14,2021-10-30,Oruro,Andamarca,1,41%
+15,2021-10-30,Oruro,Belen De Andamarca,1,42%
+16,2021-10-30,Oruro,Coipasa,1,43%
+17,2021-10-30,Oruro,Challapata,1,44%
+18,2021-10-30,Oruro,Yunguyo De Litoral,1,45%
+19,2021-10-30,Oruro,Turco,1,45%
+20,2021-10-30,Oruro,Choque Cota,1,47%
+21,2021-10-30,Oruro,Poopo,1,48%
+22,2021-10-30,Oruro,Caracollo,1,48%
+23,2021-10-30,Oruro,Pazña,1,51%
+24,2021-10-30,Oruro,Pampa Aullagas,1,52%
+25,2021-10-30,Oruro,Eucaliptus,1,52%
+26,2021-10-30,Oruro,Totora(Orr),1,53%
+27,2021-10-30,Oruro,Soracachi,1,54%
+28,2021-10-30,Oruro,Huayllamarca,1,59%
+29,2021-10-30,Oruro,Huanuni,1,62%
+30,2021-10-30,Oruro,Machacamarca,1,63%
+31,2021-10-30,Oruro,Curahuara De Carangas,1,66%
+32,2021-10-30,Oruro,Oruro,1,79%
+33,2021-10-30,Oruro,Antequera,1,84%
+34,2021-10-30,Oruro,Huachacalla,1,98%
+0,2021-10-30,Potosí,San Pedro De Buena Vista,1,12%
+1,2021-10-30,Potosí,Tinguipaya,1,14%
+2,2021-10-30,Potosí,Chuquihuta Ayllu Jucumani,1,19%
+3,2021-10-30,Potosí,Colquechaca,1,19%
+4,2021-10-30,Potosí,Acacio,1,20%
+5,2021-10-30,Potosí,Belen De Urmiri,1,21%
+6,2021-10-30,Potosí,Pocoata,1,22%
+7,2021-10-30,Potosí,Ravelo,1,23%
+8,2021-10-30,Potosí,Toro Toro,1,24%
+9,2021-10-30,Potosí,Mojinete,1,24%
+10,2021-10-30,Potosí,San Antonio De Esmoruco,1,27%
+11,2021-10-30,Potosí,Ckochas,1,28%
+12,2021-10-30,Potosí,Chayanta,1,28%
+13,2021-10-30,Potosí,Ocuri,1,29%
+14,2021-10-30,Potosí,Puna,1,30%
+15,2021-10-30,Potosí,Tacobamba,1,30%
+16,2021-10-30,Potosí,Porco,1,31%
+17,2021-10-30,Potosí,Llica,1,34%
+18,2021-10-30,Potosí,Tomave,1,34%
+19,2021-10-30,Potosí,Sacaca,1,34%
+20,2021-10-30,Potosí,Arampampa,1,35%
+21,2021-10-30,Potosí,Uncia,1,35%
+22,2021-10-30,Potosí,Yocalla,1,36%
+23,2021-10-30,Potosí,S.P.De Quemes,1,36%
+24,2021-10-30,Potosí,San P. De Lipez,1,37%
+25,2021-10-30,Potosí,Betanzos,1,38%
+26,2021-10-30,Potosí,Cotagaita,1,38%
+27,2021-10-30,Potosí,Chaqui,1,38%
+28,2021-10-30,Potosí,"Caiza ""D""",1,44%
+29,2021-10-30,Potosí,Vitichi,1,49%
+30,2021-10-30,Potosí,Caripuyo,1,50%
+31,2021-10-30,Potosí,Llallagua,1,55%
+32,2021-10-30,Potosí,Tahua,1,57%
+33,2021-10-30,Potosí,Villazon,1,66%
+34,2021-10-30,Potosí,Uyuni,1,68%
+35,2021-10-30,Potosí,"Colcha ""K""",1,69%
+36,2021-10-30,Potosí,San Agustin,1,74%
+37,2021-10-30,Potosí,Potosí,1,78%
+38,2021-10-30,Potosí,Tupiza,1,86%
+39,2021-10-30,Potosí,Atocha,1,91%
+0,2021-10-30,Cochabamba,Tacopaya,1,26%
+1,2021-10-30,Cochabamba,Vacas,1,27%
+2,2021-10-30,Cochabamba,Tiraque (Cbba),1,27%
+3,2021-10-30,Cochabamba,Bolivar,1,28%
+4,2021-10-30,Cochabamba,Pojo (Cbba),1,31%
+5,2021-10-30,Cochabamba,Colomi,1,36%
+6,2021-10-30,Cochabamba,Pasorapa,1,38%
+7,2021-10-30,Cochabamba,Cocapata,1,39%
+8,2021-10-30,Cochabamba,Vinto,1,39%
+9,2021-10-30,Cochabamba,Mizque,1,39%
+10,2021-10-30,Cochabamba,Morochata,1,40%
+11,2021-10-30,Cochabamba,Ayopaya (V. De Independencia),1,40%
+12,2021-10-30,Cochabamba,Sacaba,1,40%
+13,2021-10-30,Cochabamba,Sipe Sipe,1,40%
+14,2021-10-30,Cochabamba,Sicaya,1,41%
+15,2021-10-30,Cochabamba,Vila Vila,1,41%
+16,2021-10-30,Cochabamba,Totora(Cbba),1,41%
+17,2021-10-30,Cochabamba,Tiquipaya,1,44%
+18,2021-10-30,Cochabamba,Colcapirhua,1,44%
+19,2021-10-30,Cochabamba,Puerto Villarroel,1,44%
+20,2021-10-30,Cochabamba,Entre Rios,1,44%
+21,2021-10-30,Cochabamba,Tapacari,1,46%
+22,2021-10-30,Cochabamba,San Benito,1,47%
+23,2021-10-30,Cochabamba,Villa Rivero,1,49%
+24,2021-10-30,Cochabamba,Arani,1,49%
+25,2021-10-30,Cochabamba,Chimore,1,49%
+26,2021-10-30,Cochabamba,Shinaota,1,50%
+27,2021-10-30,Cochabamba,Villa Tunari,1,51%
+28,2021-10-30,Cochabamba,Sacabamba,1,53%
+29,2021-10-30,Cochabamba,Toco,1,54%
+30,2021-10-30,Cochabamba,Capinota,1,55%
+31,2021-10-30,Cochabamba,Quillacollo,1,57%
+32,2021-10-30,Cochabamba,Arque,1,59%
+33,2021-10-30,Cochabamba,Alalay,1,60%
+34,2021-10-30,Cochabamba,Pocona,1,61%
+35,2021-10-30,Cochabamba,Aiquile,1,67%
+36,2021-10-30,Cochabamba,Tacachi,1,70%
+37,2021-10-30,Cochabamba,Cliza,1,73%
+38,2021-10-30,Cochabamba,Punata,1,75%
+39,2021-10-30,Cochabamba,Arbieto,1,77%
+40,2021-10-30,Cochabamba,Omereque,1,80%
+41,2021-10-30,Cochabamba,Anzaldo,1,81%
+42,2021-10-30,Cochabamba,Tolata,1,91%
+43,2021-10-30,Cochabamba,Tarata,1,93%
+44,2021-10-30,Cochabamba,Cochabamba,1,97%
+45,2021-10-30,Cochabamba,Cuchumuela (V. G. Villarroel),1,100%
+46,2021-10-30,Cochabamba,Santivañes,1,131%
+0,2021-10-30,Chuquisaca,Presto,1,16%
+1,2021-10-30,Chuquisaca,Tarabuco,1,20%
+2,2021-10-30,Chuquisaca,Tarvita,1,20%
+3,2021-10-30,Chuquisaca,Poroma,1,20%
+4,2021-10-30,Chuquisaca,Incahuasi,1,21%
+5,2021-10-30,Chuquisaca,Villa Charcas,1,21%
+6,2021-10-30,Chuquisaca,Yamparaez,1,26%
+7,2021-10-30,Chuquisaca,Sopachuy,1,27%
+8,2021-10-30,Chuquisaca,Zudañez,1,29%
+9,2021-10-30,Chuquisaca,Mojocoya,1,36%
+10,2021-10-30,Chuquisaca,Azurduy,1,37%
+11,2021-10-30,Chuquisaca,San Lucas,1,39%
+12,2021-10-30,Chuquisaca,Icla,1,40%
+13,2021-10-30,Chuquisaca,Culpina,1,42%
+14,2021-10-30,Chuquisaca,Tomina,1,48%
+15,2021-10-30,Chuquisaca,Yotala,1,50%
+16,2021-10-30,Chuquisaca,Las Carreras,1,50%
+17,2021-10-30,Chuquisaca,Camataqui (C. Villa Abecia),1,52%
+18,2021-10-30,Chuquisaca,Alcala,1,52%
+19,2021-10-30,Chuquisaca,El Villar,1,64%
+20,2021-10-30,Chuquisaca,Huacaya (Villa De Huacaya),1,64%
+21,2021-10-30,Chuquisaca,Camargo,1,69%
+22,2021-10-30,Chuquisaca,Machareti,1,72%
+23,2021-10-30,Chuquisaca,Villa Serrano,1,74%
+24,2021-10-30,Chuquisaca,Villa Vaca Guzman (Muyupampa),1,77%
+25,2021-10-30,Chuquisaca,Huacareta,1,84%
+26,2021-10-30,Chuquisaca,Padilla,1,84%
+27,2021-10-30,Chuquisaca,Sucre,1,86%
+28,2021-10-30,Chuquisaca,Monteagudo,1,88%
+0,2021-10-30,Tarija,Yunchara,1,49%
+1,2021-10-30,Tarija,El Puente(Tja),1,65%
+2,2021-10-30,Tarija,Entre Rios,1,67%
+3,2021-10-30,Tarija,Padcaya,1,67%
+4,2021-10-30,Tarija,Yacuiba,1,68%
+5,2021-10-30,Tarija,Bermejo,1,68%
+6,2021-10-30,Tarija,Carapari,1,70%
+7,2021-10-30,Tarija,Uriondo (A. Concepcion),1,71%
+8,2021-10-30,Tarija,San Lorenzo(Tja),1,73%
+9,2021-10-30,Tarija,Villa Montes,1,76%
+10,2021-10-30,Tarija,Tarija,1,77%
+0,2021-10-30,Pando,Ingavi (Humaita),1,21%
+1,2021-10-30,Pando,Sena,1,29%
+2,2021-10-30,Pando,San Lorenzo(Pnd),1,33%
+3,2021-10-30,Pando,San Pedro(Pnd),1,35%
+4,2021-10-30,Pando,Bolpebra,1,39%
+5,2021-10-30,Pando,Nuevo Manoa (Nueva Esperanza),1,41%
+6,2021-10-30,Pando,Eureka (Santos Mercado),1,46%
+7,2021-10-30,Pando,Puerto Gonzalo Moreno,1,48%
+8,2021-10-30,Pando,Porvenir,1,48%
+9,2021-10-30,Pando,Filadelfia,1,49%
+10,2021-10-30,Pando,Villa Nueva (Loma Alta),1,51%
+11,2021-10-30,Pando,Nacebe (Santa Rosa Del Abuna),1,62%
+12,2021-10-30,Pando,Bella Flor,1,63%
+13,2021-10-30,Pando,Cobija,1,66%
+14,2021-10-30,Pando,Puerto Rico,1,72%
+0,2021-10-30,Beni,Exaltacion,1,14%
+1,2021-10-30,Beni,San Javier(Bni),1,17%
+2,2021-10-30,Beni,Loreto,1,17%
+3,2021-10-30,Beni,San Borja,1,23%
+4,2021-10-30,Beni,Reyes,1,35%
+5,2021-10-30,Beni,Rurrenabaque,1,35%
+6,2021-10-30,Beni,San Andres,1,40%
+7,2021-10-30,Beni,Santa Ana,1,45%
+8,2021-10-30,Beni,San Joaquin,1,46%
+9,2021-10-30,Beni,Magdalena,1,47%
+10,2021-10-30,Beni,Huaracaje,1,47%
+11,2021-10-30,Beni,San Ignacio,1,52%
+12,2021-10-30,Beni,Trinidad,1,54%
+13,2021-10-30,Beni,Santa Rosa,1,61%
+14,2021-10-30,Beni,Puerto Siles,1,61%
+15,2021-10-30,Beni,San Ramon,1,62%
+16,2021-10-30,Beni,Riberalta,1,71%
+17,2021-10-30,Beni,Guayaramerin,1,72%
+18,2021-10-30,Beni,Baures,1,74%
+0,2021-10-30,Santa Cruz,Yapacani,1,23%
+1,2021-10-30,Santa Cruz,Pailon,1,29%
+2,2021-10-30,Santa Cruz,San Julian,1,30%
+3,2021-10-30,Santa Cruz,San Jose De Chiquitos,1,32%
+4,2021-10-30,Santa Cruz,El Puente(Stc),1,33%
+5,2021-10-30,Santa Cruz,Santa Rosa Del Sara,1,35%
+6,2021-10-30,Santa Cruz,La Guardia,1,36%
+7,2021-10-30,Santa Cruz,Charagua,1,37%
+8,2021-10-30,Santa Cruz,Ascencion De Guarayos,1,38%
+9,2021-10-30,Santa Cruz,Cuatro Cañadas,1,38%
+10,2021-10-30,Santa Cruz,Warnes,1,40%
+11,2021-10-30,Santa Cruz,Saipina,1,42%
+12,2021-10-30,Santa Cruz,Fernandez Alonso,1,44%
+13,2021-10-30,Santa Cruz,Urubicha,1,45%
+14,2021-10-30,Santa Cruz,San Carlos,1,47%
+15,2021-10-30,Santa Cruz,San Pedro,1,48%
+16,2021-10-30,Santa Cruz,Pampa Grande,1,51%
+17,2021-10-30,Santa Cruz,San Juan De Yapacani,1,54%
+18,2021-10-30,Santa Cruz,Cabezas,1,55%
+19,2021-10-30,Santa Cruz,San Antonio De Lomerio,1,55%
+20,2021-10-30,Santa Cruz,Mairana,1,57%
+21,2021-10-30,Santa Cruz,Quirusillas,1,59%
+22,2021-10-30,Santa Cruz,Mineros,1,59%
+23,2021-10-30,Santa Cruz,Gutierrez,1,61%
+24,2021-10-30,Santa Cruz,Comarapa,1,64%
+25,2021-10-30,Santa Cruz,Postrer Valle,1,64%
+26,2021-10-30,Santa Cruz,San Javier(Stc),1,65%
+27,2021-10-30,Santa Cruz,Trigal,1,66%
+28,2021-10-30,Santa Cruz,Buena Vista,1,68%
+29,2021-10-30,Santa Cruz,Montero,1,68%
+30,2021-10-30,Santa Cruz,El Torno,1,68%
+31,2021-10-30,Santa Cruz,San Rafael,1,69%
+32,2021-10-30,Santa Cruz,Cuevo,1,70%
+33,2021-10-30,Santa Cruz,Carmen Rivero Torrez,1,70%
+34,2021-10-30,Santa Cruz,Puerto Suarez,1,72%
+35,2021-10-30,Santa Cruz,Concepcion,1,73%
+36,2021-10-30,Santa Cruz,Boyuibe,1,73%
+37,2021-10-30,Santa Cruz,Porongo,1,74%
+38,2021-10-30,Santa Cruz,San Ramon,1,75%
+39,2021-10-30,Santa Cruz,San Ignacio De Velasco,1,75%
+40,2021-10-30,Santa Cruz,Samaipata,1,75%
+41,2021-10-30,Santa Cruz,San Miguel De Velasco,1,76%
+42,2021-10-30,Santa Cruz,Okinawa,1,77%
+43,2021-10-30,Santa Cruz,Santa Cruz de la Sierra,1,78%
+44,2021-10-30,Santa Cruz,Portachuelo,1,80%
+45,2021-10-30,Santa Cruz,Pucara,1,81%
+46,2021-10-30,Santa Cruz,Puerto Quijarro,1,85%
+47,2021-10-30,Santa Cruz,San Matias,1,85%
+48,2021-10-30,Santa Cruz,Moro Moro,1,86%
+49,2021-10-30,Santa Cruz,Vallegrande,1,86%
+50,2021-10-30,Santa Cruz,General Saavedra,1,87%
+51,2021-10-30,Santa Cruz,Lagunillas,1,87%
+52,2021-10-30,Santa Cruz,Robore,1,88%
+53,2021-10-30,Santa Cruz,Cotoca,1,94%
+54,2021-10-30,Santa Cruz,Colpa Belgica,1,94%
+55,2021-10-30,Santa Cruz,Camiri,1,96%
+0,2021-10-30,La Paz,Aucapata,2,9%
+1,2021-10-30,La Paz,Caquiaviri,2,9%
+2,2021-10-30,La Paz,Ancoraimes,2,10%
+3,2021-10-30,La Paz,Tito Yupanqui (Parquipujio),2,11%
+4,2021-10-30,La Paz,Calacoto,2,12%
+5,2021-10-30,La Paz,Gral. J.J. Perez (Charazani),2,14%
+6,2021-10-30,La Paz,Humanata,2,14%
+7,2021-10-30,La Paz,Apolo,2,15%
+8,2021-10-30,La Paz,Curva,2,15%
+9,2021-10-30,La Paz,Combaya,2,16%
+10,2021-10-30,La Paz,Sorata,2,17%
+11,2021-10-30,La Paz,Santiago De Callapa,2,17%
+12,2021-10-30,La Paz,Pelechuco,2,18%
+13,2021-10-30,La Paz,Mapiri,2,19%
+14,2021-10-30,La Paz,Sapahaqui,2,19%
+15,2021-10-30,La Paz,Catacora,2,19%
+16,2021-10-30,La Paz,Sica Sica (Villa Aroma),2,20%
+17,2021-10-30,La Paz,Charaña,2,21%
+18,2021-10-30,La Paz,La Asunta,2,21%
+19,2021-10-30,La Paz,Puerto Carabuco,2,22%
+20,2021-10-30,La Paz,Licoma Pampa,2,22%
+21,2021-10-30,La Paz,Mecapaca,2,22%
+22,2021-10-30,La Paz,Ayata,2,23%
+23,2021-10-30,La Paz,Mocomoco,2,23%
+24,2021-10-30,La Paz,Batallas,2,23%
+25,2021-10-30,La Paz,Cairoma,2,24%
+26,2021-10-30,La Paz,Chacarilla,2,24%
+27,2021-10-30,La Paz,Comanche,2,24%
+28,2021-10-30,La Paz,Pucarani,2,24%
+29,2021-10-30,La Paz,Chuma,2,25%
+30,2021-10-30,La Paz,Alto Beni,2,25%
+31,2021-10-30,La Paz,Teoponte,2,25%
+32,2021-10-30,La Paz,Malla,2,26%
+33,2021-10-30,La Paz,Santiago De Huata,2,26%
+34,2021-10-30,La Paz,Ichoca,2,26%
+35,2021-10-30,La Paz,San Andres De Machaca,2,26%
+36,2021-10-30,La Paz,Colquencha,2,26%
+37,2021-10-30,La Paz,Taraco,2,27%
+38,2021-10-30,La Paz,Inquisivi,2,27%
+39,2021-10-30,La Paz,Waldo Ballivian,2,27%
+40,2021-10-30,La Paz,Chulumani (V. De La Libertad),2,27%
+41,2021-10-30,La Paz,Caranavi,2,28%
+42,2021-10-30,La Paz,Guanay,2,28%
+43,2021-10-30,La Paz,Tacacoma,2,28%
+44,2021-10-30,La Paz,Coro Coro,2,28%
+45,2021-10-30,La Paz,Copacabana,2,28%
+46,2021-10-30,La Paz,Jesus De Machaca,2,28%
+47,2021-10-30,La Paz,Ixiamas,2,29%
+48,2021-10-30,La Paz,Tiawanacu,2,29%
+49,2021-10-30,La Paz,Santiago De Machaca,2,29%
+50,2021-10-30,La Paz,San Pedro De Curahuara,2,29%
+51,2021-10-30,La Paz,Puerto Perez,2,30%
+52,2021-10-30,La Paz,Palos Blancos,2,30%
+53,2021-10-30,La Paz,Ayo Ayo,2,31%
+54,2021-10-30,La Paz,Coripata,2,31%
+55,2021-10-30,La Paz,Quiabaya,2,31%
+56,2021-10-30,La Paz,Irupana (Villa De Lanza),2,31%
+57,2021-10-30,La Paz,Coroico,2,31%
+58,2021-10-30,La Paz,Papel Pampa,2,32%
+59,2021-10-30,La Paz,Achacachi,2,33%
+60,2021-10-30,La Paz,Huarina ,2,34%
+61,2021-10-30,La Paz,Luribay,2,34%
+62,2021-10-30,La Paz,Patacamaya,2,34%
+63,2021-10-30,La Paz,Chua Cocani,2,34%
+64,2021-10-30,La Paz,Cajuata,2,34%
+65,2021-10-30,La Paz,Palca,2,35%
+66,2021-10-30,La Paz,Colquiri,2,35%
+67,2021-10-30,La Paz,Yaco,2,36%
+68,2021-10-30,La Paz,Tipuani,2,36%
+69,2021-10-30,La Paz,Escoma,2,37%
+70,2021-10-30,La Paz,Calamarca,2,37%
+71,2021-10-30,La Paz,Laja,2,37%
+72,2021-10-30,La Paz,El Alto,2,38%
+73,2021-10-30,La Paz,Desaguadero,2,39%
+74,2021-10-30,La Paz,Umala,2,39%
+75,2021-10-30,La Paz,Huatajata,2,39%
+76,2021-10-30,La Paz,Nazacara De Pacajes,2,39%
+77,2021-10-30,La Paz,Guaqui,2,40%
+78,2021-10-30,La Paz,Yanacachi,2,40%
+79,2021-10-30,La Paz,San Pedro De Tiquina,2,40%
+80,2021-10-30,La Paz,Puerto Acosta,2,41%
+81,2021-10-30,La Paz,Collana,2,41%
+82,2021-10-30,La Paz,San Buena Ventura,2,42%
+83,2021-10-30,La Paz,Quime,2,43%
+84,2021-10-30,La Paz,Viacha,2,48%
+85,2021-10-30,La Paz,Achocalla,2,63%
+86,2021-10-30,La Paz,La Paz,2,91%
+0,2021-10-30,Oruro,Cruz De Machacamarca,2,6%
+1,2021-10-30,Oruro,Escara,2,9%
+2,2021-10-30,Oruro,El Choro,2,16%
+3,2021-10-30,Oruro,Todos Santos,2,16%
+4,2021-10-30,Oruro,Chipaya,2,17%
+5,2021-10-30,Oruro,Esmeralda,2,18%
+6,2021-10-30,Oruro,Carangas,2,22%
+7,2021-10-30,Oruro,Santiago De Huari,2,23%
+8,2021-10-30,Oruro,Toledo,2,25%
+9,2021-10-30,Oruro,Salinas De Garci Mendoza,2,25%
+10,2021-10-30,Oruro,La Rivera,2,30%
+11,2021-10-30,Oruro,Corque,2,38%
+12,2021-10-30,Oruro,Santuario De Quillacas,2,38%
+13,2021-10-30,Oruro,Coipasa,2,39%
+14,2021-10-30,Oruro,Sabaya,2,39%
+15,2021-10-30,Oruro,Andamarca,2,39%
+16,2021-10-30,Oruro,Choque Cota,2,41%
+17,2021-10-30,Oruro,Challapata,2,41%
+18,2021-10-30,Oruro,Belen De Andamarca,2,42%
+19,2021-10-30,Oruro,Turco,2,44%
+20,2021-10-30,Oruro,Yunguyo De Litoral,2,44%
+21,2021-10-30,Oruro,Poopo,2,45%
+22,2021-10-30,Oruro,Pampa Aullagas,2,46%
+23,2021-10-30,Oruro,Caracollo,2,46%
+24,2021-10-30,Oruro,Eucaliptus,2,46%
+25,2021-10-30,Oruro,Pazña,2,47%
+26,2021-10-30,Oruro,Totora(Orr),2,48%
+27,2021-10-30,Oruro,Soracachi,2,50%
+28,2021-10-30,Oruro,Huanuni,2,58%
+29,2021-10-30,Oruro,Huayllamarca,2,58%
+30,2021-10-30,Oruro,Machacamarca,2,61%
+31,2021-10-30,Oruro,Curahuara De Carangas,2,61%
+32,2021-10-30,Oruro,Oruro,2,64%
+33,2021-10-30,Oruro,Antequera,2,80%
+34,2021-10-30,Oruro,Huachacalla,2,96%
+0,2021-10-30,Potosí,San Pedro De Buena Vista,2,8%
+1,2021-10-30,Potosí,Tinguipaya,2,11%
+2,2021-10-30,Potosí,Acacio,2,12%
+3,2021-10-30,Potosí,Colquechaca,2,13%
+4,2021-10-30,Potosí,Chuquihuta Ayllu Jucumani,2,16%
+5,2021-10-30,Potosí,Toro Toro,2,16%
+6,2021-10-30,Potosí,Belen De Urmiri,2,16%
+7,2021-10-30,Potosí,Ravelo,2,18%
+8,2021-10-30,Potosí,Pocoata,2,18%
+9,2021-10-30,Potosí,San Antonio De Esmoruco,2,20%
+10,2021-10-30,Potosí,Mojinete,2,22%
+11,2021-10-30,Potosí,Ckochas,2,23%
+12,2021-10-30,Potosí,Porco,2,23%
+13,2021-10-30,Potosí,Chayanta,2,24%
+14,2021-10-30,Potosí,Ocuri,2,24%
+15,2021-10-30,Potosí,Tacobamba,2,25%
+16,2021-10-30,Potosí,Puna,2,25%
+17,2021-10-30,Potosí,S.P.De Quemes,2,26%
+18,2021-10-30,Potosí,Chaqui,2,26%
+19,2021-10-30,Potosí,Llica,2,29%
+20,2021-10-30,Potosí,Yocalla,2,29%
+21,2021-10-30,Potosí,Sacaca,2,30%
+22,2021-10-30,Potosí,Tomave,2,30%
+23,2021-10-30,Potosí,San P. De Lipez,2,31%
+24,2021-10-30,Potosí,Uncia,2,32%
+25,2021-10-30,Potosí,Arampampa,2,33%
+26,2021-10-30,Potosí,Betanzos,2,33%
+27,2021-10-30,Potosí,Cotagaita,2,34%
+28,2021-10-30,Potosí,Caripuyo,2,37%
+29,2021-10-30,Potosí,"Caiza ""D""",2,37%
+30,2021-10-30,Potosí,Vitichi,2,40%
+31,2021-10-30,Potosí,Llallagua,2,49%
+32,2021-10-30,Potosí,Tahua,2,49%
+33,2021-10-30,Potosí,Villazon,2,56%
+34,2021-10-30,Potosí,Uyuni,2,61%
+35,2021-10-30,Potosí,Potosí,2,62%
+36,2021-10-30,Potosí,"Colcha ""K""",2,66%
+37,2021-10-30,Potosí,San Agustin,2,72%
+38,2021-10-30,Potosí,Tupiza,2,80%
+39,2021-10-30,Potosí,Atocha,2,86%
+0,2021-10-30,Cochabamba,Tacopaya,2,22%
+1,2021-10-30,Cochabamba,Vacas,2,23%
+2,2021-10-30,Cochabamba,Pojo (Cbba),2,25%
+3,2021-10-30,Cochabamba,Bolivar,2,25%
+4,2021-10-30,Cochabamba,Tiraque (Cbba),2,26%
+5,2021-10-30,Cochabamba,Vinto,2,30%
+6,2021-10-30,Cochabamba,Colomi,2,32%
+7,2021-10-30,Cochabamba,Sipe Sipe,2,33%
+8,2021-10-30,Cochabamba,Tiquipaya,2,35%
+9,2021-10-30,Cochabamba,Sacaba,2,36%
+10,2021-10-30,Cochabamba,Ayopaya (V. De Independencia),2,36%
+11,2021-10-30,Cochabamba,Mizque,2,36%
+12,2021-10-30,Cochabamba,Colcapirhua,2,37%
+13,2021-10-30,Cochabamba,Pasorapa,2,37%
+14,2021-10-30,Cochabamba,Morochata,2,38%
+15,2021-10-30,Cochabamba,Puerto Villarroel,2,38%
+16,2021-10-30,Cochabamba,Cocapata,2,38%
+17,2021-10-30,Cochabamba,Sicaya,2,38%
+18,2021-10-30,Cochabamba,Totora(Cbba),2,38%
+19,2021-10-30,Cochabamba,Vila Vila,2,39%
+20,2021-10-30,Cochabamba,Villa Tunari,2,39%
+21,2021-10-30,Cochabamba,Tapacari,2,41%
+22,2021-10-30,Cochabamba,Entre Rios,2,41%
+23,2021-10-30,Cochabamba,Shinaota,2,42%
+24,2021-10-30,Cochabamba,Sacabamba,2,43%
+25,2021-10-30,Cochabamba,Arani,2,43%
+26,2021-10-30,Cochabamba,San Benito,2,44%
+27,2021-10-30,Cochabamba,Villa Rivero,2,44%
+28,2021-10-30,Cochabamba,Chimore,2,45%
+29,2021-10-30,Cochabamba,Toco,2,47%
+30,2021-10-30,Cochabamba,Capinota,2,50%
+31,2021-10-30,Cochabamba,Quillacollo,2,51%
+32,2021-10-30,Cochabamba,Pocona,2,51%
+33,2021-10-30,Cochabamba,Arque,2,52%
+34,2021-10-30,Cochabamba,Alalay,2,54%
+35,2021-10-30,Cochabamba,Arbieto,2,62%
+36,2021-10-30,Cochabamba,Tacachi,2,64%
+37,2021-10-30,Cochabamba,Aiquile,2,65%
+38,2021-10-30,Cochabamba,Cliza,2,66%
+39,2021-10-30,Cochabamba,Anzaldo,2,68%
+40,2021-10-30,Cochabamba,Punata,2,69%
+41,2021-10-30,Cochabamba,Omereque,2,79%
+42,2021-10-30,Cochabamba,Tolata,2,82%
+43,2021-10-30,Cochabamba,Tarata,2,84%
+44,2021-10-30,Cochabamba,Cochabamba,2,84%
+45,2021-10-30,Cochabamba,Cuchumuela (V. G. Villarroel),2,91%
+46,2021-10-30,Cochabamba,Santivañes,2,123%
+0,2021-10-30,Chuquisaca,Poroma,2,13%
+1,2021-10-30,Chuquisaca,Presto,2,13%
+2,2021-10-30,Chuquisaca,Incahuasi,2,15%
+3,2021-10-30,Chuquisaca,Tarvita,2,17%
+4,2021-10-30,Chuquisaca,Villa Charcas,2,18%
+5,2021-10-30,Chuquisaca,Yamparaez,2,18%
+6,2021-10-30,Chuquisaca,Tarabuco,2,19%
+7,2021-10-30,Chuquisaca,Sopachuy,2,22%
+8,2021-10-30,Chuquisaca,Zudañez,2,26%
+9,2021-10-30,Chuquisaca,Icla,2,29%
+10,2021-10-30,Chuquisaca,Mojocoya,2,30%
+11,2021-10-30,Chuquisaca,Azurduy,2,31%
+12,2021-10-30,Chuquisaca,San Lucas,2,36%
+13,2021-10-30,Chuquisaca,Culpina,2,37%
+14,2021-10-30,Chuquisaca,Tomina,2,45%
+15,2021-10-30,Chuquisaca,Las Carreras,2,45%
+16,2021-10-30,Chuquisaca,Yotala,2,47%
+17,2021-10-30,Chuquisaca,Camataqui (C. Villa Abecia),2,50%
+18,2021-10-30,Chuquisaca,Alcala,2,51%
+19,2021-10-30,Chuquisaca,El Villar,2,57%
+20,2021-10-30,Chuquisaca,Huacaya (Villa De Huacaya),2,60%
+21,2021-10-30,Chuquisaca,Camargo,2,66%
+22,2021-10-30,Chuquisaca,Machareti,2,68%
+23,2021-10-30,Chuquisaca,Villa Vaca Guzman (Muyupampa),2,69%
+24,2021-10-30,Chuquisaca,Sucre,2,72%
+25,2021-10-30,Chuquisaca,Villa Serrano,2,72%
+26,2021-10-30,Chuquisaca,Huacareta,2,76%
+27,2021-10-30,Chuquisaca,Monteagudo,2,82%
+28,2021-10-30,Chuquisaca,Padilla,2,83%
+0,2021-10-30,Tarija,Yunchara,2,44%
+1,2021-10-30,Tarija,El Puente(Tja),2,54%
+2,2021-10-30,Tarija,Entre Rios,2,58%
+3,2021-10-30,Tarija,Yacuiba,2,59%
+4,2021-10-30,Tarija,Bermejo,2,60%
+5,2021-10-30,Tarija,Padcaya,2,62%
+6,2021-10-30,Tarija,Carapari,2,62%
+7,2021-10-30,Tarija,Uriondo (A. Concepcion),2,62%
+8,2021-10-30,Tarija,San Lorenzo(Tja),2,64%
+9,2021-10-30,Tarija,Tarija,2,67%
+10,2021-10-30,Tarija,Villa Montes,2,68%
+0,2021-10-30,Pando,Ingavi (Humaita),2,7%
+1,2021-10-30,Pando,Sena,2,15%
+2,2021-10-30,Pando,San Lorenzo(Pnd),2,17%
+3,2021-10-30,Pando,Bolpebra,2,26%
+4,2021-10-30,Pando,Nuevo Manoa (Nueva Esperanza),2,28%
+5,2021-10-30,Pando,San Pedro(Pnd),2,28%
+6,2021-10-30,Pando,Eureka (Santos Mercado),2,29%
+7,2021-10-30,Pando,Filadelfia,2,32%
+8,2021-10-30,Pando,Villa Nueva (Loma Alta),2,33%
+9,2021-10-30,Pando,Porvenir,2,33%
+10,2021-10-30,Pando,Puerto Gonzalo Moreno,2,37%
+11,2021-10-30,Pando,Nacebe (Santa Rosa Del Abuna),2,47%
+12,2021-10-30,Pando,Cobija,2,48%
+13,2021-10-30,Pando,Bella Flor,2,52%
+14,2021-10-30,Pando,Puerto Rico,2,58%
+0,2021-10-30,Beni,Loreto,2,13%
+1,2021-10-30,Beni,Exaltacion,2,13%
+2,2021-10-30,Beni,San Javier(Bni),2,15%
+3,2021-10-30,Beni,San Borja,2,21%
+4,2021-10-30,Beni,Reyes,2,29%
+5,2021-10-30,Beni,Rurrenabaque,2,30%
+6,2021-10-30,Beni,San Andres,2,34%
+7,2021-10-30,Beni,San Joaquin,2,35%
+8,2021-10-30,Beni,Trinidad,2,39%
+9,2021-10-30,Beni,Santa Ana,2,39%
+10,2021-10-30,Beni,Magdalena,2,40%
+11,2021-10-30,Beni,Huaracaje,2,43%
+12,2021-10-30,Beni,San Ignacio,2,46%
+13,2021-10-30,Beni,San Ramon,2,52%
+14,2021-10-30,Beni,Santa Rosa,2,52%
+15,2021-10-30,Beni,Riberalta,2,53%
+16,2021-10-30,Beni,Puerto Siles,2,53%
+17,2021-10-30,Beni,Guayaramerin,2,54%
+18,2021-10-30,Beni,Baures,2,70%
+0,2021-10-30,Santa Cruz,Pailon,2,16%
+1,2021-10-30,Santa Cruz,Yapacani,2,21%
+2,2021-10-30,Santa Cruz,San Jose De Chiquitos,2,25%
+3,2021-10-30,Santa Cruz,San Julian,2,28%
+4,2021-10-30,Santa Cruz,El Puente(Stc),2,29%
+5,2021-10-30,Santa Cruz,La Guardia,2,31%
+6,2021-10-30,Santa Cruz,Ascencion De Guarayos,2,32%
+7,2021-10-30,Santa Cruz,Santa Rosa Del Sara,2,33%
+8,2021-10-30,Santa Cruz,Charagua,2,34%
+9,2021-10-30,Santa Cruz,Urubicha,2,34%
+10,2021-10-30,Santa Cruz,Cuatro Cañadas,2,34%
+11,2021-10-30,Santa Cruz,Warnes,2,36%
+12,2021-10-30,Santa Cruz,Fernandez Alonso,2,36%
+13,2021-10-30,Santa Cruz,San Pedro,2,40%
+14,2021-10-30,Santa Cruz,Saipina,2,41%
+15,2021-10-30,Santa Cruz,Pampa Grande,2,42%
+16,2021-10-30,Santa Cruz,San Carlos,2,44%
+17,2021-10-30,Santa Cruz,Mineros,2,49%
+18,2021-10-30,Santa Cruz,Cabezas,2,51%
+19,2021-10-30,Santa Cruz,San Juan De Yapacani,2,51%
+20,2021-10-30,Santa Cruz,San Antonio De Lomerio,2,52%
+21,2021-10-30,Santa Cruz,Postrer Valle,2,52%
+22,2021-10-30,Santa Cruz,Montero,2,53%
+23,2021-10-30,Santa Cruz,Mairana,2,53%
+24,2021-10-30,Santa Cruz,Gutierrez,2,54%
+25,2021-10-30,Santa Cruz,Quirusillas,2,54%
+26,2021-10-30,Santa Cruz,Trigal,2,55%
+27,2021-10-30,Santa Cruz,San Javier(Stc),2,59%
+28,2021-10-30,Santa Cruz,Comarapa,2,60%
+29,2021-10-30,Santa Cruz,San Rafael,2,60%
+30,2021-10-30,Santa Cruz,Buena Vista,2,61%
+31,2021-10-30,Santa Cruz,El Torno,2,62%
+32,2021-10-30,Santa Cruz,Santa Cruz de la Sierra,2,65%
+33,2021-10-30,Santa Cruz,Concepcion,2,66%
+34,2021-10-30,Santa Cruz,Robore,2,66%
+35,2021-10-30,Santa Cruz,San Ignacio De Velasco,2,67%
+36,2021-10-30,Santa Cruz,Cuevo,2,67%
+37,2021-10-30,Santa Cruz,Porongo,2,67%
+38,2021-10-30,Santa Cruz,Carmen Rivero Torrez,2,67%
+39,2021-10-30,Santa Cruz,San Ramon,2,69%
+40,2021-10-30,Santa Cruz,Puerto Suarez,2,70%
+41,2021-10-30,Santa Cruz,Okinawa,2,70%
+42,2021-10-30,Santa Cruz,San Miguel De Velasco,2,71%
+43,2021-10-30,Santa Cruz,Boyuibe,2,71%
+44,2021-10-30,Santa Cruz,Moro Moro,2,72%
+45,2021-10-30,Santa Cruz,Pucara,2,73%
+46,2021-10-30,Santa Cruz,Cotoca,2,73%
+47,2021-10-30,Santa Cruz,Samaipata,2,74%
+48,2021-10-30,Santa Cruz,General Saavedra,2,76%
+49,2021-10-30,Santa Cruz,Puerto Quijarro,2,76%
+50,2021-10-30,Santa Cruz,Portachuelo,2,77%
+51,2021-10-30,Santa Cruz,Vallegrande,2,77%
+52,2021-10-30,Santa Cruz,Lagunillas,2,79%
+53,2021-10-30,Santa Cruz,San Matias,2,84%
+54,2021-10-30,Santa Cruz,Colpa Belgica,2,90%
+55,2021-10-30,Santa Cruz,Camiri,2,91%
+0,2021-11-13,Santa Cruz,Yapacani,1,24%
+1,2021-11-13,Santa Cruz,Pailon,1,29%
+2,2021-11-13,Santa Cruz,San Julian,1,31%
+3,2021-11-13,Santa Cruz,San Jose De Chiquitos,1,32%
+4,2021-11-13,Santa Cruz,El Puente(Stc),1,34%
+5,2021-11-13,Santa Cruz,Santa Rosa Del Sara,1,36%
+6,2021-11-13,Santa Cruz,La Guardia,1,37%
+7,2021-11-13,Santa Cruz,Ascencion De Guarayos,1,39%
+8,2021-11-13,Santa Cruz,Charagua,1,39%
+9,2021-11-13,Santa Cruz,Cuatro Cañadas,1,40%
+10,2021-11-13,Santa Cruz,Warnes,1,40%
+11,2021-11-13,Santa Cruz,Saipina,1,43%
+12,2021-11-13,Santa Cruz,Fernandez Alonso,1,46%
+13,2021-11-13,Santa Cruz,San Carlos,1,48%
+14,2021-11-13,Santa Cruz,San Pedro,1,49%
+15,2021-11-13,Santa Cruz,Urubicha,1,50%
+16,2021-11-13,Santa Cruz,Pampa Grande,1,53%
+17,2021-11-13,Santa Cruz,San Juan De Yapacani,1,54%
+18,2021-11-13,Santa Cruz,Cabezas,1,56%
+19,2021-11-13,Santa Cruz,San Antonio De Lomerio,1,57%
+20,2021-11-13,Santa Cruz,Mairana,1,58%
+21,2021-11-13,Santa Cruz,Quirusillas,1,59%
+22,2021-11-13,Santa Cruz,Mineros,1,61%
+23,2021-11-13,Santa Cruz,Comarapa,1,64%
+24,2021-11-13,Santa Cruz,Gutierrez,1,64%
+25,2021-11-13,Santa Cruz,Postrer Valle,1,65%
+26,2021-11-13,Santa Cruz,San Javier(Stc),1,66%
+27,2021-11-13,Santa Cruz,Trigal,1,67%
+28,2021-11-13,Santa Cruz,El Torno,1,69%
+29,2021-11-13,Santa Cruz,Montero,1,69%
+30,2021-11-13,Santa Cruz,Buena Vista,1,70%
+31,2021-11-13,Santa Cruz,Cuevo,1,70%
+32,2021-11-13,Santa Cruz,San Rafael,1,70%
+33,2021-11-13,Santa Cruz,Carmen Rivero Torrez,1,72%
+34,2021-11-13,Santa Cruz,Puerto Suarez,1,72%
+35,2021-11-13,Santa Cruz,Boyuibe,1,74%
+36,2021-11-13,Santa Cruz,Concepcion,1,74%
+37,2021-11-13,Santa Cruz,Porongo,1,76%
+38,2021-11-13,Santa Cruz,Samaipata,1,76%
+39,2021-11-13,Santa Cruz,San Ignacio De Velasco,1,76%
+40,2021-11-13,Santa Cruz,San Ramon,1,76%
+41,2021-11-13,Santa Cruz,San Miguel De Velasco,1,77%
+42,2021-11-13,Santa Cruz,Okinawa,1,79%
+43,2021-11-13,Santa Cruz,Santa Cruz de la Sierra,1,79%
+44,2021-11-13,Santa Cruz,Portachuelo,1,81%
+45,2021-11-13,Santa Cruz,Pucara,1,83%
+46,2021-11-13,Santa Cruz,Puerto Quijarro,1,85%
+47,2021-11-13,Santa Cruz,San Matias,1,85%
+48,2021-11-13,Santa Cruz,Moro Moro,1,87%
+49,2021-11-13,Santa Cruz,Vallegrande,1,88%
+50,2021-11-13,Santa Cruz,General Saavedra,1,89%
+51,2021-11-13,Santa Cruz,Lagunillas,1,89%
+52,2021-11-13,Santa Cruz,Robore,1,90%
+53,2021-11-13,Santa Cruz,Colpa Belgica,1,95%
+54,2021-11-13,Santa Cruz,Cotoca,1,95%
+55,2021-11-13,Santa Cruz,Camiri,1,97%
+0,2021-11-13,Beni,Exaltacion,1,17%
+1,2021-11-13,Beni,San Javier(Bni),1,19%
+2,2021-11-13,Beni,Loreto,1,20%
+3,2021-11-13,Beni,San Borja,1,25%
+4,2021-11-13,Beni,Reyes,1,35%
+5,2021-11-13,Beni,Rurrenabaque,1,36%
+6,2021-11-13,Beni,San Andres,1,45%
+7,2021-11-13,Beni,Magdalena,1,47%
+8,2021-11-13,Beni,San Joaquin,1,48%
+9,2021-11-13,Beni,Huaracaje,1,49%
+10,2021-11-13,Beni,Santa Ana,1,49%
+11,2021-11-13,Beni,San Ignacio,1,55%
+12,2021-11-13,Beni,Trinidad,1,57%
+13,2021-11-13,Beni,Santa Rosa,1,62%
+14,2021-11-13,Beni,Puerto Siles,1,65%
+15,2021-11-13,Beni,San Ramon,1,66%
+16,2021-11-13,Beni,Riberalta,1,73%
+17,2021-11-13,Beni,Guayaramerin,1,76%
+18,2021-11-13,Beni,Baures,1,77%
+0,2021-11-13,Pando,Ingavi (Humaita),1,34%
+1,2021-11-13,Pando,San Lorenzo(Pnd),1,36%
+2,2021-11-13,Pando,Sena,1,37%
+3,2021-11-13,Pando,San Pedro(Pnd),1,38%
+4,2021-11-13,Pando,Nuevo Manoa (Nueva Esperanza),1,41%
+5,2021-11-13,Pando,Bolpebra,1,44%
+6,2021-11-13,Pando,Eureka (Santos Mercado),1,49%
+7,2021-11-13,Pando,Porvenir,1,49%
+8,2021-11-13,Pando,Puerto Gonzalo Moreno,1,50%
+9,2021-11-13,Pando,Filadelfia,1,53%
+10,2021-11-13,Pando,Villa Nueva (Loma Alta),1,54%
+11,2021-11-13,Pando,Nacebe (Santa Rosa Del Abuna),1,64%
+12,2021-11-13,Pando,Bella Flor,1,66%
+13,2021-11-13,Pando,Cobija,1,67%
+14,2021-11-13,Pando,Puerto Rico,1,76%
+0,2021-11-13,Cochabamba,Tacopaya,1,29%
+1,2021-11-13,Cochabamba,Vacas,1,29%
+2,2021-11-13,Cochabamba,Bolivar,1,30%
+3,2021-11-13,Cochabamba,Pojo (Cbba),1,32%
+4,2021-11-13,Cochabamba,Colomi,1,38%
+5,2021-11-13,Cochabamba,Pasorapa,1,38%
+6,2021-11-13,Cochabamba,Tiraque (Cbba),1,39%
+7,2021-11-13,Cochabamba,Cocapata,1,40%
+8,2021-11-13,Cochabamba,Morochata,1,41%
+9,2021-11-13,Cochabamba,Sicaya,1,41%
+10,2021-11-13,Cochabamba,Mizque,1,42%
+11,2021-11-13,Cochabamba,Sacaba,1,42%
+12,2021-11-13,Cochabamba,Vinto,1,42%
+13,2021-11-13,Cochabamba,Ayopaya (V. De Independencia),1,43%
+14,2021-11-13,Cochabamba,Sipe Sipe,1,43%
+15,2021-11-13,Cochabamba,Totora(Cbba),1,43%
+16,2021-11-13,Cochabamba,Vila Vila,1,43%
+17,2021-11-13,Cochabamba,Entre Rios,1,44%
+18,2021-11-13,Cochabamba,Colcapirhua,1,45%
+19,2021-11-13,Cochabamba,Tiquipaya,1,46%
+20,2021-11-13,Cochabamba,Puerto Villarroel,1,47%
+21,2021-11-13,Cochabamba,Tapacari,1,47%
+22,2021-11-13,Cochabamba,San Benito,1,48%
+23,2021-11-13,Cochabamba,Villa Rivero,1,50%
+24,2021-11-13,Cochabamba,Arani,1,51%
+25,2021-11-13,Cochabamba,Chimore,1,53%
+26,2021-11-13,Cochabamba,Shinaota,1,53%
+27,2021-11-13,Cochabamba,Toco,1,54%
+28,2021-11-13,Cochabamba,Villa Tunari,1,54%
+29,2021-11-13,Cochabamba,Sacabamba,1,56%
+30,2021-11-13,Cochabamba,Capinota,1,57%
+31,2021-11-13,Cochabamba,Arque,1,60%
+32,2021-11-13,Cochabamba,Quillacollo,1,60%
+33,2021-11-13,Cochabamba,Pocona,1,62%
+34,2021-11-13,Cochabamba,Alalay,1,66%
+35,2021-11-13,Cochabamba,Aiquile,1,68%
+36,2021-11-13,Cochabamba,Tacachi,1,71%
+37,2021-11-13,Cochabamba,Cliza,1,75%
+38,2021-11-13,Cochabamba,Punata,1,77%
+39,2021-11-13,Cochabamba,Arbieto,1,78%
+40,2021-11-13,Cochabamba,Omereque,1,81%
+41,2021-11-13,Cochabamba,Anzaldo,1,84%
+42,2021-11-13,Cochabamba,Tolata,1,91%
+43,2021-11-13,Cochabamba,Tarata,1,93%
+44,2021-11-13,Cochabamba,Cochabamba,1,99%
+45,2021-11-13,Cochabamba,Cuchumuela (V. G. Villarroel),1,102%
+46,2021-11-13,Cochabamba,Santivañes,1,133%
+0,2021-11-13,Chuquisaca,Presto,1,18%
+1,2021-11-13,Chuquisaca,Tarabuco,1,22%
+2,2021-11-13,Chuquisaca,Villa Charcas,1,22%
+3,2021-11-13,Chuquisaca,Incahuasi,1,23%
+4,2021-11-13,Chuquisaca,Poroma,1,25%
+5,2021-11-13,Chuquisaca,Tarvita,1,29%
+6,2021-11-13,Chuquisaca,Zudañez,1,30%
+7,2021-11-13,Chuquisaca,Yamparaez,1,31%
+8,2021-11-13,Chuquisaca,Sopachuy,1,32%
+9,2021-11-13,Chuquisaca,Mojocoya,1,40%
+10,2021-11-13,Chuquisaca,San Lucas,1,42%
+11,2021-11-13,Chuquisaca,Culpina,1,45%
+12,2021-11-13,Chuquisaca,Icla,1,46%
+13,2021-11-13,Chuquisaca,Azurduy,1,48%
+14,2021-11-13,Chuquisaca,Tomina,1,49%
+15,2021-11-13,Chuquisaca,Alcala,1,52%
+16,2021-11-13,Chuquisaca,Las Carreras,1,52%
+17,2021-11-13,Chuquisaca,Yotala,1,52%
+18,2021-11-13,Chuquisaca,Camataqui (C. Villa Abecia),1,53%
+19,2021-11-13,Chuquisaca,El Villar,1,65%
+20,2021-11-13,Chuquisaca,Camargo,1,70%
+21,2021-11-13,Chuquisaca,Huacaya (Villa De Huacaya),1,71%
+22,2021-11-13,Chuquisaca,Machareti,1,73%
+23,2021-11-13,Chuquisaca,Villa Serrano,1,75%
+24,2021-11-13,Chuquisaca,Villa Vaca Guzman (Muyupampa),1,78%
+25,2021-11-13,Chuquisaca,Padilla,1,85%
+26,2021-11-13,Chuquisaca,Huacareta,1,87%
+27,2021-11-13,Chuquisaca,Sucre,1,88%
+28,2021-11-13,Chuquisaca,Monteagudo,1,89%
+0,2021-11-13,Tarija,Yunchara,1,51%
+1,2021-11-13,Tarija,El Puente(Tja),1,66%
+2,2021-11-13,Tarija,Bermejo,1,69%
+3,2021-11-13,Tarija,Entre Rios,1,69%
+4,2021-11-13,Tarija,Padcaya,1,69%
+5,2021-11-13,Tarija,Yacuiba,1,69%
+6,2021-11-13,Tarija,Carapari,1,71%
+7,2021-11-13,Tarija,Uriondo (A. Concepcion),1,73%
+8,2021-11-13,Tarija,San Lorenzo(Tja),1,74%
+9,2021-11-13,Tarija,Villa Montes,1,77%
+10,2021-11-13,Tarija,Tarija,1,78%
+0,2021-11-13,La Paz,Ancoraimes,1,13%
+1,2021-11-13,La Paz,Aucapata,1,13%
+2,2021-11-13,La Paz,Caquiaviri,1,13%
+3,2021-11-13,La Paz,Tito Yupanqui (Parquipujio),1,13%
+4,2021-11-13,La Paz,Calacoto,1,17%
+5,2021-11-13,La Paz,Gral. J.J. Perez (Charazani),1,19%
+6,2021-11-13,La Paz,Humanata,1,19%
+7,2021-11-13,La Paz,Combaya,1,20%
+8,2021-11-13,La Paz,Sorata,1,20%
+9,2021-11-13,La Paz,Apolo,1,21%
+10,2021-11-13,La Paz,Curva,1,21%
+11,2021-11-13,La Paz,Catacora,1,22%
+12,2021-11-13,La Paz,Santiago De Callapa,1,22%
+13,2021-11-13,La Paz,Sapahaqui,1,22%
+14,2021-11-13,La Paz,Pelechuco,1,24%
+15,2021-11-13,La Paz,Sica Sica (Villa Aroma),1,24%
+16,2021-11-13,La Paz,Mecapaca,1,25%
+17,2021-11-13,La Paz,Puerto Carabuco,1,25%
+18,2021-11-13,La Paz,Ayata,1,26%
+19,2021-11-13,La Paz,Chacarilla,1,26%
+20,2021-11-13,La Paz,Charaña,1,26%
+21,2021-11-13,La Paz,La Asunta,1,26%
+22,2021-11-13,La Paz,Mapiri,1,26%
+23,2021-11-13,La Paz,Mocomoco,1,26%
+24,2021-11-13,La Paz,Batallas,1,27%
+25,2021-11-13,La Paz,Ichoca,1,28%
+26,2021-11-13,La Paz,Licoma Pampa,1,28%
+27,2021-11-13,La Paz,Alto Beni,1,29%
+28,2021-11-13,La Paz,Cairoma,1,29%
+29,2021-11-13,La Paz,Comanche,1,29%
+30,2021-11-13,La Paz,Chuma,1,30%
+31,2021-11-13,La Paz,Pucarani,1,30%
+32,2021-11-13,La Paz,Santiago De Huata,1,30%
+33,2021-11-13,La Paz,Tacacoma,1,30%
+34,2021-11-13,La Paz,Waldo Ballivian,1,30%
+35,2021-11-13,La Paz,Colquencha,1,31%
+36,2021-11-13,La Paz,Chulumani (V. De La Libertad),1,32%
+37,2021-11-13,La Paz,Copacabana,1,32%
+38,2021-11-13,La Paz,Guanay,1,32%
+39,2021-11-13,La Paz,Malla,1,32%
+40,2021-11-13,La Paz,Taraco,1,32%
+41,2021-11-13,La Paz,Tiawanacu,1,32%
+42,2021-11-13,La Paz,Caranavi,1,33%
+43,2021-11-13,La Paz,San Andres De Machaca,1,33%
+44,2021-11-13,La Paz,San Pedro De Curahuara,1,33%
+45,2021-11-13,La Paz,Coripata,1,34%
+46,2021-11-13,La Paz,Inquisivi,1,34%
+47,2021-11-13,La Paz,Jesus De Machaca,1,34%
+48,2021-11-13,La Paz,Coro Coro,1,35%
+49,2021-11-13,La Paz,Puerto Perez,1,35%
+50,2021-11-13,La Paz,Quiabaya,1,35%
+51,2021-11-13,La Paz,Santiago De Machaca,1,35%
+52,2021-11-13,La Paz,Ayo Ayo,1,36%
+53,2021-11-13,La Paz,Coroico,1,36%
+54,2021-11-13,La Paz,Irupana (Villa De Lanza),1,36%
+55,2021-11-13,La Paz,Palos Blancos,1,36%
+56,2021-11-13,La Paz,Chua Cocani,1,38%
+57,2021-11-13,La Paz,Huarina ,1,38%
+58,2021-11-13,La Paz,Achacachi,1,39%
+59,2021-11-13,La Paz,Patacamaya,1,39%
+60,2021-11-13,La Paz,Tipuani,1,39%
+61,2021-11-13,La Paz,Cajuata,1,40%
+62,2021-11-13,La Paz,Calamarca,1,40%
+63,2021-11-13,La Paz,Escoma,1,40%
+64,2021-11-13,La Paz,Papel Pampa,1,40%
+65,2021-11-13,La Paz,Colquiri,1,41%
+66,2021-11-13,La Paz,Huatajata,1,41%
+67,2021-11-13,La Paz,Laja,1,41%
+68,2021-11-13,La Paz,Luribay,1,41%
+69,2021-11-13,La Paz,Teoponte,1,41%
+70,2021-11-13,La Paz,Yaco,1,41%
+71,2021-11-13,La Paz,Ixiamas,1,42%
+72,2021-11-13,La Paz,Palca,1,42%
+73,2021-11-13,La Paz,Desaguadero,1,43%
+74,2021-11-13,La Paz,Guaqui,1,44%
+75,2021-11-13,La Paz,Collana,1,45%
+76,2021-11-13,La Paz,Puerto Acosta,1,45%
+77,2021-11-13,La Paz,San Pedro De Tiquina,1,46%
+78,2021-11-13,La Paz,Umala,1,46%
+79,2021-11-13,La Paz,Quime,1,47%
+80,2021-11-13,La Paz,Nazacara De Pacajes,1,48%
+81,2021-11-13,La Paz,Yanacachi,1,48%
+82,2021-11-13,La Paz,San Buena Ventura,1,50%
+83,2021-11-13,La Paz,Viacha,1,52%
+84,2021-11-13,La Paz,El Alto,1,54%
+85,2021-11-13,La Paz,Achocalla,1,71%
+86,2021-11-13,La Paz,La Paz,1,104%
+0,2021-11-13,Potosí,San Pedro De Buena Vista,1,14%
+1,2021-11-13,Potosí,Tinguipaya,1,15%
+2,2021-11-13,Potosí,Chuquihuta Ayllu Jucumani,1,20%
+3,2021-11-13,Potosí,Acacio,1,22%
+4,2021-11-13,Potosí,Colquechaca,1,22%
+5,2021-11-13,Potosí,Belen De Urmiri,1,23%
+6,2021-11-13,Potosí,Pocoata,1,23%
+7,2021-11-13,Potosí,Mojinete,1,24%
+8,2021-11-13,Potosí,Toro Toro,1,26%
+9,2021-11-13,Potosí,San Antonio De Esmoruco,1,27%
+10,2021-11-13,Potosí,Ravelo,1,29%
+11,2021-11-13,Potosí,Ckochas,1,30%
+12,2021-11-13,Potosí,Chayanta,1,31%
+13,2021-11-13,Potosí,Ocuri,1,31%
+14,2021-11-13,Potosí,Puna,1,31%
+15,2021-11-13,Potosí,Tacobamba,1,34%
+16,2021-11-13,Potosí,Llica,1,36%
+17,2021-11-13,Potosí,Porco,1,36%
+18,2021-11-13,Potosí,Tomave,1,36%
+19,2021-11-13,Potosí,Uncia,1,36%
+20,2021-11-13,Potosí,San P.De Quemes,1,37%
+21,2021-11-13,Potosí,Arampampa,1,39%
+22,2021-11-13,Potosí,Betanzos,1,39%
+23,2021-11-13,Potosí,San P. De Lipez,1,39%
+24,2021-11-13,Potosí,Sacaca,1,40%
+25,2021-11-13,Potosí,Yocalla,1,40%
+26,2021-11-13,Potosí,Cotagaita,1,41%
+27,2021-11-13,Potosí,Chaqui,1,42%
+28,2021-11-13,Potosí,"Caiza ""D""",1,46%
+29,2021-11-13,Potosí,Vitichi,1,51%
+30,2021-11-13,Potosí,Caripuyo,1,52%
+31,2021-11-13,Potosí,Llallagua,1,57%
+32,2021-11-13,Potosí,Tahua,1,58%
+33,2021-11-13,Potosí,Villazon,1,68%
+34,2021-11-13,Potosí,"Colcha ""K""",1,70%
+35,2021-11-13,Potosí,Uyuni,1,70%
+36,2021-11-13,Potosí,San Agustin,1,77%
+37,2021-11-13,Potosí,Potosí,1,79%
+38,2021-11-13,Potosí,Tupiza,1,87%
+39,2021-11-13,Potosí,Atocha,1,93%
+0,2021-11-13,Oruro,Cruz De Machacamarca,1,6%
+1,2021-11-13,Oruro,Escara,1,9%
+2,2021-11-13,Oruro,Todos Santos,1,17%
+3,2021-11-13,Oruro,El Choro,1,18%
+4,2021-11-13,Oruro,Esmeralda,1,20%
+5,2021-11-13,Oruro,Chipaya,1,22%
+6,2021-11-13,Oruro,Carangas,1,23%
+7,2021-11-13,Oruro,Santiago De Huari,1,26%
+8,2021-11-13,Oruro,Toledo,1,28%
+9,2021-11-13,Oruro,Salinas De Garci Mendoza,1,30%
+10,2021-11-13,Oruro,La Rivera,1,32%
+11,2021-11-13,Oruro,Santuario De Quillacas,1,40%
+12,2021-11-13,Oruro,Corque,1,41%
+13,2021-11-13,Oruro,Sabaya,1,41%
+14,2021-11-13,Oruro,Andamarca,1,42%
+15,2021-11-13,Oruro,Belen De Andamarca,1,43%
+16,2021-11-13,Oruro,Coipasa,1,43%
+17,2021-11-13,Oruro,Challapata,1,45%
+18,2021-11-13,Oruro,Turco,1,46%
+19,2021-11-13,Oruro,Yunguyo De Litoral,1,47%
+20,2021-11-13,Oruro,Poopo,1,48%
+21,2021-11-13,Oruro,Choque Cota,1,49%
+22,2021-11-13,Oruro,Caracollo,1,50%
+23,2021-11-13,Oruro,Eucaliptus,1,53%
+24,2021-11-13,Oruro,Pampa Aullagas,1,53%
+25,2021-11-13,Oruro,Pazña,1,53%
+26,2021-11-13,Oruro,Totora(Orr),1,54%
+27,2021-11-13,Oruro,Soracachi,1,55%
+28,2021-11-13,Oruro,Antequera,1,85%
+29,2021-11-13,Oruro,Huachacalla,1,99%
+30,2021-11-13,Oruro,Antequera,1,85%
+31,2021-11-13,Oruro,Huachacalla,1,99%
+32,2021-11-13,Oruro,Antequera,1,85%
+33,2021-11-13,Oruro,Antequera,1,85%
+34,2021-11-13,Oruro,Huachacalla,1,99%
+0,2021-11-13,Santa Cruz,Pailon,2,18%
+1,2021-11-13,Santa Cruz,Yapacani,2,21%
+2,2021-11-13,Santa Cruz,San Jose De Chiquitos,2,26%
+3,2021-11-13,Santa Cruz,El Puente(Stc),2,29%
+4,2021-11-13,Santa Cruz,San Julian,2,29%
+5,2021-11-13,Santa Cruz,Ascencion De Guarayos,2,32%
+6,2021-11-13,Santa Cruz,La Guardia,2,32%
+7,2021-11-13,Santa Cruz,Charagua,2,34%
+8,2021-11-13,Santa Cruz,Santa Rosa Del Sara,2,34%
+9,2021-11-13,Santa Cruz,Cuatro Cañadas,2,36%
+10,2021-11-13,Santa Cruz,Urubicha,2,36%
+11,2021-11-13,Santa Cruz,Fernandez Alonso,2,37%
+12,2021-11-13,Santa Cruz,Warnes,2,37%
+13,2021-11-13,Santa Cruz,Saipina,2,41%
+14,2021-11-13,Santa Cruz,San Pedro,2,42%
+15,2021-11-13,Santa Cruz,Pampa Grande,2,43%
+16,2021-11-13,Santa Cruz,San Carlos,2,45%
+17,2021-11-13,Santa Cruz,Mineros,2,51%
+18,2021-11-13,Santa Cruz,Cabezas,2,52%
+19,2021-11-13,Santa Cruz,San Antonio De Lomerio,2,52%
+20,2021-11-13,Santa Cruz,San Juan De Yapacani,2,52%
+21,2021-11-13,Santa Cruz,Mairana,2,54%
+22,2021-11-13,Santa Cruz,Montero,2,55%
+23,2021-11-13,Santa Cruz,Quirusillas,2,55%
+24,2021-11-13,Santa Cruz,Gutierrez,2,56%
+25,2021-11-13,Santa Cruz,Postrer Valle,2,56%
+26,2021-11-13,Santa Cruz,Trigal,2,59%
+27,2021-11-13,Santa Cruz,Comarapa,2,60%
+28,2021-11-13,Santa Cruz,San Javier(Stc),2,60%
+29,2021-11-13,Santa Cruz,San Rafael,2,60%
+30,2021-11-13,Santa Cruz,El Torno,2,63%
+31,2021-11-13,Santa Cruz,Buena Vista,2,64%
+32,2021-11-13,Santa Cruz,Concepcion,2,66%
+33,2021-11-13,Santa Cruz,Santa Cruz de la Sierra,2,66%
+34,2021-11-13,Santa Cruz,Cuevo,2,67%
+35,2021-11-13,Santa Cruz,San Ignacio De Velasco,2,68%
+36,2021-11-13,Santa Cruz,Carmen Rivero Torrez,2,69%
+37,2021-11-13,Santa Cruz,Porongo,2,69%
+38,2021-11-13,Santa Cruz,Puerto Suarez,2,70%
+39,2021-11-13,Santa Cruz,San Ramon,2,70%
+40,2021-11-13,Santa Cruz,Boyuibe,2,72%
+41,2021-11-13,Santa Cruz,San Miguel De Velasco,2,72%
+42,2021-11-13,Santa Cruz,Okinawa,2,73%
+43,2021-11-13,Santa Cruz,Robore,2,73%
+44,2021-11-13,Santa Cruz,Cotoca,2,74%
+45,2021-11-13,Santa Cruz,Samaipata,2,74%
+46,2021-11-13,Santa Cruz,Moro Moro,2,75%
+47,2021-11-13,Santa Cruz,Pucara,2,75%
+48,2021-11-13,Santa Cruz,Puerto Quijarro,2,77%
+49,2021-11-13,Santa Cruz,General Saavedra,2,78%
+50,2021-11-13,Santa Cruz,Portachuelo,2,78%
+51,2021-11-13,Santa Cruz,Vallegrande,2,80%
+52,2021-11-13,Santa Cruz,San Matias,2,83%
+53,2021-11-13,Santa Cruz,Lagunillas,2,84%
+54,2021-11-13,Santa Cruz,Colpa Belgica,2,91%
+55,2021-11-13,Santa Cruz,Camiri,2,92%
+0,2021-11-13,Beni,Loreto,2,15%
+1,2021-11-13,Beni,San Javier(Bni),2,16%
+2,2021-11-13,Beni,Exaltacion,2,17%
+3,2021-11-13,Beni,San Borja,2,22%
+4,2021-11-13,Beni,Reyes,2,29%
+5,2021-11-13,Beni,Rurrenabaque,2,30%
+6,2021-11-13,Beni,San Joaquin,2,37%
+7,2021-11-13,Beni,San Andres,2,38%
+8,2021-11-13,Beni,Magdalena,2,42%
+9,2021-11-13,Beni,Trinidad,2,43%
+10,2021-11-13,Beni,Santa Ana,2,44%
+11,2021-11-13,Beni,Huaracaje,2,46%
+12,2021-11-13,Beni,San Ignacio,2,49%
+13,2021-11-13,Beni,Santa Rosa,2,54%
+14,2021-11-13,Beni,Puerto Siles,2,55%
+15,2021-11-13,Beni,Riberalta,2,55%
+16,2021-11-13,Beni,San Ramon,2,56%
+17,2021-11-13,Beni,Guayaramerin,2,59%
+18,2021-11-13,Beni,Baures,2,73%
+0,2021-11-13,Pando,Ingavi (Humaita),2,16%
+1,2021-11-13,Pando,Sena,2,21%
+2,2021-11-13,Pando,San Lorenzo(Pnd),2,22%
+3,2021-11-13,Pando,Nuevo Manoa (Nueva Esperanza),2,28%
+4,2021-11-13,Pando,San Pedro(Pnd),2,32%
+5,2021-11-13,Pando,Bolpebra,2,33%
+6,2021-11-13,Pando,Eureka (Santos Mercado),2,35%
+7,2021-11-13,Pando,Porvenir,2,35%
+8,2021-11-13,Pando,Villa Nueva (Loma Alta),2,38%
+9,2021-11-13,Pando,Filadelfia,2,39%
+10,2021-11-13,Pando,Puerto Gonzalo Moreno,2,39%
+11,2021-11-13,Pando,Cobija,2,49%
+12,2021-11-13,Pando,Nacebe (Santa Rosa Del Abuna),2,51%
+13,2021-11-13,Pando,Bella Flor,2,54%
+14,2021-11-13,Pando,Puerto Rico,2,62%
+0,2021-11-13,Cochabamba,Tacopaya,2,24%
+1,2021-11-13,Cochabamba,Vacas,2,24%
+2,2021-11-13,Cochabamba,Pojo (Cbba),2,25%
+3,2021-11-13,Cochabamba,Bolivar,2,27%
+4,2021-11-13,Cochabamba,Vinto,2,33%
+5,2021-11-13,Cochabamba,Colomi,2,34%
+6,2021-11-13,Cochabamba,Sipe Sipe,2,36%
+7,2021-11-13,Cochabamba,Pasorapa,2,37%
+8,2021-11-13,Cochabamba,Sacaba,2,37%
+9,2021-11-13,Cochabamba,Tiraque (Cbba),2,37%
+10,2021-11-13,Cochabamba,Tiquipaya,2,38%
+11,2021-11-13,Cochabamba,Cocapata,2,39%
+12,2021-11-13,Cochabamba,Colcapirhua,2,39%
+13,2021-11-13,Cochabamba,Morochata,2,39%
+14,2021-11-13,Cochabamba,Sicaya,2,39%
+15,2021-11-13,Cochabamba,Totora(Cbba),2,39%
+16,2021-11-13,Cochabamba,Mizque,2,40%
+17,2021-11-13,Cochabamba,Puerto Villarroel,2,40%
+18,2021-11-13,Cochabamba,Ayopaya (V. De Independencia),2,41%
+19,2021-11-13,Cochabamba,Vila Vila,2,41%
+20,2021-11-13,Cochabamba,Tapacari,2,42%
+21,2021-11-13,Cochabamba,Entre Rios,2,43%
+22,2021-11-13,Cochabamba,Shinaota,2,43%
+23,2021-11-13,Cochabamba,Villa Tunari,2,43%
+24,2021-11-13,Cochabamba,Arani,2,44%
+25,2021-11-13,Cochabamba,Sacabamba,2,45%
+26,2021-11-13,Cochabamba,San Benito,2,45%
+27,2021-11-13,Cochabamba,Villa Rivero,2,45%
+28,2021-11-13,Cochabamba,Chimore,2,48%
+29,2021-11-13,Cochabamba,Toco,2,48%
+30,2021-11-13,Cochabamba,Capinota,2,50%
+31,2021-11-13,Cochabamba,Quillacollo,2,52%
+32,2021-11-13,Cochabamba,Pocona,2,53%
+33,2021-11-13,Cochabamba,Arque,2,54%
+34,2021-11-13,Cochabamba,Alalay,2,62%
+35,2021-11-13,Cochabamba,Tacachi,2,65%
+36,2021-11-13,Cochabamba,Aiquile,2,66%
+37,2021-11-13,Cochabamba,Arbieto,2,66%
+38,2021-11-13,Cochabamba,Cliza,2,68%
+39,2021-11-13,Cochabamba,Anzaldo,2,70%
+40,2021-11-13,Cochabamba,Punata,2,70%
+41,2021-11-13,Cochabamba,Omereque,2,80%
+42,2021-11-13,Cochabamba,Tolata,2,83%
+43,2021-11-13,Cochabamba,Cochabamba,2,86%
+44,2021-11-13,Cochabamba,Tarata,2,87%
+45,2021-11-13,Cochabamba,Cuchumuela (V. G. Villarroel),2,92%
+46,2021-11-13,Cochabamba,Santivañes,2,125%
+0,2021-11-13,Chuquisaca,Presto,2,16%
+1,2021-11-13,Chuquisaca,Incahuasi,2,19%
+2,2021-11-13,Chuquisaca,Poroma,2,19%
+3,2021-11-13,Chuquisaca,Villa Charcas,2,19%
+4,2021-11-13,Chuquisaca,Tarabuco,2,20%
+5,2021-11-13,Chuquisaca,Tarvita,2,24%
+6,2021-11-13,Chuquisaca,Yamparaez,2,26%
+7,2021-11-13,Chuquisaca,Sopachuy,2,27%
+8,2021-11-13,Chuquisaca,Zudañez,2,27%
+9,2021-11-13,Chuquisaca,Mojocoya,2,35%
+10,2021-11-13,Chuquisaca,Icla,2,39%
+11,2021-11-13,Chuquisaca,San Lucas,2,40%
+12,2021-11-13,Chuquisaca,Culpina,2,41%
+13,2021-11-13,Chuquisaca,Azurduy,2,43%
+14,2021-11-13,Chuquisaca,Tomina,2,46%
+15,2021-11-13,Chuquisaca,Las Carreras,2,48%
+16,2021-11-13,Chuquisaca,Yotala,2,49%
+17,2021-11-13,Chuquisaca,Alcala,2,52%
+18,2021-11-13,Chuquisaca,Camataqui (C. Villa Abecia),2,52%
+19,2021-11-13,Chuquisaca,El Villar,2,58%
+20,2021-11-13,Chuquisaca,Camargo,2,68%
+21,2021-11-13,Chuquisaca,Huacaya (Villa De Huacaya),2,69%
+22,2021-11-13,Chuquisaca,Machareti,2,69%
+23,2021-11-13,Chuquisaca,Villa Vaca Guzman (Muyupampa),2,72%
+24,2021-11-13,Chuquisaca,Villa Serrano,2,73%
+25,2021-11-13,Chuquisaca,Sucre,2,75%
+26,2021-11-13,Chuquisaca,Huacareta,2,82%
+27,2021-11-13,Chuquisaca,Padilla,2,83%
+28,2021-11-13,Chuquisaca,Monteagudo,2,84%
+0,2021-11-13,Tarija,Yunchara,2,46%
+1,2021-11-13,Tarija,El Puente(Tja),2,55%
+2,2021-11-13,Tarija,Entre Rios,2,61%
+3,2021-11-13,Tarija,Yacuiba,2,61%
+4,2021-11-13,Tarija,Bermejo,2,62%
+5,2021-11-13,Tarija,Carapari,2,64%
+6,2021-11-13,Tarija,Padcaya,2,64%
+7,2021-11-13,Tarija,San Lorenzo(Tja),2,66%
+8,2021-11-13,Tarija,Uriondo (A. Concepcion),2,66%
+9,2021-11-13,Tarija,Tarija,2,69%
+10,2021-11-13,Tarija,Villa Montes,2,69%
+0,2021-11-13,La Paz,Ancoraimes,2,11%
+1,2021-11-13,La Paz,Aucapata,2,11%
+2,2021-11-13,La Paz,Caquiaviri,2,12%
+3,2021-11-13,La Paz,Tito Yupanqui (Parquipujio),2,12%
+4,2021-11-13,La Paz,Humanata,2,15%
+5,2021-11-13,La Paz,Apolo,2,17%
+6,2021-11-13,La Paz,Calacoto,2,17%
+7,2021-11-13,La Paz,Gral. J.J. Perez (Charazani),2,17%
+8,2021-11-13,La Paz,Combaya,2,18%
+9,2021-11-13,La Paz,Santiago De Callapa,2,18%
+10,2021-11-13,La Paz,Sorata,2,19%
+11,2021-11-13,La Paz,Curva,2,20%
+12,2021-11-13,La Paz,Sapahaqui,2,20%
+13,2021-11-13,La Paz,Catacora,2,21%
+14,2021-11-13,La Paz,Pelechuco,2,21%
+15,2021-11-13,La Paz,Sica Sica (Villa Aroma),2,22%
+16,2021-11-13,La Paz,Mapiri,2,23%
+17,2021-11-13,La Paz,Ayata,2,24%
+18,2021-11-13,La Paz,Charaña,2,24%
+19,2021-11-13,La Paz,La Asunta,2,24%
+20,2021-11-13,La Paz,Mecapaca,2,24%
+21,2021-11-13,La Paz,Puerto Carabuco,2,24%
+22,2021-11-13,La Paz,Batallas,2,25%
+23,2021-11-13,La Paz,Mocomoco,2,25%
+24,2021-11-13,La Paz,Chacarilla,2,26%
+25,2021-11-13,La Paz,Comanche,2,26%
+26,2021-11-13,La Paz,Alto Beni,2,27%
+27,2021-11-13,La Paz,Cairoma,2,27%
+28,2021-11-13,La Paz,Chuma,2,27%
+29,2021-11-13,La Paz,Ichoca,2,27%
+30,2021-11-13,La Paz,Licoma Pampa,2,27%
+31,2021-11-13,La Paz,Santiago De Huata,2,27%
+32,2021-11-13,La Paz,Colquencha,2,28%
+33,2021-11-13,La Paz,Pucarani,2,28%
+34,2021-11-13,La Paz,Waldo Ballivian,2,28%
+35,2021-11-13,La Paz,Caranavi,2,29%
+36,2021-11-13,La Paz,Chulumani (V. De La Libertad),2,29%
+37,2021-11-13,La Paz,San Andres De Machaca,2,29%
+38,2021-11-13,La Paz,Taraco,2,29%
+39,2021-11-13,La Paz,Copacabana,2,30%
+40,2021-11-13,La Paz,Malla,2,30%
+41,2021-11-13,La Paz,Tacacoma,2,30%
+42,2021-11-13,La Paz,Tiawanacu,2,30%
+43,2021-11-13,La Paz,Guanay,2,31%
+44,2021-11-13,La Paz,Coripata,2,32%
+45,2021-11-13,La Paz,Inquisivi,2,32%
+46,2021-11-13,La Paz,Puerto Perez,2,32%
+47,2021-11-13,La Paz,San Pedro De Curahuara,2,32%
+48,2021-11-13,La Paz,Ayo Ayo,2,33%
+49,2021-11-13,La Paz,Coro Coro,2,33%
+50,2021-11-13,La Paz,Jesus De Machaca,2,33%
+51,2021-11-13,La Paz,Palos Blancos,2,33%
+52,2021-11-13,La Paz,Santiago De Machaca,2,33%
+53,2021-11-13,La Paz,Coroico,2,34%
+54,2021-11-13,La Paz,Irupana (Villa De Lanza),2,34%
+55,2021-11-13,La Paz,Quiabaya,2,34%
+56,2021-11-13,La Paz,Papel Pampa,2,35%
+57,2021-11-13,La Paz,Chua Cocani,2,36%
+58,2021-11-13,La Paz,Huarina ,2,36%
+59,2021-11-13,La Paz,Achacachi,2,37%
+60,2021-11-13,La Paz,Colquiri,2,37%
+61,2021-11-13,La Paz,Escoma,2,37%
+62,2021-11-13,La Paz,Cajuata,2,38%
+63,2021-11-13,La Paz,Calamarca,2,38%
+64,2021-11-13,La Paz,Luribay,2,38%
+65,2021-11-13,La Paz,Palca,2,38%
+66,2021-11-13,La Paz,Patacamaya,2,38%
+67,2021-11-13,La Paz,Teoponte,2,38%
+68,2021-11-13,La Paz,Tipuani,2,38%
+69,2021-11-13,La Paz,Yaco,2,38%
+70,2021-11-13,La Paz,Huatajata,2,40%
+71,2021-11-13,La Paz,Laja,2,40%
+72,2021-11-13,La Paz,Desaguadero,2,41%
+73,2021-11-13,La Paz,El Alto,2,41%
+74,2021-11-13,La Paz,Collana,2,42%
+75,2021-11-13,La Paz,Guaqui,2,42%
+76,2021-11-13,La Paz,Ixiamas,2,42%
+77,2021-11-13,La Paz,Puerto Acosta,2,42%
+78,2021-11-13,La Paz,San Pedro De Tiquina,2,42%
+79,2021-11-13,La Paz,Umala,2,43%
+80,2021-11-13,La Paz,Nazacara De Pacajes,2,44%
+81,2021-11-13,La Paz,Quime,2,44%
+82,2021-11-13,La Paz,Yanacachi,2,46%
+83,2021-11-13,La Paz,San Buena Ventura,2,48%
+84,2021-11-13,La Paz,Viacha,2,49%
+85,2021-11-13,La Paz,Achocalla,2,65%
+86,2021-11-13,La Paz,La Paz,2,93%
+0,2021-11-13,Potosí,San Pedro De Buena Vista,2,9%
+1,2021-11-13,Potosí,Tinguipaya,2,13%
+2,2021-11-13,Potosí,Acacio,2,15%
+3,2021-11-13,Potosí,Chuquihuta Ayllu Jucumani,2,17%
+4,2021-11-13,Potosí,Colquechaca,2,17%
+5,2021-11-13,Potosí,Toro Toro,2,18%
+6,2021-11-13,Potosí,Belen De Urmiri,2,20%
+7,2021-11-13,Potosí,Pocoata,2,20%
+8,2021-11-13,Potosí,San Antonio De Esmoruco,2,20%
+9,2021-11-13,Potosí,Ravelo,2,23%
+10,2021-11-13,Potosí,Mojinete,2,24%
+11,2021-11-13,Potosí,Ckochas,2,25%
+12,2021-11-13,Potosí,Chayanta,2,26%
+13,2021-11-13,Potosí,Ocuri,2,27%
+14,2021-11-13,Potosí,Puna,2,27%
+15,2021-11-13,Potosí,Porco,2,28%
+16,2021-11-13,Potosí,Tacobamba,2,29%
+17,2021-11-13,Potosí,Chaqui,2,30%
+18,2021-11-13,Potosí,San P.De Quemes,2,31%
+19,2021-11-13,Potosí,Llica,2,32%
+20,2021-11-13,Potosí,Tomave,2,32%
+21,2021-11-13,Potosí,Uncia,2,32%
+22,2021-11-13,Potosí,Betanzos,2,34%
+23,2021-11-13,Potosí,Yocalla,2,34%
+24,2021-11-13,Potosí,Arampampa,2,35%
+25,2021-11-13,Potosí,Sacaca,2,35%
+26,2021-11-13,Potosí,San P. De Lipez,2,35%
+27,2021-11-13,Potosí,Cotagaita,2,38%
+28,2021-11-13,Potosí,"Caiza ""D""",2,40%
+29,2021-11-13,Potosí,Caripuyo,2,41%
+30,2021-11-13,Potosí,Vitichi,2,47%
+31,2021-11-13,Potosí,Llallagua,2,50%
+32,2021-11-13,Potosí,Tahua,2,51%
+33,2021-11-13,Potosí,Villazon,2,58%
+34,2021-11-13,Potosí,Uyuni,2,61%
+35,2021-11-13,Potosí,Potosí,2,66%
+36,2021-11-13,Potosí,"Colcha ""K""",2,67%
+37,2021-11-13,Potosí,San Agustin,2,74%
+38,2021-11-13,Potosí,Tupiza,2,82%
+39,2021-11-13,Potosí,Atocha,2,88%
+0,2021-11-13,Oruro,Cruz De Machacamarca,2,6%
+1,2021-11-13,Oruro,Escara,2,9%
+2,2021-11-13,Oruro,Todos Santos,2,16%
+3,2021-11-13,Oruro,El Choro,2,17%
+4,2021-11-13,Oruro,Chipaya,2,18%
+5,2021-11-13,Oruro,Esmeralda,2,19%
+6,2021-11-13,Oruro,Carangas,2,22%
+7,2021-11-13,Oruro,Santiago De Huari,2,24%
+8,2021-11-13,Oruro,Toledo,2,26%
+9,2021-11-13,Oruro,Salinas De Garci Mendoza,2,27%
+10,2021-11-13,Oruro,La Rivera,2,31%
+11,2021-11-13,Oruro,Corque,2,39%
+12,2021-11-13,Oruro,Santuario De Quillacas,2,39%
+13,2021-11-13,Oruro,Andamarca,2,40%
+14,2021-11-13,Oruro,Sabaya,2,40%
+15,2021-11-13,Oruro,Coipasa,2,41%
+16,2021-11-13,Oruro,Belen De Andamarca,2,42%
+17,2021-11-13,Oruro,Challapata,2,42%
+18,2021-11-13,Oruro,Poopo,2,45%
+19,2021-11-13,Oruro,Turco,2,45%
+20,2021-11-13,Oruro,Yunguyo De Litoral,2,45%
+21,2021-11-13,Oruro,Choque Cota,2,46%
+22,2021-11-13,Oruro,Caracollo,2,47%
+23,2021-11-13,Oruro,Eucaliptus,2,47%
+24,2021-11-13,Oruro,Pampa Aullagas,2,47%
+25,2021-11-13,Oruro,Pazña,2,48%
+26,2021-11-13,Oruro,Totora(Orr),2,49%
+27,2021-11-13,Oruro,Soracachi,2,51%
+28,2021-11-13,Oruro,Huanuni,2,59%
+29,2021-11-13,Oruro,Huayllamarca,2,61%
+30,2021-11-13,Oruro,Machacamarca,2,61%
+31,2021-11-13,Oruro,Curahuara De Carangas,2,63%
+32,2021-11-13,Oruro,Oruro,2,66%
+33,2021-11-13,Oruro,Antequera,2,82%
+34,2021-11-13,Oruro,Huachacalla,2,97%
+0,2021-11-20,Santa Cruz,Yapacani,1,24%
+1,2021-11-20,Santa Cruz,Pailon,1,30%
+2,2021-11-20,Santa Cruz,San Julian,1,32%
+3,2021-11-20,Santa Cruz,San Jose De Chiquitos,1,33%
+4,2021-11-20,Santa Cruz,El Puente(Stc),1,35%
+5,2021-11-20,Santa Cruz,La Guardia,1,37%
+6,2021-11-20,Santa Cruz,Santa Rosa Del Sara,1,37%
+7,2021-11-20,Santa Cruz,Charagua,1,39%
+8,2021-11-20,Santa Cruz,Ascencion De Guarayos,1,40%
+9,2021-11-20,Santa Cruz,Cuatro Cañadas,1,40%
+10,2021-11-20,Santa Cruz,Warnes,1,41%
+11,2021-11-20,Santa Cruz,Fernandez Alonso,1,46%
+12,2021-11-20,Santa Cruz,Saipina,1,47%
+13,2021-11-20,Santa Cruz,San Carlos,1,49%
+14,2021-11-20,Santa Cruz,San Pedro,1,49%
+15,2021-11-20,Santa Cruz,Urubicha,1,52%
+16,2021-11-20,Santa Cruz,Pampa Grande,1,53%
+17,2021-11-20,Santa Cruz,San Juan De Yapacani,1,55%
+18,2021-11-20,Santa Cruz,Cabezas,1,57%
+19,2021-11-20,Santa Cruz,San Antonio De Lomerio,1,57%
+20,2021-11-20,Santa Cruz,Mairana,1,59%
+21,2021-11-20,Santa Cruz,Quirusillas,1,60%
+22,2021-11-20,Santa Cruz,Mineros,1,62%
+23,2021-11-20,Santa Cruz,Comarapa,1,65%
+24,2021-11-20,Santa Cruz,Gutierrez,1,65%
+25,2021-11-20,Santa Cruz,Postrer Valle,1,66%
+26,2021-11-20,Santa Cruz,San Javier(Stc),1,67%
+27,2021-11-20,Santa Cruz,Trigal,1,68%
+28,2021-11-20,Santa Cruz,Cuevo,1,70%
+29,2021-11-20,Santa Cruz,El Torno,1,70%
+30,2021-11-20,Santa Cruz,Montero,1,70%
+31,2021-11-20,Santa Cruz,San Rafael,1,70%
+32,2021-11-20,Santa Cruz,Buena Vista,1,71%
+33,2021-11-20,Santa Cruz,Carmen Rivero Torrez,1,72%
+34,2021-11-20,Santa Cruz,Boyuibe,1,73%
+35,2021-11-20,Santa Cruz,Puerto Suarez,1,73%
+36,2021-11-20,Santa Cruz,Concepcion,1,74%
+37,2021-11-20,Santa Cruz,Porongo,1,76%
+38,2021-11-20,Santa Cruz,Samaipata,1,76%
+39,2021-11-20,Santa Cruz,San Ignacio De Velasco,1,76%
+40,2021-11-20,Santa Cruz,San Ramon,1,77%
+41,2021-11-20,Santa Cruz,Okinawa,1,79%
+42,2021-11-20,Santa Cruz,San Miguel De Velasco,1,79%
+43,2021-11-20,Santa Cruz,Santa Cruz de la Sierra,1,80%
+44,2021-11-20,Santa Cruz,Portachuelo,1,81%
+45,2021-11-20,Santa Cruz,Pucara,1,83%
+46,2021-11-20,Santa Cruz,Puerto Quijarro,1,86%
+47,2021-11-20,Santa Cruz,San Matias,1,87%
+48,2021-11-20,Santa Cruz,Lagunillas,1,89%
+49,2021-11-20,Santa Cruz,General Saavedra,1,90%
+50,2021-11-20,Santa Cruz,Moro Moro,1,90%
+51,2021-11-20,Santa Cruz,Robore,1,90%
+52,2021-11-20,Santa Cruz,Vallegrande,1,90%
+53,2021-11-20,Santa Cruz,Colpa Belgica,1,96%
+54,2021-11-20,Santa Cruz,Cotoca,1,96%
+55,2021-11-20,Santa Cruz,Camiri,1,97%
+0,2021-11-20,Beni,Exaltacion,1,17%
+1,2021-11-20,Beni,San Javier(Bni),1,19%
+2,2021-11-20,Beni,Loreto,1,20%
+3,2021-11-20,Beni,San Borja,1,26%
+4,2021-11-20,Beni,Reyes,1,35%
+5,2021-11-20,Beni,Rurrenabaque,1,36%
+6,2021-11-20,Beni,San Andres,1,45%
+7,2021-11-20,Beni,Magdalena,1,48%
+8,2021-11-20,Beni,Huaracaje,1,49%
+9,2021-11-20,Beni,San Joaquin,1,49%
+10,2021-11-20,Beni,Santa Ana,1,50%
+11,2021-11-20,Beni,San Ignacio,1,56%
+12,2021-11-20,Beni,Trinidad,1,58%
+13,2021-11-20,Beni,Santa Rosa,1,62%
+14,2021-11-20,Beni,Puerto Siles,1,65%
+15,2021-11-20,Beni,San Ramon,1,67%
+16,2021-11-20,Beni,Riberalta,1,74%
+17,2021-11-20,Beni,Guayaramerin,1,77%
+18,2021-11-20,Beni,Baures,1,80%
+0,2021-11-20,Pando,Ingavi (Humaita),1,34%
+1,2021-11-20,Pando,San Lorenzo(Pnd),1,36%
+2,2021-11-20,Pando,Sena,1,37%
+3,2021-11-20,Pando,San Pedro(Pnd),1,38%
+4,2021-11-20,Pando,Nuevo Manoa (Nueva Esperanza),1,41%
+5,2021-11-20,Pando,Bolpebra,1,45%
+6,2021-11-20,Pando,Eureka (Santos Mercado),1,49%
+7,2021-11-20,Pando,Porvenir,1,50%
+8,2021-11-20,Pando,Puerto Gonzalo Moreno,1,50%
+9,2021-11-20,Pando,Filadelfia,1,53%
+10,2021-11-20,Pando,Villa Nueva (Loma Alta),1,54%
+11,2021-11-20,Pando,Nacebe (Santa Rosa Del Abuna),1,65%
+12,2021-11-20,Pando,Bella Flor,1,66%
+13,2021-11-20,Pando,Cobija,1,67%
+14,2021-11-20,Pando,Puerto Rico,1,77%
+0,2021-11-20,Cochabamba,Bolivar,1,30%
+1,2021-11-20,Cochabamba,Tacopaya,1,30%
+2,2021-11-20,Cochabamba,Vacas,1,30%
+3,2021-11-20,Cochabamba,Pojo (Cbba),1,33%
+4,2021-11-20,Cochabamba,Colomi,1,38%
+5,2021-11-20,Cochabamba,Pasorapa,1,38%
+6,2021-11-20,Cochabamba,Tiraque (Cbba),1,39%
+7,2021-11-20,Cochabamba,Cocapata,1,41%
+8,2021-11-20,Cochabamba,Sicaya,1,41%
+9,2021-11-20,Cochabamba,Sacaba,1,42%
+10,2021-11-20,Cochabamba,Mizque,1,43%
+11,2021-11-20,Cochabamba,Morochata,1,43%
+12,2021-11-20,Cochabamba,Totora(Cbba),1,43%
+13,2021-11-20,Cochabamba,Vila Vila,1,43%
+14,2021-11-20,Cochabamba,Vinto,1,43%
+15,2021-11-20,Cochabamba,Ayopaya (V. De Independencia),1,44%
+16,2021-11-20,Cochabamba,Sipe Sipe,1,44%
+17,2021-11-20,Cochabamba,Entre Rios,1,45%
+18,2021-11-20,Cochabamba,Colcapirhua,1,46%
+19,2021-11-20,Cochabamba,Puerto Villarroel,1,47%
+20,2021-11-20,Cochabamba,Tiquipaya,1,47%
+21,2021-11-20,Cochabamba,San Benito,1,48%
+22,2021-11-20,Cochabamba,Tapacari,1,48%
+23,2021-11-20,Cochabamba,Arani,1,51%
+24,2021-11-20,Cochabamba,Villa Rivero,1,51%
+25,2021-11-20,Cochabamba,Chimore,1,53%
+26,2021-11-20,Cochabamba,Shinaota,1,53%
+27,2021-11-20,Cochabamba,Villa Tunari,1,54%
+28,2021-11-20,Cochabamba,Toco,1,55%
+29,2021-11-20,Cochabamba,Sacabamba,1,57%
+30,2021-11-20,Cochabamba,Capinota,1,58%
+31,2021-11-20,Cochabamba,Arque,1,60%
+32,2021-11-20,Cochabamba,Quillacollo,1,60%
+33,2021-11-20,Cochabamba,Pocona,1,63%
+34,2021-11-20,Cochabamba,Alalay,1,66%
+35,2021-11-20,Cochabamba,Aiquile,1,68%
+36,2021-11-20,Cochabamba,Tacachi,1,72%
+37,2021-11-20,Cochabamba,Cliza,1,75%
+38,2021-11-20,Cochabamba,Punata,1,77%
+39,2021-11-20,Cochabamba,Arbieto,1,78%
+40,2021-11-20,Cochabamba,Omereque,1,81%
+41,2021-11-20,Cochabamba,Anzaldo,1,85%
+42,2021-11-20,Cochabamba,Tolata,1,92%
+43,2021-11-20,Cochabamba,Tarata,1,93%
+44,2021-11-20,Cochabamba,Cochabamba,1,100%
+45,2021-11-20,Cochabamba,Cuchumuela (V. G. Villarroel),1,103%
+46,2021-11-20,Cochabamba,Santivañes,1,134%
+0,2021-11-20,Chuquisaca,Presto,1,18%
+1,2021-11-20,Chuquisaca,Villa Charcas,1,23%
+2,2021-11-20,Chuquisaca,Incahuasi,1,24%
+3,2021-11-20,Chuquisaca,Tarabuco,1,24%
+4,2021-11-20,Chuquisaca,Poroma,1,26%
+5,2021-11-20,Chuquisaca,Tarvita,1,30%
+6,2021-11-20,Chuquisaca,Zudañez,1,30%
+7,2021-11-20,Chuquisaca,Yamparaez,1,32%
+8,2021-11-20,Chuquisaca,Sopachuy,1,33%
+9,2021-11-20,Chuquisaca,Mojocoya,1,40%
+10,2021-11-20,Chuquisaca,San Lucas,1,43%
+11,2021-11-20,Chuquisaca,Culpina,1,46%
+12,2021-11-20,Chuquisaca,Icla,1,46%
+13,2021-11-20,Chuquisaca,Azurduy,1,49%
+14,2021-11-20,Chuquisaca,Tomina,1,50%
+15,2021-11-20,Chuquisaca,Alcala,1,52%
+16,2021-11-20,Chuquisaca,Las Carreras,1,52%
+17,2021-11-20,Chuquisaca,Camataqui (C. Villa Abecia),1,53%
+18,2021-11-20,Chuquisaca,Yotala,1,53%
+19,2021-11-20,Chuquisaca,El Villar,1,65%
+20,2021-11-20,Chuquisaca,Camargo,1,70%
+21,2021-11-20,Chuquisaca,Huacaya (Villa De Huacaya),1,71%
+22,2021-11-20,Chuquisaca,Machareti,1,73%
+23,2021-11-20,Chuquisaca,Villa Serrano,1,75%
+24,2021-11-20,Chuquisaca,Villa Vaca Guzman (Muyupampa),1,78%
+25,2021-11-20,Chuquisaca,Padilla,1,85%
+26,2021-11-20,Chuquisaca,Huacareta,1,87%
+27,2021-11-20,Chuquisaca,Monteagudo,1,89%
+28,2021-11-20,Chuquisaca,Sucre,1,89%
+0,2021-11-20,Tarija,Yunchara,1,51%
+1,2021-11-20,Tarija,El Puente(Tja),1,67%
+2,2021-11-20,Tarija,Entre Rios,1,69%
+3,2021-11-20,Tarija,Yacuiba,1,69%
+4,2021-11-20,Tarija,Bermejo,1,70%
+5,2021-11-20,Tarija,Padcaya,1,71%
+6,2021-11-20,Tarija,Carapari,1,72%
+7,2021-11-20,Tarija,San Lorenzo(Tja),1,74%
+8,2021-11-20,Tarija,Uriondo (A. Concepcion),1,74%
+9,2021-11-20,Tarija,Tarija,1,78%
+10,2021-11-20,Tarija,Villa Montes,1,78%
+0,2021-11-20,La Paz,Ancoraimes,1,13%
+1,2021-11-20,La Paz,Aucapata,1,13%
+2,2021-11-20,La Paz,Tito Yupanqui (Parquipujio),1,13%
+3,2021-11-20,La Paz,Caquiaviri,1,14%
+4,2021-11-20,La Paz,Calacoto,1,17%
+5,2021-11-20,La Paz,Humanata,1,19%
+6,2021-11-20,La Paz,Combaya,1,20%
+7,2021-11-20,La Paz,Gral. J.J. Perez (Charazani),1,20%
+8,2021-11-20,La Paz,Apolo,1,21%
+9,2021-11-20,La Paz,Sorata,1,21%
+10,2021-11-20,La Paz,Catacora,1,22%
+11,2021-11-20,La Paz,Curva,1,22%
+12,2021-11-20,La Paz,Santiago De Callapa,1,22%
+13,2021-11-20,La Paz,Sapahaqui,1,22%
+14,2021-11-20,La Paz,Pelechuco,1,24%
+15,2021-11-20,La Paz,Sica Sica (Villa Aroma),1,24%
+16,2021-11-20,La Paz,Mecapaca,1,25%
+17,2021-11-20,La Paz,Ayata,1,26%
+18,2021-11-20,La Paz,Chacarilla,1,26%
+19,2021-11-20,La Paz,Mapiri,1,26%
+20,2021-11-20,La Paz,Puerto Carabuco,1,26%
+21,2021-11-20,La Paz,Batallas,1,27%
+22,2021-11-20,La Paz,Charaña,1,27%
+23,2021-11-20,La Paz,La Asunta,1,27%
+24,2021-11-20,La Paz,Mocomoco,1,27%
+25,2021-11-20,La Paz,Ichoca,1,28%
+26,2021-11-20,La Paz,Alto Beni,1,29%
+27,2021-11-20,La Paz,Cairoma,1,29%
+28,2021-11-20,La Paz,Comanche,1,29%
+29,2021-11-20,La Paz,Licoma Pampa,1,29%
+30,2021-11-20,La Paz,Chuma,1,31%
+31,2021-11-20,La Paz,Colquencha,1,31%
+32,2021-11-20,La Paz,Pucarani,1,31%
+33,2021-11-20,La Paz,Santiago De Huata,1,31%
+34,2021-11-20,La Paz,Tacacoma,1,31%
+35,2021-11-20,La Paz,Waldo Ballivian,1,31%
+36,2021-11-20,La Paz,Chulumani (V. De La Libertad),1,32%
+37,2021-11-20,La Paz,Copacabana,1,32%
+38,2021-11-20,La Paz,Guanay,1,32%
+39,2021-11-20,La Paz,Malla,1,32%
+40,2021-11-20,La Paz,Tiawanacu,1,32%
+41,2021-11-20,La Paz,Caranavi,1,33%
+42,2021-11-20,La Paz,San Andres De Machaca,1,33%
+43,2021-11-20,La Paz,San Pedro De Curahuara,1,33%
+44,2021-11-20,La Paz,Taraco,1,33%
+45,2021-11-20,La Paz,Coripata,1,34%
+46,2021-11-20,La Paz,Inquisivi,1,34%
+47,2021-11-20,La Paz,Jesus De Machaca,1,34%
+48,2021-11-20,La Paz,Ayo Ayo,1,36%
+49,2021-11-20,La Paz,Coroico,1,36%
+50,2021-11-20,La Paz,Irupana (Villa De Lanza),1,36%
+51,2021-11-20,La Paz,Palos Blancos,1,36%
+52,2021-11-20,La Paz,Puerto Perez,1,36%
+53,2021-11-20,La Paz,Quiabaya,1,36%
+54,2021-11-20,La Paz,Santiago De Machaca,1,36%
+55,2021-11-20,La Paz,Coro Coro,1,37%
+56,2021-11-20,La Paz,Chua Cocani,1,38%
+57,2021-11-20,La Paz,Huarina ,1,38%
+58,2021-11-20,La Paz,Achacachi,1,40%
+59,2021-11-20,La Paz,Calamarca,1,40%
+60,2021-11-20,La Paz,Escoma,1,40%
+61,2021-11-20,La Paz,Papel Pampa,1,40%
+62,2021-11-20,La Paz,Patacamaya,1,40%
+63,2021-11-20,La Paz,Cajuata,1,41%
+64,2021-11-20,La Paz,Colquiri,1,41%
+65,2021-11-20,La Paz,Huatajata,1,41%
+66,2021-11-20,La Paz,Laja,1,41%
+67,2021-11-20,La Paz,Luribay,1,41%
+68,2021-11-20,La Paz,Tipuani,1,41%
+69,2021-11-20,La Paz,Teoponte,1,42%
+70,2021-11-20,La Paz,Yaco,1,42%
+71,2021-11-20,La Paz,Desaguadero,1,43%
+72,2021-11-20,La Paz,Palca,1,43%
+73,2021-11-20,La Paz,Collana,1,45%
+74,2021-11-20,La Paz,Guaqui,1,45%
+75,2021-11-20,La Paz,Puerto Acosta,1,45%
+76,2021-11-20,La Paz,San Pedro De Tiquina,1,46%
+77,2021-11-20,La Paz,Quime,1,47%
+78,2021-11-20,La Paz,Umala,1,47%
+79,2021-11-20,La Paz,Yanacachi,1,48%
+80,2021-11-20,La Paz,Ixiamas,1,49%
+81,2021-11-20,La Paz,Nazacara De Pacajes,1,50%
+82,2021-11-20,La Paz,Viacha,1,52%
+83,2021-11-20,La Paz,El Alto,1,54%
+84,2021-11-20,La Paz,San Buena Ventura,1,57%
+85,2021-11-20,La Paz,Achocalla,1,71%
+86,2021-11-20,La Paz,La Paz,1,104%
+0,2021-11-20,Potosí,San Pedro De Buena Vista,1,14%
+1,2021-11-20,Potosí,Tinguipaya,1,16%
+2,2021-11-20,Potosí,Chuquihuta Ayllu Jucumani,1,21%
+3,2021-11-20,Potosí,Acacio,1,22%
+4,2021-11-20,Potosí,Colquechaca,1,22%
+5,2021-11-20,Potosí,Pocoata,1,23%
+6,2021-11-20,Potosí,Belen De Urmiri,1,24%
+7,2021-11-20,Potosí,Mojinete,1,24%
+8,2021-11-20,Potosí,San Antonio De Esmoruco,1,27%
+9,2021-11-20,Potosí,Toro Toro,1,27%
+10,2021-11-20,Potosí,Ravelo,1,29%
+11,2021-11-20,Potosí,Ckochas,1,30%
+12,2021-11-20,Potosí,Chayanta,1,31%
+13,2021-11-20,Potosí,Puna,1,31%
+14,2021-11-20,Potosí,Ocuri,1,32%
+15,2021-11-20,Potosí,Tacobamba,1,34%
+16,2021-11-20,Potosí,Llica,1,36%
+17,2021-11-20,Potosí,Porco,1,36%
+18,2021-11-20,Potosí,Tomave,1,36%
+19,2021-11-20,Potosí,San P.De Quemes,1,37%
+20,2021-11-20,Potosí,Uncia,1,37%
+21,2021-11-20,Potosí,Betanzos,1,39%
+22,2021-11-20,Potosí,San P. De Lipez,1,39%
+23,2021-11-20,Potosí,Arampampa,1,40%
+24,2021-11-20,Potosí,Sacaca,1,40%
+25,2021-11-20,Potosí,Yocalla,1,40%
+26,2021-11-20,Potosí,Cotagaita,1,41%
+27,2021-11-20,Potosí,Chaqui,1,42%
+28,2021-11-20,Potosí,"Caiza ""D""",1,46%
+29,2021-11-20,Potosí,Vitichi,1,51%
+30,2021-11-20,Potosí,Caripuyo,1,52%
+31,2021-11-20,Potosí,Llallagua,1,58%
+32,2021-11-20,Potosí,Tahua,1,58%
+33,2021-11-20,Potosí,Villazon,1,68%
+34,2021-11-20,Potosí,"Colcha ""K""",1,70%
+35,2021-11-20,Potosí,Uyuni,1,70%
+36,2021-11-20,Potosí,San Agustin,1,78%
+37,2021-11-20,Potosí,Potosí,1,79%
+38,2021-11-20,Potosí,Tupiza,1,88%
+39,2021-11-20,Potosí,Atocha,1,93%
+0,2021-11-20,Oruro,Cruz De Machacamarca,1,6%
+1,2021-11-20,Oruro,Escara,1,9%
+2,2021-11-20,Oruro,Todos Santos,1,17%
+3,2021-11-20,Oruro,El Choro,1,18%
+4,2021-11-20,Oruro,Esmeralda,1,21%
+5,2021-11-20,Oruro,Chipaya,1,22%
+6,2021-11-20,Oruro,Carangas,1,23%
+7,2021-11-20,Oruro,Santiago De Huari,1,27%
+8,2021-11-20,Oruro,Toledo,1,29%
+9,2021-11-20,Oruro,Salinas De Garci Mendoza,1,31%
+10,2021-11-20,Oruro,La Rivera,1,33%
+11,2021-11-20,Oruro,Santuario De Quillacas,1,40%
+12,2021-11-20,Oruro,Corque,1,41%
+13,2021-11-20,Oruro,Sabaya,1,41%
+14,2021-11-20,Oruro,Andamarca,1,42%
+15,2021-11-20,Oruro,Belen De Andamarca,1,43%
+16,2021-11-20,Oruro,Coipasa,1,43%
+17,2021-11-20,Oruro,Challapata,1,45%
+18,2021-11-20,Oruro,Turco,1,47%
+19,2021-11-20,Oruro,Yunguyo De Litoral,1,47%
+20,2021-11-20,Oruro,Poopo,1,48%
+21,2021-11-20,Oruro,Choque Cota,1,49%
+22,2021-11-20,Oruro,Caracollo,1,50%
+23,2021-11-20,Oruro,Eucaliptus,1,53%
+24,2021-11-20,Oruro,Pampa Aullagas,1,53%
+25,2021-11-20,Oruro,Pazña,1,53%
+26,2021-11-20,Oruro,Totora(Orr),1,54%
+27,2021-11-20,Oruro,Soracachi,1,55%
+28,2021-11-20,Oruro,Huayllamarca,1,61%
+29,2021-11-20,Oruro,Huanuni,1,63%
+30,2021-11-20,Oruro,Machacamarca,1,64%
+31,2021-11-20,Oruro,Curahuara De Carangas,1,67%
+32,2021-11-20,Oruro,Oruro,1,81%
+33,2021-11-20,Oruro,Antequera,1,86%
+34,2021-11-20,Oruro,Huachacalla,1,99%
+0,2021-11-20,Santa Cruz,Pailon,2,18%
+1,2021-11-20,Santa Cruz,Yapacani,2,21%
+2,2021-11-20,Santa Cruz,San Jose De Chiquitos,2,26%
+3,2021-11-20,Santa Cruz,El Puente(Stc),2,29%
+4,2021-11-20,Santa Cruz,San Julian,2,29%
+5,2021-11-20,Santa Cruz,Ascencion De Guarayos,2,32%
+6,2021-11-20,Santa Cruz,La Guardia,2,32%
+7,2021-11-20,Santa Cruz,Charagua,2,34%
+8,2021-11-20,Santa Cruz,Santa Rosa Del Sara,2,34%
+9,2021-11-20,Santa Cruz,Cuatro Cañadas,2,36%
+10,2021-11-20,Santa Cruz,Urubicha,2,36%
+11,2021-11-20,Santa Cruz,Fernandez Alonso,2,37%
+12,2021-11-20,Santa Cruz,Warnes,2,37%
+13,2021-11-20,Santa Cruz,Saipina,2,41%
+14,2021-11-20,Santa Cruz,San Pedro,2,42%
+15,2021-11-20,Santa Cruz,Pampa Grande,2,43%
+16,2021-11-20,Santa Cruz,San Carlos,2,45%
+17,2021-11-20,Santa Cruz,Mineros,2,51%
+18,2021-11-20,Santa Cruz,Cabezas,2,52%
+19,2021-11-20,Santa Cruz,San Antonio De Lomerio,2,52%
+20,2021-11-20,Santa Cruz,San Juan De Yapacani,2,52%
+21,2021-11-20,Santa Cruz,Mairana,2,54%
+22,2021-11-20,Santa Cruz,Montero,2,55%
+23,2021-11-20,Santa Cruz,Quirusillas,2,55%
+24,2021-11-20,Santa Cruz,Gutierrez,2,56%
+25,2021-11-20,Santa Cruz,Postrer Valle,2,56%
+26,2021-11-20,Santa Cruz,Trigal,2,59%
+27,2021-11-20,Santa Cruz,Comarapa,2,60%
+28,2021-11-20,Santa Cruz,San Javier(Stc),2,60%
+29,2021-11-20,Santa Cruz,San Rafael,2,60%
+30,2021-11-20,Santa Cruz,El Torno,2,63%
+31,2021-11-20,Santa Cruz,Buena Vista,2,64%
+32,2021-11-20,Santa Cruz,Concepcion,2,66%
+33,2021-11-20,Santa Cruz,Santa Cruz de la Sierra,2,66%
+34,2021-11-20,Santa Cruz,Cuevo,2,67%
+35,2021-11-20,Santa Cruz,San Ignacio De Velasco,2,68%
+36,2021-11-20,Santa Cruz,Carmen Rivero Torrez,2,69%
+37,2021-11-20,Santa Cruz,Porongo,2,69%
+38,2021-11-20,Santa Cruz,Puerto Suarez,2,70%
+39,2021-11-20,Santa Cruz,San Ramon,2,70%
+40,2021-11-20,Santa Cruz,Boyuibe,2,72%
+41,2021-11-20,Santa Cruz,San Miguel De Velasco,2,72%
+42,2021-11-20,Santa Cruz,Okinawa,2,73%
+43,2021-11-20,Santa Cruz,Robore,2,73%
+44,2021-11-20,Santa Cruz,Cotoca,2,74%
+45,2021-11-20,Santa Cruz,Samaipata,2,74%
+46,2021-11-20,Santa Cruz,Moro Moro,2,75%
+47,2021-11-20,Santa Cruz,Pucara,2,75%
+48,2021-11-20,Santa Cruz,Puerto Quijarro,2,77%
+49,2021-11-20,Santa Cruz,General Saavedra,2,78%
+50,2021-11-20,Santa Cruz,Portachuelo,2,78%
+51,2021-11-20,Santa Cruz,Vallegrande,2,80%
+52,2021-11-20,Santa Cruz,San Matias,2,83%
+53,2021-11-20,Santa Cruz,Lagunillas,2,84%
+54,2021-11-20,Santa Cruz,Colpa Belgica,2,91%
+55,2021-11-20,Santa Cruz,Camiri,2,92%
+0,2021-11-20,Beni,Loreto,2,15%
+1,2021-11-20,Beni,San Javier(Bni),2,16%
+2,2021-11-20,Beni,Exaltacion,2,17%
+3,2021-11-20,Beni,San Borja,2,22%
+4,2021-11-20,Beni,Reyes,2,29%
+5,2021-11-20,Beni,Rurrenabaque,2,30%
+6,2021-11-20,Beni,San Joaquin,2,37%
+7,2021-11-20,Beni,San Andres,2,38%
+8,2021-11-20,Beni,Magdalena,2,42%
+9,2021-11-20,Beni,Trinidad,2,43%
+10,2021-11-20,Beni,Santa Ana,2,44%
+11,2021-11-20,Beni,Huaracaje,2,46%
+12,2021-11-20,Beni,San Ignacio,2,49%
+13,2021-11-20,Beni,Santa Rosa,2,54%
+14,2021-11-20,Beni,Puerto Siles,2,55%
+15,2021-11-20,Beni,Riberalta,2,55%
+16,2021-11-20,Beni,San Ramon,2,56%
+17,2021-11-20,Beni,Guayaramerin,2,59%
+18,2021-11-20,Beni,Baures,2,73%
+0,2021-11-20,Pando,Ingavi (Humaita),2,16%
+1,2021-11-20,Pando,Sena,2,21%
+2,2021-11-20,Pando,San Lorenzo(Pnd),2,22%
+3,2021-11-20,Pando,Nuevo Manoa (Nueva Esperanza),2,28%
+4,2021-11-20,Pando,San Pedro(Pnd),2,32%
+5,2021-11-20,Pando,Bolpebra,2,33%
+6,2021-11-20,Pando,Eureka (Santos Mercado),2,35%
+7,2021-11-20,Pando,Porvenir,2,35%
+8,2021-11-20,Pando,Villa Nueva (Loma Alta),2,38%
+9,2021-11-20,Pando,Filadelfia,2,39%
+10,2021-11-20,Pando,Puerto Gonzalo Moreno,2,39%
+11,2021-11-20,Pando,Cobija,2,49%
+12,2021-11-20,Pando,Nacebe (Santa Rosa Del Abuna),2,51%
+13,2021-11-20,Pando,Bella Flor,2,54%
+14,2021-11-20,Pando,Puerto Rico,2,62%
+0,2021-11-20,Cochabamba,Tacopaya,2,24%
+1,2021-11-20,Cochabamba,Vacas,2,24%
+2,2021-11-20,Cochabamba,Pojo (Cbba),2,25%
+3,2021-11-20,Cochabamba,Bolivar,2,27%
+4,2021-11-20,Cochabamba,Vinto,2,33%
+5,2021-11-20,Cochabamba,Colomi,2,34%
+6,2021-11-20,Cochabamba,Sipe Sipe,2,36%
+7,2021-11-20,Cochabamba,Pasorapa,2,37%
+8,2021-11-20,Cochabamba,Sacaba,2,37%
+9,2021-11-20,Cochabamba,Tiraque (Cbba),2,37%
+10,2021-11-20,Cochabamba,Tiquipaya,2,38%
+11,2021-11-20,Cochabamba,Cocapata,2,39%
+12,2021-11-20,Cochabamba,Colcapirhua,2,39%
+13,2021-11-20,Cochabamba,Morochata,2,39%
+14,2021-11-20,Cochabamba,Sicaya,2,39%
+15,2021-11-20,Cochabamba,Totora(Cbba),2,39%
+16,2021-11-20,Cochabamba,Mizque,2,40%
+17,2021-11-20,Cochabamba,Puerto Villarroel,2,40%
+18,2021-11-20,Cochabamba,Ayopaya (V. De Independencia),2,41%
+19,2021-11-20,Cochabamba,Vila Vila,2,41%
+20,2021-11-20,Cochabamba,Tapacari,2,42%
+21,2021-11-20,Cochabamba,Entre Rios,2,43%
+22,2021-11-20,Cochabamba,Shinaota,2,43%
+23,2021-11-20,Cochabamba,Villa Tunari,2,43%
+24,2021-11-20,Cochabamba,Arani,2,44%
+25,2021-11-20,Cochabamba,Sacabamba,2,45%
+26,2021-11-20,Cochabamba,San Benito,2,45%
+27,2021-11-20,Cochabamba,Villa Rivero,2,45%
+28,2021-11-20,Cochabamba,Chimore,2,48%
+29,2021-11-20,Cochabamba,Toco,2,48%
+30,2021-11-20,Cochabamba,Capinota,2,50%
+31,2021-11-20,Cochabamba,Quillacollo,2,52%
+32,2021-11-20,Cochabamba,Pocona,2,53%
+33,2021-11-20,Cochabamba,Arque,2,54%
+34,2021-11-20,Cochabamba,Alalay,2,62%
+35,2021-11-20,Cochabamba,Tacachi,2,65%
+36,2021-11-20,Cochabamba,Aiquile,2,66%
+37,2021-11-20,Cochabamba,Arbieto,2,66%
+38,2021-11-20,Cochabamba,Cliza,2,68%
+39,2021-11-20,Cochabamba,Anzaldo,2,70%
+40,2021-11-20,Cochabamba,Punata,2,70%
+41,2021-11-20,Cochabamba,Omereque,2,80%
+42,2021-11-20,Cochabamba,Tolata,2,83%
+43,2021-11-20,Cochabamba,Cochabamba,2,86%
+44,2021-11-20,Cochabamba,Tarata,2,87%
+45,2021-11-20,Cochabamba,Cuchumuela (V. G. Villarroel),2,92%
+46,2021-11-20,Cochabamba,Santivañes,2,125%
+0,2021-11-20,Chuquisaca,Presto,2,16%
+1,2021-11-20,Chuquisaca,Incahuasi,2,19%
+2,2021-11-20,Chuquisaca,Poroma,2,19%
+3,2021-11-20,Chuquisaca,Villa Charcas,2,19%
+4,2021-11-20,Chuquisaca,Tarabuco,2,20%
+5,2021-11-20,Chuquisaca,Tarvita,2,25%
+6,2021-11-20,Chuquisaca,Yamparaez,2,27%
+7,2021-11-20,Chuquisaca,Zudañez,2,28%
+8,2021-11-20,Chuquisaca,Sopachuy,2,29%
+9,2021-11-20,Chuquisaca,Mojocoya,2,35%
+10,2021-11-20,Chuquisaca,Icla,2,39%
+11,2021-11-20,Chuquisaca,Culpina,2,41%
+12,2021-11-20,Chuquisaca,San Lucas,2,41%
+13,2021-11-20,Chuquisaca,Azurduy,2,44%
+14,2021-11-20,Chuquisaca,Tomina,2,46%
+15,2021-11-20,Chuquisaca,Las Carreras,2,48%
+16,2021-11-20,Chuquisaca,Yotala,2,50%
+17,2021-11-20,Chuquisaca,Alcala,2,52%
+18,2021-11-20,Chuquisaca,Camataqui (C. Villa Abecia),2,52%
+19,2021-11-20,Chuquisaca,El Villar,2,58%
+20,2021-11-20,Chuquisaca,Camargo,2,68%
+21,2021-11-20,Chuquisaca,Huacaya (Villa De Huacaya),2,69%
+22,2021-11-20,Chuquisaca,Machareti,2,69%
+23,2021-11-20,Chuquisaca,Villa Vaca Guzman (Muyupampa),2,72%
+24,2021-11-20,Chuquisaca,Villa Serrano,2,73%
+25,2021-11-20,Chuquisaca,Sucre,2,75%
+26,2021-11-20,Chuquisaca,Huacareta,2,82%
+27,2021-11-20,Chuquisaca,Padilla,2,83%
+28,2021-11-20,Chuquisaca,Monteagudo,2,84%
+0,2021-11-20,Tarija,Yunchara,2,46%
+1,2021-11-20,Tarija,El Puente(Tja),2,55%
+2,2021-11-20,Tarija,Entre Rios,2,61%
+3,2021-11-20,Tarija,Yacuiba,2,61%
+4,2021-11-20,Tarija,Bermejo,2,62%
+5,2021-11-20,Tarija,Carapari,2,64%
+6,2021-11-20,Tarija,Padcaya,2,64%
+7,2021-11-20,Tarija,San Lorenzo(Tja),2,66%
+8,2021-11-20,Tarija,Uriondo (A. Concepcion),2,66%
+9,2021-11-20,Tarija,Tarija,2,69%
+10,2021-11-20,Tarija,Villa Montes,2,69%
+0,2021-11-20,La Paz,Ancoraimes,2,11%
+1,2021-11-20,La Paz,Aucapata,2,11%
+2,2021-11-20,La Paz,Caquiaviri,2,12%
+3,2021-11-20,La Paz,Tito Yupanqui (Parquipujio),2,12%
+4,2021-11-20,La Paz,Humanata,2,15%
+5,2021-11-20,La Paz,Apolo,2,17%
+6,2021-11-20,La Paz,Calacoto,2,17%
+7,2021-11-20,La Paz,Gral. J.J. Perez (Charazani),2,17%
+8,2021-11-20,La Paz,Combaya,2,18%
+9,2021-11-20,La Paz,Santiago De Callapa,2,18%
+10,2021-11-20,La Paz,Sorata,2,19%
+11,2021-11-20,La Paz,Curva,2,20%
+12,2021-11-20,La Paz,Sapahaqui,2,20%
+13,2021-11-20,La Paz,Catacora,2,21%
+14,2021-11-20,La Paz,Pelechuco,2,21%
+15,2021-11-20,La Paz,Sica Sica (Villa Aroma),2,22%
+16,2021-11-20,La Paz,Mapiri,2,23%
+17,2021-11-20,La Paz,Ayata,2,24%
+18,2021-11-20,La Paz,Charaña,2,24%
+19,2021-11-20,La Paz,La Asunta,2,24%
+20,2021-11-20,La Paz,Mecapaca,2,24%
+21,2021-11-20,La Paz,Puerto Carabuco,2,24%
+22,2021-11-20,La Paz,Batallas,2,25%
+23,2021-11-20,La Paz,Mocomoco,2,25%
+24,2021-11-20,La Paz,Chacarilla,2,26%
+25,2021-11-20,La Paz,Comanche,2,26%
+26,2021-11-20,La Paz,Alto Beni,2,27%
+27,2021-11-20,La Paz,Cairoma,2,27%
+28,2021-11-20,La Paz,Chuma,2,27%
+29,2021-11-20,La Paz,Ichoca,2,27%
+30,2021-11-20,La Paz,Licoma Pampa,2,27%
+31,2021-11-20,La Paz,Santiago De Huata,2,27%
+32,2021-11-20,La Paz,Colquencha,2,28%
+33,2021-11-20,La Paz,Pucarani,2,28%
+34,2021-11-20,La Paz,Waldo Ballivian,2,28%
+35,2021-11-20,La Paz,Caranavi,2,29%
+36,2021-11-20,La Paz,Chulumani (V. De La Libertad),2,29%
+37,2021-11-20,La Paz,San Andres De Machaca,2,29%
+38,2021-11-20,La Paz,Taraco,2,29%
+39,2021-11-20,La Paz,Copacabana,2,30%
+40,2021-11-20,La Paz,Malla,2,30%
+41,2021-11-20,La Paz,Tacacoma,2,30%
+42,2021-11-20,La Paz,Tiawanacu,2,30%
+43,2021-11-20,La Paz,Guanay,2,31%
+44,2021-11-20,La Paz,Coripata,2,32%
+45,2021-11-20,La Paz,Inquisivi,2,32%
+46,2021-11-20,La Paz,Puerto Perez,2,32%
+47,2021-11-20,La Paz,San Pedro De Curahuara,2,32%
+48,2021-11-20,La Paz,Ayo Ayo,2,33%
+49,2021-11-20,La Paz,Coro Coro,2,33%
+50,2021-11-20,La Paz,Jesus De Machaca,2,33%
+51,2021-11-20,La Paz,Palos Blancos,2,33%
+52,2021-11-20,La Paz,Santiago De Machaca,2,33%
+53,2021-11-20,La Paz,Coroico,2,34%
+54,2021-11-20,La Paz,Irupana (Villa De Lanza),2,34%
+55,2021-11-20,La Paz,Quiabaya,2,34%
+56,2021-11-20,La Paz,Papel Pampa,2,35%
+57,2021-11-20,La Paz,Chua Cocani,2,36%
+58,2021-11-20,La Paz,Huarina ,2,36%
+59,2021-11-20,La Paz,Achacachi,2,37%
+60,2021-11-20,La Paz,Colquiri,2,37%
+61,2021-11-20,La Paz,Escoma,2,37%
+62,2021-11-20,La Paz,Cajuata,2,38%
+63,2021-11-20,La Paz,Calamarca,2,38%
+64,2021-11-20,La Paz,Luribay,2,38%
+65,2021-11-20,La Paz,Palca,2,38%
+66,2021-11-20,La Paz,Patacamaya,2,38%
+67,2021-11-20,La Paz,Teoponte,2,38%
+68,2021-11-20,La Paz,Tipuani,2,38%
+69,2021-11-20,La Paz,Yaco,2,38%
+70,2021-11-20,La Paz,Huatajata,2,40%
+71,2021-11-20,La Paz,Laja,2,40%
+72,2021-11-20,La Paz,Desaguadero,2,41%
+73,2021-11-20,La Paz,El Alto,2,41%
+74,2021-11-20,La Paz,Collana,2,42%
+75,2021-11-20,La Paz,Guaqui,2,42%
+76,2021-11-20,La Paz,Ixiamas,2,42%
+77,2021-11-20,La Paz,Puerto Acosta,2,42%
+78,2021-11-20,La Paz,San Pedro De Tiquina,2,42%
+79,2021-11-20,La Paz,Umala,2,43%
+80,2021-11-20,La Paz,Nazacara De Pacajes,2,44%
+81,2021-11-20,La Paz,Quime,2,44%
+82,2021-11-20,La Paz,Yanacachi,2,46%
+83,2021-11-20,La Paz,San Buena Ventura,2,48%
+84,2021-11-20,La Paz,Viacha,2,49%
+85,2021-11-20,La Paz,Achocalla,2,65%
+86,2021-11-20,La Paz,La Paz,2,93%
+0,2021-11-20,Potosí,San Pedro De Buena Vista,2,9%
+1,2021-11-20,Potosí,Tinguipaya,2,13%
+2,2021-11-20,Potosí,Acacio,2,15%
+3,2021-11-20,Potosí,Chuquihuta Ayllu Jucumani,2,17%
+4,2021-11-20,Potosí,Colquechaca,2,17%
+5,2021-11-20,Potosí,Toro Toro,2,18%
+6,2021-11-20,Potosí,Belen De Urmiri,2,20%
+7,2021-11-20,Potosí,Pocoata,2,20%
+8,2021-11-20,Potosí,San Antonio De Esmoruco,2,20%
+9,2021-11-20,Potosí,Ravelo,2,23%
+10,2021-11-20,Potosí,Mojinete,2,24%
+11,2021-11-20,Potosí,Ckochas,2,25%
+12,2021-11-20,Potosí,Chayanta,2,26%
+13,2021-11-20,Potosí,Ocuri,2,27%
+14,2021-11-20,Potosí,Puna,2,27%
+15,2021-11-20,Potosí,Porco,2,28%
+16,2021-11-20,Potosí,Tacobamba,2,29%
+17,2021-11-20,Potosí,Chaqui,2,30%
+18,2021-11-20,Potosí,San P.De Quemes,2,31%
+19,2021-11-20,Potosí,Llica,2,32%
+20,2021-11-20,Potosí,Tomave,2,32%
+21,2021-11-20,Potosí,Uncia,2,32%
+22,2021-11-20,Potosí,Betanzos,2,34%
+23,2021-11-20,Potosí,Yocalla,2,34%
+24,2021-11-20,Potosí,Arampampa,2,35%
+25,2021-11-20,Potosí,Sacaca,2,35%
+26,2021-11-20,Potosí,San P. De Lipez,2,35%
+27,2021-11-20,Potosí,Cotagaita,2,38%
+28,2021-11-20,Potosí,"Caiza ""D""",2,40%
+29,2021-11-20,Potosí,Caripuyo,2,41%
+30,2021-11-20,Potosí,Vitichi,2,47%
+31,2021-11-20,Potosí,Llallagua,2,50%
+32,2021-11-20,Potosí,Tahua,2,51%
+33,2021-11-20,Potosí,Villazon,2,58%
+34,2021-11-20,Potosí,Uyuni,2,61%
+35,2021-11-20,Potosí,Potosí,2,66%
+36,2021-11-20,Potosí,"Colcha ""K""",2,67%
+37,2021-11-20,Potosí,San Agustin,2,74%
+38,2021-11-20,Potosí,Tupiza,2,82%
+39,2021-11-20,Potosí,Atocha,2,88%
+0,2021-11-20,Oruro,Cruz De Machacamarca,2,6%
+1,2021-11-20,Oruro,Escara,2,9%
+2,2021-11-20,Oruro,Todos Santos,2,16%
+3,2021-11-20,Oruro,El Choro,2,17%
+4,2021-11-20,Oruro,Chipaya,2,18%
+5,2021-11-20,Oruro,Esmeralda,2,19%
+6,2021-11-20,Oruro,Carangas,2,22%
+7,2021-11-20,Oruro,Santiago De Huari,2,24%
+8,2021-11-20,Oruro,Toledo,2,26%
+9,2021-11-20,Oruro,Salinas De Garci Mendoza,2,27%
+10,2021-11-20,Oruro,La Rivera,2,32%
+11,2021-11-20,Oruro,Corque,2,39%
+12,2021-11-20,Oruro,Santuario De Quillacas,2,39%
+13,2021-11-20,Oruro,Sabaya,2,40%
+14,2021-11-20,Oruro,Andamarca,2,41%
+15,2021-11-20,Oruro,Belen De Andamarca,2,42%
+16,2021-11-20,Oruro,Challapata,2,42%
+17,2021-11-20,Oruro,Coipasa,2,42%
+18,2021-11-20,Oruro,Poopo,2,45%
+19,2021-11-20,Oruro,Turco,2,45%
+20,2021-11-20,Oruro,Choque Cota,2,46%
+21,2021-11-20,Oruro,Yunguyo De Litoral,2,46%
+22,2021-11-20,Oruro,Caracollo,2,47%
+23,2021-11-20,Oruro,Eucaliptus,2,47%
+24,2021-11-20,Oruro,Pampa Aullagas,2,47%
+25,2021-11-20,Oruro,Pazña,2,49%
+26,2021-11-20,Oruro,Totora(Orr),2,50%
+27,2021-11-20,Oruro,Soracachi,2,51%
+28,2021-11-20,Oruro,Huanuni,2,59%
+29,2021-11-20,Oruro,Huayllamarca,2,60%
+30,2021-11-20,Oruro,Machacamarca,2,61%
+31,2021-11-20,Oruro,Curahuara De Carangas,2,63%
+32,2021-11-20,Oruro,Oruro,2,66%
+33,2021-11-20,Oruro,Antequera,2,82%
+34,2021-11-20,Oruro,Huachacalla,2,97%
+0,2021-11-27,Santa Cruz,Yapacani,1,25%
+1,2021-11-27,Santa Cruz,Pailon,1,30%
+2,2021-11-27,Santa Cruz,San Julian,1,32%
+3,2021-11-27,Santa Cruz,San Jose De Chiquitos,1,33%
+4,2021-11-27,Santa Cruz,El Puente(Stc),1,35%
+5,2021-11-27,Santa Cruz,La Guardia,1,37%
+6,2021-11-27,Santa Cruz,Santa Rosa Del Sara,1,37%
+7,2021-11-27,Santa Cruz,Charagua,1,40%
+8,2021-11-27,Santa Cruz,Cuatro Cañadas,1,40%
+9,2021-11-27,Santa Cruz,Ascencion De Guarayos,1,41%
+10,2021-11-27,Santa Cruz,Warnes,1,41%
+11,2021-11-27,Santa Cruz,Fernandez Alonso,1,47%
+12,2021-11-27,Santa Cruz,Saipina,1,48%
+13,2021-11-27,Santa Cruz,San Carlos,1,49%
+14,2021-11-27,Santa Cruz,San Pedro,1,49%
+15,2021-11-27,Santa Cruz,Urubicha,1,52%
+16,2021-11-27,Santa Cruz,Pampa Grande,1,54%
+17,2021-11-27,Santa Cruz,San Juan De Yapacani,1,55%
+18,2021-11-27,Santa Cruz,Cabezas,1,57%
+19,2021-11-27,Santa Cruz,San Antonio De Lomerio,1,58%
+20,2021-11-27,Santa Cruz,Mairana,1,59%
+21,2021-11-27,Santa Cruz,Quirusillas,1,60%
+22,2021-11-27,Santa Cruz,Mineros,1,62%
+23,2021-11-27,Santa Cruz,Comarapa,1,65%
+24,2021-11-27,Santa Cruz,Gutierrez,1,65%
+25,2021-11-27,Santa Cruz,Postrer Valle,1,66%
+26,2021-11-27,Santa Cruz,San Javier(Stc),1,67%
+27,2021-11-27,Santa Cruz,Trigal,1,68%
+28,2021-11-27,Santa Cruz,Cuevo,1,70%
+29,2021-11-27,Santa Cruz,El Torno,1,70%
+30,2021-11-27,Santa Cruz,Montero,1,70%
+31,2021-11-27,Santa Cruz,San Rafael,1,70%
+32,2021-11-27,Santa Cruz,Buena Vista,1,71%
+33,2021-11-27,Santa Cruz,Carmen Rivero Torrez,1,72%
+34,2021-11-27,Santa Cruz,Boyuibe,1,73%
+35,2021-11-27,Santa Cruz,Puerto Suarez,1,73%
+36,2021-11-27,Santa Cruz,Concepcion,1,74%
+37,2021-11-27,Santa Cruz,Porongo,1,76%
+38,2021-11-27,Santa Cruz,Samaipata,1,76%
+39,2021-11-27,Santa Cruz,San Ignacio De Velasco,1,76%
+40,2021-11-27,Santa Cruz,San Ramon,1,77%
+41,2021-11-27,Santa Cruz,Okinawa,1,79%
+42,2021-11-27,Santa Cruz,San Miguel De Velasco,1,79%
+43,2021-11-27,Santa Cruz,Santa Cruz de la Sierra,1,80%
+44,2021-11-27,Santa Cruz,Portachuelo,1,82%
+45,2021-11-27,Santa Cruz,Pucara,1,83%
+46,2021-11-27,Santa Cruz,Puerto Quijarro,1,86%
+47,2021-11-27,Santa Cruz,San Matias,1,87%
+48,2021-11-27,Santa Cruz,General Saavedra,1,90%
+49,2021-11-27,Santa Cruz,Lagunillas,1,90%
+50,2021-11-27,Santa Cruz,Moro Moro,1,90%
+51,2021-11-27,Santa Cruz,Vallegrande,1,91%
+52,2021-11-27,Santa Cruz,Robore,1,92%
+53,2021-11-27,Santa Cruz,Colpa Belgica,1,96%
+54,2021-11-27,Santa Cruz,Cotoca,1,97%
+55,2021-11-27,Santa Cruz,Camiri,1,98%
+0,2021-11-27,Beni,Exaltacion,1,17%
+1,2021-11-27,Beni,San Javier(Bni),1,19%
+2,2021-11-27,Beni,Loreto,1,20%
+3,2021-11-27,Beni,San Borja,1,26%
+4,2021-11-27,Beni,Reyes,1,35%
+5,2021-11-27,Beni,Rurrenabaque,1,36%
+6,2021-11-27,Beni,San Andres,1,45%
+7,2021-11-27,Beni,Magdalena,1,48%
+8,2021-11-27,Beni,Huaracaje,1,49%
+9,2021-11-27,Beni,San Joaquin,1,49%
+10,2021-11-27,Beni,Santa Ana,1,50%
+11,2021-11-27,Beni,San Ignacio,1,56%
+12,2021-11-27,Beni,Trinidad,1,58%
+13,2021-11-27,Beni,Santa Rosa,1,62%
+14,2021-11-27,Beni,Puerto Siles,1,65%
+15,2021-11-27,Beni,San Ramon,1,67%
+16,2021-11-27,Beni,Riberalta,1,74%
+17,2021-11-27,Beni,Guayaramerin,1,77%
+18,2021-11-27,Beni,Baures,1,80%
+0,2021-11-27,Pando,Ingavi (Humaita),1,34%
+1,2021-11-27,Pando,San Lorenzo(Pnd),1,36%
+2,2021-11-27,Pando,Sena,1,37%
+3,2021-11-27,Pando,San Pedro(Pnd),1,38%
+4,2021-11-27,Pando,Nuevo Manoa (Nueva Esperanza),1,41%
+5,2021-11-27,Pando,Bolpebra,1,45%
+6,2021-11-27,Pando,Eureka (Santos Mercado),1,49%
+7,2021-11-27,Pando,Porvenir,1,50%
+8,2021-11-27,Pando,Puerto Gonzalo Moreno,1,50%
+9,2021-11-27,Pando,Filadelfia,1,53%
+10,2021-11-27,Pando,Villa Nueva (Loma Alta),1,54%
+11,2021-11-27,Pando,Nacebe (Santa Rosa Del Abuna),1,65%
+12,2021-11-27,Pando,Bella Flor,1,66%
+13,2021-11-27,Pando,Cobija,1,67%
+14,2021-11-27,Pando,Puerto Rico,1,77%
+0,2021-11-27,Cochabamba,Bolivar,1,30%
+1,2021-11-27,Cochabamba,Tacopaya,1,30%
+2,2021-11-27,Cochabamba,Vacas,1,30%
+3,2021-11-27,Cochabamba,Pojo (Cbba),1,33%
+4,2021-11-27,Cochabamba,Colomi,1,38%
+5,2021-11-27,Cochabamba,Pasorapa,1,38%
+6,2021-11-27,Cochabamba,Tiraque (Cbba),1,39%
+7,2021-11-27,Cochabamba,Cocapata,1,41%
+8,2021-11-27,Cochabamba,Sicaya,1,41%
+9,2021-11-27,Cochabamba,Sacaba,1,42%
+10,2021-11-27,Cochabamba,Mizque,1,43%
+11,2021-11-27,Cochabamba,Morochata,1,43%
+12,2021-11-27,Cochabamba,Totora(Cbba),1,43%
+13,2021-11-27,Cochabamba,Vila Vila,1,43%
+14,2021-11-27,Cochabamba,Vinto,1,43%
+15,2021-11-27,Cochabamba,Ayopaya (V. De Independencia),1,44%
+16,2021-11-27,Cochabamba,Sipe Sipe,1,44%
+17,2021-11-27,Cochabamba,Entre Rios,1,45%
+18,2021-11-27,Cochabamba,Colcapirhua,1,46%
+19,2021-11-27,Cochabamba,Puerto Villarroel,1,47%
+20,2021-11-27,Cochabamba,Tiquipaya,1,47%
+21,2021-11-27,Cochabamba,San Benito,1,48%
+22,2021-11-27,Cochabamba,Tapacari,1,48%
+23,2021-11-27,Cochabamba,Arani,1,51%
+24,2021-11-27,Cochabamba,Villa Rivero,1,51%
+25,2021-11-27,Cochabamba,Chimore,1,53%
+26,2021-11-27,Cochabamba,Shinaota,1,53%
+27,2021-11-27,Cochabamba,Villa Tunari,1,54%
+28,2021-11-27,Cochabamba,Toco,1,55%
+29,2021-11-27,Cochabamba,Sacabamba,1,57%
+30,2021-11-27,Cochabamba,Capinota,1,58%
+31,2021-11-27,Cochabamba,Arque,1,60%
+32,2021-11-27,Cochabamba,Quillacollo,1,60%
+33,2021-11-27,Cochabamba,Quillacollo,1,61%
+34,2021-11-27,Cochabamba,Pocona,1,63%
+35,2021-11-27,Cochabamba,Alalay,1,66%
+36,2021-11-27,Cochabamba,Aiquile,1,68%
+37,2021-11-27,Cochabamba,Tacachi,1,72%
+38,2021-11-27,Cochabamba,Cliza,1,76%
+39,2021-11-27,Cochabamba,Arbieto,1,78%
+40,2021-11-27,Cochabamba,Punata,1,78%
+41,2021-11-27,Cochabamba,Omereque,1,81%
+42,2021-11-27,Cochabamba,Anzaldo,1,85%
+43,2021-11-27,Cochabamba,Tolata,1,92%
+44,2021-11-27,Cochabamba,Tarata,1,93%
+45,2021-11-27,Cochabamba,Cochabamba,1,100%
+46,2021-11-27,Cochabamba,Cuchumuela (V. G. Villarroel),1,103%
+47,2021-11-27,Cochabamba,Santivañes,1,134%
+0,2021-11-27,Chuquisaca,Presto,1,18%
+1,2021-11-27,Chuquisaca,Villa Charcas,1,23%
+2,2021-11-27,Chuquisaca,Incahuasi,1,24%
+3,2021-11-27,Chuquisaca,Poroma,1,26%
+4,2021-11-27,Chuquisaca,Tarabuco,1,29%
+5,2021-11-27,Chuquisaca,Tarvita,1,30%
+6,2021-11-27,Chuquisaca,Zudañez,1,31%
+7,2021-11-27,Chuquisaca,Yamparaez,1,32%
+8,2021-11-27,Chuquisaca,Sopachuy,1,33%
+9,2021-11-27,Chuquisaca,Mojocoya,1,41%
+10,2021-11-27,Chuquisaca,San Lucas,1,43%
+11,2021-11-27,Chuquisaca,Icla,1,46%
+12,2021-11-27,Chuquisaca,Culpina,1,47%
+13,2021-11-27,Chuquisaca,Azurduy,1,49%
+14,2021-11-27,Chuquisaca,Tomina,1,51%
+15,2021-11-27,Chuquisaca,Alcala,1,52%
+16,2021-11-27,Chuquisaca,Las Carreras,1,52%
+17,2021-11-27,Chuquisaca,Camataqui (C. Villa Abecia),1,53%
+18,2021-11-27,Chuquisaca,Yotala,1,53%
+19,2021-11-27,Chuquisaca,El Villar,1,65%
+20,2021-11-27,Chuquisaca,Camargo,1,70%
+21,2021-11-27,Chuquisaca,Huacaya (Villa De Huacaya),1,71%
+22,2021-11-27,Chuquisaca,Machareti,1,73%
+23,2021-11-27,Chuquisaca,Villa Serrano,1,75%
+24,2021-11-27,Chuquisaca,Villa Vaca Guzman (Muyupampa),1,78%
+25,2021-11-27,Chuquisaca,Padilla,1,85%
+26,2021-11-27,Chuquisaca,Huacareta,1,87%
+27,2021-11-27,Chuquisaca,Monteagudo,1,89%
+28,2021-11-27,Chuquisaca,Sucre,1,89%
+0,2021-11-27,Tarija,Yunchara,1,51%
+1,2021-11-27,Tarija,El Puente(Tja),1,67%
+2,2021-11-27,Tarija,Entre Rios,1,69%
+3,2021-11-27,Tarija,Yacuiba,1,69%
+4,2021-11-27,Tarija,Bermejo,1,70%
+5,2021-11-27,Tarija,Padcaya,1,71%
+6,2021-11-27,Tarija,Carapari,1,72%
+7,2021-11-27,Tarija,San Lorenzo(Tja),1,74%
+8,2021-11-27,Tarija,Uriondo (A. Concepcion),1,74%
+9,2021-11-27,Tarija,Tarija,1,78%
+10,2021-11-27,Tarija,Villa Montes,1,78%
+0,2021-11-27,La Paz,Ancoraimes,1,13%
+1,2021-11-27,La Paz,Aucapata,1,13%
+2,2021-11-27,La Paz,Tito Yupanqui (Parquipujio),1,13%
+3,2021-11-27,La Paz,Caquiaviri,1,14%
+4,2021-11-27,La Paz,Calacoto,1,17%
+5,2021-11-27,La Paz,Humanata,1,19%
+6,2021-11-27,La Paz,Combaya,1,20%
+7,2021-11-27,La Paz,Gral. J.J. Perez (Charazani),1,20%
+8,2021-11-27,La Paz,Apolo,1,21%
+9,2021-11-27,La Paz,Sorata,1,21%
+10,2021-11-27,La Paz,Catacora,1,22%
+11,2021-11-27,La Paz,Curva,1,22%
+12,2021-11-27,La Paz,Santiago De Callapa,1,22%
+13,2021-11-27,La Paz,Sapahaqui,1,22%
+14,2021-11-27,La Paz,Pelechuco,1,24%
+15,2021-11-27,La Paz,Sica Sica (Villa Aroma),1,24%
+16,2021-11-27,La Paz,Mecapaca,1,25%
+17,2021-11-27,La Paz,Ayata,1,26%
+18,2021-11-27,La Paz,Chacarilla,1,26%
+19,2021-11-27,La Paz,Mapiri,1,26%
+20,2021-11-27,La Paz,Puerto Carabuco,1,26%
+21,2021-11-27,La Paz,Batallas,1,27%
+22,2021-11-27,La Paz,Charaña,1,27%
+23,2021-11-27,La Paz,La Asunta,1,27%
+24,2021-11-27,La Paz,Mocomoco,1,27%
+25,2021-11-27,La Paz,Ichoca,1,28%
+26,2021-11-27,La Paz,Alto Beni,1,29%
+27,2021-11-27,La Paz,Cairoma,1,29%
+28,2021-11-27,La Paz,Comanche,1,29%
+29,2021-11-27,La Paz,Licoma Pampa,1,29%
+30,2021-11-27,La Paz,Chuma,1,31%
+31,2021-11-27,La Paz,Colquencha,1,31%
+32,2021-11-27,La Paz,Pucarani,1,31%
+33,2021-11-27,La Paz,Santiago De Huata,1,31%
+34,2021-11-27,La Paz,Tacacoma,1,31%
+35,2021-11-27,La Paz,Waldo Ballivian,1,31%
+36,2021-11-27,La Paz,Chulumani (V. De La Libertad),1,32%
+37,2021-11-27,La Paz,Copacabana,1,32%
+38,2021-11-27,La Paz,Guanay,1,32%
+39,2021-11-27,La Paz,Malla,1,32%
+40,2021-11-27,La Paz,Tiawanacu,1,32%
+41,2021-11-27,La Paz,Caranavi,1,33%
+42,2021-11-27,La Paz,San Andres De Machaca,1,33%
+43,2021-11-27,La Paz,San Pedro De Curahuara,1,33%
+44,2021-11-27,La Paz,Taraco,1,33%
+45,2021-11-27,La Paz,Coripata,1,34%
+46,2021-11-27,La Paz,Inquisivi,1,34%
+47,2021-11-27,La Paz,Jesus De Machaca,1,34%
+48,2021-11-27,La Paz,Ayo Ayo,1,36%
+49,2021-11-27,La Paz,Coroico,1,36%
+50,2021-11-27,La Paz,Irupana (Villa De Lanza),1,36%
+51,2021-11-27,La Paz,Palos Blancos,1,36%
+52,2021-11-27,La Paz,Puerto Perez,1,36%
+53,2021-11-27,La Paz,Quiabaya,1,36%
+54,2021-11-27,La Paz,Santiago De Machaca,1,36%
+55,2021-11-27,La Paz,Coro Coro,1,37%
+56,2021-11-27,La Paz,Chua Cocani,1,38%
+57,2021-11-27,La Paz,Huarina ,1,38%
+58,2021-11-27,La Paz,Achacachi,1,40%
+59,2021-11-27,La Paz,Escoma,1,40%
+60,2021-11-27,La Paz,Papel Pampa,1,40%
+61,2021-11-27,La Paz,Patacamaya,1,40%
+62,2021-11-27,La Paz,Cajuata,1,41%
+63,2021-11-27,La Paz,Calamarca,1,41%
+64,2021-11-27,La Paz,Luribay,1,41%
+65,2021-11-27,La Paz,Tipuani,1,41%
+66,2021-11-27,La Paz,Colquiri,1,42%
+67,2021-11-27,La Paz,Huatajata,1,42%
+68,2021-11-27,La Paz,Laja,1,42%
+69,2021-11-27,La Paz,Teoponte,1,42%
+70,2021-11-27,La Paz,Yaco,1,42%
+71,2021-11-27,La Paz,Desaguadero,1,43%
+72,2021-11-27,La Paz,Palca,1,43%
+73,2021-11-27,La Paz,Collana,1,45%
+74,2021-11-27,La Paz,Guaqui,1,45%
+75,2021-11-27,La Paz,Puerto Acosta,1,45%
+76,2021-11-27,La Paz,San Pedro De Tiquina,1,46%
+77,2021-11-27,La Paz,Quime,1,47%
+78,2021-11-27,La Paz,Umala,1,48%
+79,2021-11-27,La Paz,Yanacachi,1,48%
+80,2021-11-27,La Paz,Ixiamas,1,49%
+81,2021-11-27,La Paz,Nazacara De Pacajes,1,50%
+82,2021-11-27,La Paz,Viacha,1,53%
+83,2021-11-27,La Paz,El Alto,1,55%
+84,2021-11-27,La Paz,San Buena Ventura,1,57%
+85,2021-11-27,La Paz,Achocalla,1,72%
+86,2021-11-27,La Paz,La Paz,1,105%
+0,2021-11-27,Potosí,San Pedro De Buena Vista,1,14%
+1,2021-11-27,Potosí,Tinguipaya,1,16%
+2,2021-11-27,Potosí,Chuquihuta Ayllu Jucumani,1,21%
+3,2021-11-27,Potosí,Acacio,1,22%
+4,2021-11-27,Potosí,Colquechaca,1,22%
+5,2021-11-27,Potosí,Pocoata,1,23%
+6,2021-11-27,Potosí,Belen De Urmiri,1,24%
+7,2021-11-27,Potosí,Mojinete,1,24%
+8,2021-11-27,Potosí,San Antonio De Esmoruco,1,27%
+9,2021-11-27,Potosí,Toro Toro,1,27%
+10,2021-11-27,Potosí,Ravelo,1,29%
+11,2021-11-27,Potosí,Ckochas,1,30%
+12,2021-11-27,Potosí,Chayanta,1,31%
+13,2021-11-27,Potosí,Puna,1,31%
+14,2021-11-27,Potosí,Ocuri,1,32%
+15,2021-11-27,Potosí,Tacobamba,1,34%
+16,2021-11-27,Potosí,Llica,1,36%
+17,2021-11-27,Potosí,Porco,1,36%
+18,2021-11-27,Potosí,Tomave,1,36%
+19,2021-11-27,Potosí,San P.De Quemes,1,37%
+20,2021-11-27,Potosí,Uncia,1,37%
+21,2021-11-27,Potosí,Betanzos,1,39%
+22,2021-11-27,Potosí,San P. De Lipez,1,39%
+23,2021-11-27,Potosí,Arampampa,1,40%
+24,2021-11-27,Potosí,Yocalla,1,40%
+25,2021-11-27,Potosí,Sacaca,1,41%
+26,2021-11-27,Potosí,Chaqui,1,42%
+27,2021-11-27,Potosí,Cotagaita,1,42%
+28,2021-11-27,Potosí,"Caiza ""D""",1,46%
+29,2021-11-27,Potosí,Vitichi,1,51%
+30,2021-11-27,Potosí,Caripuyo,1,53%
+31,2021-11-27,Potosí,Llallagua,1,58%
+32,2021-11-27,Potosí,Tahua,1,58%
+33,2021-11-27,Potosí,Villazon,1,68%
+34,2021-11-27,Potosí,"Colcha ""K""",1,70%
+35,2021-11-27,Potosí,Uyuni,1,70%
+36,2021-11-27,Potosí,San Agustin,1,78%
+37,2021-11-27,Potosí,Potosí,1,79%
+38,2021-11-27,Potosí,Tupiza,1,88%
+39,2021-11-27,Potosí,Atocha,1,93%
+0,2021-11-27,Oruro,Cruz De Machacamarca,1,6%
+1,2021-11-27,Oruro,Escara,1,9%
+2,2021-11-27,Oruro,Todos Santos,1,17%
+3,2021-11-27,Oruro,El Choro,1,18%
+4,2021-11-27,Oruro,Esmeralda,1,21%
+5,2021-11-27,Oruro,Chipaya,1,22%
+6,2021-11-27,Oruro,Carangas,1,23%
+7,2021-11-27,Oruro,Santiago De Huari,1,27%
+8,2021-11-27,Oruro,Toledo,1,29%
+9,2021-11-27,Oruro,Salinas De Garci Mendoza,1,31%
+10,2021-11-27,Oruro,La Rivera,1,33%
+11,2021-11-27,Oruro,Santuario De Quillacas,1,40%
+12,2021-11-27,Oruro,Corque,1,41%
+13,2021-11-27,Oruro,Sabaya,1,41%
+14,2021-11-27,Oruro,Andamarca,1,42%
+15,2021-11-27,Oruro,Belen De Andamarca,1,43%
+16,2021-11-27,Oruro,Coipasa,1,43%
+17,2021-11-27,Oruro,Challapata,1,45%
+18,2021-11-27,Oruro,Turco,1,47%
+19,2021-11-27,Oruro,Yunguyo De Litoral,1,47%
+20,2021-11-27,Oruro,Poopo,1,48%
+21,2021-11-27,Oruro,Choque Cota,1,49%
+22,2021-11-27,Oruro,Caracollo,1,50%
+23,2021-11-27,Oruro,Eucaliptus,1,53%
+24,2021-11-27,Oruro,Pampa Aullagas,1,53%
+25,2021-11-27,Oruro,Pazña,1,53%
+26,2021-11-27,Oruro,Totora(Orr),1,54%
+27,2021-11-27,Oruro,Soracachi,1,55%
+28,2021-11-27,Oruro,Huayllamarca,1,62%
+29,2021-11-27,Oruro,Huanuni,1,63%
+30,2021-11-27,Oruro,Machacamarca,1,64%
+31,2021-11-27,Oruro,Curahuara De Carangas,1,67%
+32,2021-11-27,Oruro,Oruro,1,83%
+33,2021-11-27,Oruro,Antequera,1,86%
+34,2021-11-27,Oruro,Huachacalla,1,99%
+0,2021-11-27,Santa Cruz,Pailon,2,18%
+1,2021-11-27,Santa Cruz,Yapacani,2,21%
+2,2021-11-27,Santa Cruz,San Jose De Chiquitos,2,26%
+3,2021-11-27,Santa Cruz,El Puente(Stc),2,29%
+4,2021-11-27,Santa Cruz,San Julian,2,29%
+5,2021-11-27,Santa Cruz,Ascencion De Guarayos,2,32%
+6,2021-11-27,Santa Cruz,La Guardia,2,32%
+7,2021-11-27,Santa Cruz,Charagua,2,34%
+8,2021-11-27,Santa Cruz,Santa Rosa Del Sara,2,34%
+9,2021-11-27,Santa Cruz,Cuatro Cañadas,2,36%
+10,2021-11-27,Santa Cruz,Urubicha,2,36%
+11,2021-11-27,Santa Cruz,Fernandez Alonso,2,37%
+12,2021-11-27,Santa Cruz,Warnes,2,37%
+13,2021-11-27,Santa Cruz,Saipina,2,41%
+14,2021-11-27,Santa Cruz,San Pedro,2,43%
+15,2021-11-27,Santa Cruz,Pampa Grande,2,45%
+16,2021-11-27,Santa Cruz,San Carlos,2,46%
+17,2021-11-27,Santa Cruz,San Juan De Yapacani,2,52%
+18,2021-11-27,Santa Cruz,Cabezas,2,53%
+19,2021-11-27,Santa Cruz,Mineros,2,53%
+20,2021-11-27,Santa Cruz,San Antonio De Lomerio,2,53%
+21,2021-11-27,Santa Cruz,Mairana,2,54%
+22,2021-11-27,Santa Cruz,Quirusillas,2,56%
+23,2021-11-27,Santa Cruz,Gutierrez,2,57%
+24,2021-11-27,Santa Cruz,Postrer Valle,2,57%
+25,2021-11-27,Santa Cruz,Montero,2,58%
+26,2021-11-27,Santa Cruz,Trigal,2,60%
+27,2021-11-27,Santa Cruz,Comarapa,2,61%
+28,2021-11-27,Santa Cruz,San Rafael,2,61%
+29,2021-11-27,Santa Cruz,San Javier(Stc),2,63%
+30,2021-11-27,Santa Cruz,El Torno,2,64%
+31,2021-11-27,Santa Cruz,Buena Vista,2,65%
+32,2021-11-27,Santa Cruz,Concepcion,2,68%
+33,2021-11-27,Santa Cruz,Cuevo,2,68%
+34,2021-11-27,Santa Cruz,Carmen Rivero Torrez,2,69%
+35,2021-11-27,Santa Cruz,San Ignacio De Velasco,2,69%
+36,2021-11-27,Santa Cruz,Santa Cruz de la Sierra,2,69%
+37,2021-11-27,Santa Cruz,Porongo,2,70%
+38,2021-11-27,Santa Cruz,Puerto Suarez,2,71%
+39,2021-11-27,Santa Cruz,San Ramon,2,71%
+40,2021-11-27,Santa Cruz,Boyuibe,2,73%
+41,2021-11-27,Santa Cruz,Okinawa,2,74%
+42,2021-11-27,Santa Cruz,San Miguel De Velasco,2,74%
+43,2021-11-27,Santa Cruz,Samaipata,2,75%
+44,2021-11-27,Santa Cruz,Cotoca,2,77%
+45,2021-11-27,Santa Cruz,Robore,2,77%
+46,2021-11-27,Santa Cruz,Portachuelo,2,78%
+47,2021-11-27,Santa Cruz,Pucara,2,78%
+48,2021-11-27,Santa Cruz,Puerto Quijarro,2,78%
+49,2021-11-27,Santa Cruz,Moro Moro,2,79%
+50,2021-11-27,Santa Cruz,General Saavedra,2,80%
+51,2021-11-27,Santa Cruz,Vallegrande,2,83%
+52,2021-11-27,Santa Cruz,San Matias,2,84%
+53,2021-11-27,Santa Cruz,Lagunillas,2,85%
+54,2021-11-27,Santa Cruz,Camiri,2,92%
+55,2021-11-27,Santa Cruz,Colpa Belgica,2,92%
+0,2021-11-27,Beni,Loreto,2,15%
+1,2021-11-27,Beni,San Javier(Bni),2,16%
+2,2021-11-27,Beni,Exaltacion,2,17%
+3,2021-11-27,Beni,San Borja,2,22%
+4,2021-11-27,Beni,Reyes,2,29%
+5,2021-11-27,Beni,Rurrenabaque,2,30%
+6,2021-11-27,Beni,San Joaquin,2,37%
+7,2021-11-27,Beni,San Andres,2,38%
+8,2021-11-27,Beni,Magdalena,2,42%
+9,2021-11-27,Beni,Trinidad,2,43%
+10,2021-11-27,Beni,Santa Ana,2,44%
+11,2021-11-27,Beni,Huaracaje,2,46%
+12,2021-11-27,Beni,San Ignacio,2,49%
+13,2021-11-27,Beni,Santa Rosa,2,54%
+14,2021-11-27,Beni,Puerto Siles,2,55%
+15,2021-11-27,Beni,Riberalta,2,55%
+16,2021-11-27,Beni,San Ramon,2,56%
+17,2021-11-27,Beni,Guayaramerin,2,59%
+18,2021-11-27,Beni,Baures,2,73%
+0,2021-11-27,Pando,Ingavi (Humaita),2,16%
+1,2021-11-27,Pando,Sena,2,21%
+2,2021-11-27,Pando,San Lorenzo(Pnd),2,22%
+3,2021-11-27,Pando,Nuevo Manoa (Nueva Esperanza),2,28%
+4,2021-11-27,Pando,San Pedro(Pnd),2,32%
+5,2021-11-27,Pando,Bolpebra,2,33%
+6,2021-11-27,Pando,Eureka (Santos Mercado),2,35%
+7,2021-11-27,Pando,Porvenir,2,35%
+8,2021-11-27,Pando,Villa Nueva (Loma Alta),2,38%
+9,2021-11-27,Pando,Filadelfia,2,39%
+10,2021-11-27,Pando,Puerto Gonzalo Moreno,2,39%
+11,2021-11-27,Pando,Cobija,2,49%
+12,2021-11-27,Pando,Nacebe (Santa Rosa Del Abuna),2,51%
+13,2021-11-27,Pando,Bella Flor,2,54%
+14,2021-11-27,Pando,Puerto Rico,2,62%
+0,2021-11-27,Cochabamba,Tacopaya,2,25%
+1,2021-11-27,Cochabamba,Pojo (Cbba),2,26%
+2,2021-11-27,Cochabamba,Vacas,2,26%
+3,2021-11-27,Cochabamba,Bolivar,2,27%
+4,2021-11-27,Cochabamba,Colomi,2,35%
+5,2021-11-27,Cochabamba,Vinto,2,36%
+6,2021-11-27,Cochabamba,Pasorapa,2,37%
+7,2021-11-27,Cochabamba,Sacaba,2,38%
+8,2021-11-27,Cochabamba,Sipe Sipe,2,38%
+9,2021-11-27,Cochabamba,Tiraque (Cbba),2,38%
+10,2021-11-27,Cochabamba,Cocapata,2,39%
+11,2021-11-27,Cochabamba,Morochata,2,39%
+12,2021-11-27,Cochabamba,Sicaya,2,39%
+13,2021-11-27,Cochabamba,Totora(Cbba),2,39%
+14,2021-11-27,Cochabamba,Colcapirhua,2,40%
+15,2021-11-27,Cochabamba,Mizque,2,40%
+16,2021-11-27,Cochabamba,Tiquipaya,2,40%
+17,2021-11-27,Cochabamba,Puerto Villarroel,2,41%
+18,2021-11-27,Cochabamba,Vila Vila,2,41%
+19,2021-11-27,Cochabamba,Ayopaya (V. De Independencia),2,42%
+20,2021-11-27,Cochabamba,Entre Rios,2,43%
+21,2021-11-27,Cochabamba,Tapacari,2,43%
+22,2021-11-27,Cochabamba,Arani,2,45%
+23,2021-11-27,Cochabamba,Villa Tunari,2,45%
+24,2021-11-27,Cochabamba,Sacabamba,2,46%
+25,2021-11-27,Cochabamba,San Benito,2,46%
+26,2021-11-27,Cochabamba,Shinaota,2,46%
+27,2021-11-27,Cochabamba,Villa Rivero,2,47%
+28,2021-11-27,Cochabamba,Chimore,2,48%
+29,2021-11-27,Cochabamba,Toco,2,51%
+30,2021-11-27,Cochabamba,Capinota,2,53%
+31,2021-11-27,Cochabamba,Pocona,2,54%
+32,2021-11-27,Cochabamba,Arque,2,55%
+33,2021-11-27,Cochabamba,Quillacollo,2,55%
+34,2021-11-27,Cochabamba,Alalay,2,62%
+35,2021-11-27,Cochabamba,Tacachi,2,65%
+36,2021-11-27,Cochabamba,Aiquile,2,66%
+37,2021-11-27,Cochabamba,Arbieto,2,66%
+38,2021-11-27,Cochabamba,Cliza,2,68%
+39,2021-11-27,Cochabamba,Anzaldo,2,70%
+40,2021-11-27,Cochabamba,Punata,2,70%
+41,2021-11-27,Cochabamba,Omereque,2,80%
+42,2021-11-27,Cochabamba,Tolata,2,83%
+43,2021-11-27,Cochabamba,Cochabamba,2,86%
+44,2021-11-27,Cochabamba,Tarata,2,87%
+45,2021-11-27,Cochabamba,Cuchumuela (V. G. Villarroel),2,92%
+46,2021-11-27,Cochabamba,Santivañes,2,125%
+0,2021-11-27,Chuquisaca,Presto,2,16%
+1,2021-11-27,Chuquisaca,Incahuasi,2,20%
+2,2021-11-27,Chuquisaca,Tarabuco,2,20%
+3,2021-11-27,Chuquisaca,Villa Charcas,2,20%
+4,2021-11-27,Chuquisaca,Poroma,2,21%
+5,2021-11-27,Chuquisaca,Tarvita,2,25%
+6,2021-11-27,Chuquisaca,Yamparaez,2,27%
+7,2021-11-27,Chuquisaca,Zudañez,2,28%
+8,2021-11-27,Chuquisaca,Sopachuy,2,29%
+9,2021-11-27,Chuquisaca,Mojocoya,2,36%
+10,2021-11-27,Chuquisaca,Icla,2,39%
+11,2021-11-27,Chuquisaca,Culpina,2,41%
+12,2021-11-27,Chuquisaca,San Lucas,2,41%
+13,2021-11-27,Chuquisaca,Azurduy,2,44%
+14,2021-11-27,Chuquisaca,Tomina,2,46%
+15,2021-11-27,Chuquisaca,Las Carreras,2,48%
+16,2021-11-27,Chuquisaca,Yotala,2,50%
+17,2021-11-27,Chuquisaca,Alcala,2,52%
+18,2021-11-27,Chuquisaca,Camataqui (C. Villa Abecia),2,52%
+19,2021-11-27,Chuquisaca,El Villar,2,58%
+20,2021-11-27,Chuquisaca,Camargo,2,68%
+21,2021-11-27,Chuquisaca,Huacaya (Villa De Huacaya),2,69%
+22,2021-11-27,Chuquisaca,Machareti,2,69%
+23,2021-11-27,Chuquisaca,Villa Vaca Guzman (Muyupampa),2,72%
+24,2021-11-27,Chuquisaca,Villa Serrano,2,73%
+25,2021-11-27,Chuquisaca,Sucre,2,75%
+26,2021-11-27,Chuquisaca,Huacareta,2,82%
+27,2021-11-27,Chuquisaca,Padilla,2,83%
+28,2021-11-27,Chuquisaca,Monteagudo,2,84%
+0,2021-11-27,Tarija,Yunchara,2,46%
+1,2021-11-27,Tarija,El Puente(Tja),2,55%
+2,2021-11-27,Tarija,Yacuiba,2,61%
+3,2021-11-27,Tarija,Entre Rios,2,62%
+4,2021-11-27,Tarija,Bermejo,2,64%
+5,2021-11-27,Tarija,Carapari,2,65%
+6,2021-11-27,Tarija,Padcaya,2,66%
+7,2021-11-27,Tarija,San Lorenzo(Tja),2,67%
+8,2021-11-27,Tarija,Uriondo (A. Concepcion),2,67%
+9,2021-11-27,Tarija,Villa Montes,2,70%
+10,2021-11-27,Tarija,Tarija,2,71%
+0,2021-11-27,La Paz,Ancoraimes,2,11%
+1,2021-11-27,La Paz,Aucapata,2,11%
+2,2021-11-27,La Paz,Caquiaviri,2,12%
+3,2021-11-27,La Paz,Tito Yupanqui (Parquipujio),2,12%
+4,2021-11-27,La Paz,Humanata,2,15%
+5,2021-11-27,La Paz,Apolo,2,17%
+6,2021-11-27,La Paz,Calacoto,2,17%
+7,2021-11-27,La Paz,Gral. J.J. Perez (Charazani),2,17%
+8,2021-11-27,La Paz,Combaya,2,18%
+9,2021-11-27,La Paz,Santiago De Callapa,2,18%
+10,2021-11-27,La Paz,Sorata,2,19%
+11,2021-11-27,La Paz,Curva,2,20%
+12,2021-11-27,La Paz,Sapahaqui,2,20%
+13,2021-11-27,La Paz,Catacora,2,21%
+14,2021-11-27,La Paz,Pelechuco,2,21%
+15,2021-11-27,La Paz,Sica Sica (Villa Aroma),2,22%
+16,2021-11-27,La Paz,Mapiri,2,23%
+17,2021-11-27,La Paz,Ayata,2,24%
+18,2021-11-27,La Paz,Charaña,2,24%
+19,2021-11-27,La Paz,La Asunta,2,24%
+20,2021-11-27,La Paz,Mecapaca,2,24%
+21,2021-11-27,La Paz,Puerto Carabuco,2,24%
+22,2021-11-27,La Paz,Batallas,2,25%
+23,2021-11-27,La Paz,Mocomoco,2,25%
+24,2021-11-27,La Paz,Chacarilla,2,26%
+25,2021-11-27,La Paz,Comanche,2,26%
+26,2021-11-27,La Paz,Alto Beni,2,27%
+27,2021-11-27,La Paz,Cairoma,2,27%
+28,2021-11-27,La Paz,Chuma,2,27%
+29,2021-11-27,La Paz,Ichoca,2,27%
+30,2021-11-27,La Paz,Licoma Pampa,2,27%
+31,2021-11-27,La Paz,Santiago De Huata,2,27%
+32,2021-11-27,La Paz,Colquencha,2,28%
+33,2021-11-27,La Paz,Pucarani,2,28%
+34,2021-11-27,La Paz,Waldo Ballivian,2,28%
+35,2021-11-27,La Paz,Caranavi,2,29%
+36,2021-11-27,La Paz,Chulumani (V. De La Libertad),2,29%
+37,2021-11-27,La Paz,San Andres De Machaca,2,29%
+38,2021-11-27,La Paz,Taraco,2,29%
+39,2021-11-27,La Paz,Copacabana,2,30%
+40,2021-11-27,La Paz,Malla,2,30%
+41,2021-11-27,La Paz,Tacacoma,2,30%
+42,2021-11-27,La Paz,Tiawanacu,2,30%
+43,2021-11-27,La Paz,Guanay,2,31%
+44,2021-11-27,La Paz,Coripata,2,32%
+45,2021-11-27,La Paz,Inquisivi,2,32%
+46,2021-11-27,La Paz,Puerto Perez,2,32%
+47,2021-11-27,La Paz,San Pedro De Curahuara,2,32%
+48,2021-11-27,La Paz,Ayo Ayo,2,33%
+49,2021-11-27,La Paz,Coro Coro,2,33%
+50,2021-11-27,La Paz,Jesus De Machaca,2,33%
+51,2021-11-27,La Paz,Palos Blancos,2,33%
+52,2021-11-27,La Paz,Santiago De Machaca,2,33%
+53,2021-11-27,La Paz,Coroico,2,34%
+54,2021-11-27,La Paz,Irupana (Villa De Lanza),2,34%
+55,2021-11-27,La Paz,Quiabaya,2,34%
+56,2021-11-27,La Paz,Papel Pampa,2,35%
+57,2021-11-27,La Paz,Chua Cocani,2,36%
+58,2021-11-27,La Paz,Huarina ,2,36%
+59,2021-11-27,La Paz,Achacachi,2,37%
+60,2021-11-27,La Paz,Colquiri,2,37%
+61,2021-11-27,La Paz,Escoma,2,37%
+62,2021-11-27,La Paz,Cajuata,2,38%
+63,2021-11-27,La Paz,Calamarca,2,38%
+64,2021-11-27,La Paz,Luribay,2,38%
+65,2021-11-27,La Paz,Palca,2,38%
+66,2021-11-27,La Paz,Patacamaya,2,38%
+67,2021-11-27,La Paz,Teoponte,2,38%
+68,2021-11-27,La Paz,Tipuani,2,38%
+69,2021-11-27,La Paz,Yaco,2,38%
+70,2021-11-27,La Paz,Huatajata,2,40%
+71,2021-11-27,La Paz,Laja,2,40%
+72,2021-11-27,La Paz,Desaguadero,2,41%
+73,2021-11-27,La Paz,El Alto,2,41%
+74,2021-11-27,La Paz,Collana,2,42%
+75,2021-11-27,La Paz,Guaqui,2,42%
+76,2021-11-27,La Paz,Ixiamas,2,42%
+77,2021-11-27,La Paz,Puerto Acosta,2,42%
+78,2021-11-27,La Paz,San Pedro De Tiquina,2,42%
+79,2021-11-27,La Paz,Umala,2,43%
+80,2021-11-27,La Paz,Nazacara De Pacajes,2,44%
+81,2021-11-27,La Paz,Quime,2,44%
+82,2021-11-27,La Paz,Yanacachi,2,46%
+83,2021-11-27,La Paz,San Buena Ventura,2,48%
+84,2021-11-27,La Paz,Viacha,2,49%
+85,2021-11-27,La Paz,Achocalla,2,65%
+86,2021-11-27,La Paz,La Paz,2,93%
+0,2021-11-27,Potosí,San Pedro De Buena Vista,2,9%
+1,2021-11-27,Potosí,Tinguipaya,2,13%
+2,2021-11-27,Potosí,Acacio,2,15%
+3,2021-11-27,Potosí,Chuquihuta Ayllu Jucumani,2,17%
+4,2021-11-27,Potosí,Colquechaca,2,17%
+5,2021-11-27,Potosí,Toro Toro,2,18%
+6,2021-11-27,Potosí,Belen De Urmiri,2,20%
+7,2021-11-27,Potosí,Pocoata,2,20%
+8,2021-11-27,Potosí,San Antonio De Esmoruco,2,20%
+9,2021-11-27,Potosí,Ravelo,2,23%
+10,2021-11-27,Potosí,Mojinete,2,24%
+11,2021-11-27,Potosí,Ckochas,2,25%
+12,2021-11-27,Potosí,Chayanta,2,26%
+13,2021-11-27,Potosí,Ocuri,2,27%
+14,2021-11-27,Potosí,Puna,2,27%
+15,2021-11-27,Potosí,Porco,2,28%
+16,2021-11-27,Potosí,Tacobamba,2,29%
+17,2021-11-27,Potosí,Chaqui,2,30%
+18,2021-11-27,Potosí,San P.De Quemes,2,31%
+19,2021-11-27,Potosí,Llica,2,32%
+20,2021-11-27,Potosí,Tomave,2,32%
+21,2021-11-27,Potosí,Uncia,2,32%
+22,2021-11-27,Potosí,Betanzos,2,34%
+23,2021-11-27,Potosí,Yocalla,2,34%
+24,2021-11-27,Potosí,Arampampa,2,35%
+25,2021-11-27,Potosí,Sacaca,2,35%
+26,2021-11-27,Potosí,San P. De Lipez,2,35%
+27,2021-11-27,Potosí,Cotagaita,2,38%
+28,2021-11-27,Potosí,"Caiza ""D""",2,40%
+29,2021-11-27,Potosí,Caripuyo,2,41%
+30,2021-11-27,Potosí,Vitichi,2,47%
+31,2021-11-27,Potosí,Llallagua,2,50%
+32,2021-11-27,Potosí,Tahua,2,51%
+33,2021-11-27,Potosí,Villazon,2,58%
+34,2021-11-27,Potosí,Uyuni,2,61%
+35,2021-11-27,Potosí,Potosí,2,66%
+36,2021-11-27,Potosí,"Colcha ""K""",2,67%
+37,2021-11-27,Potosí,San Agustin,2,74%
+38,2021-11-27,Potosí,Tupiza,2,82%
+39,2021-11-27,Potosí,Atocha,2,88%
+0,2021-11-27,Oruro,Cruz De Machacamarca,2,6%
+1,2021-11-27,Oruro,Escara,2,9%
+2,2021-11-27,Oruro,Todos Santos,2,16%
+3,2021-11-27,Oruro,El Choro,2,17%
+4,2021-11-27,Oruro,Chipaya,2,18%
+5,2021-11-27,Oruro,Esmeralda,2,19%
+6,2021-11-27,Oruro,Carangas,2,22%
+7,2021-11-27,Oruro,Santiago De Huari,2,24%
+8,2021-11-27,Oruro,Toledo,2,26%
+9,2021-11-27,Oruro,Salinas De Garci Mendoza,2,27%
+10,2021-11-27,Oruro,La Rivera,2,32%
+11,2021-11-27,Oruro,Corque,2,39%
+12,2021-11-27,Oruro,Santuario De Quillacas,2,39%
+13,2021-11-27,Oruro,Sabaya,2,40%
+14,2021-11-27,Oruro,Andamarca,2,41%
+15,2021-11-27,Oruro,Belen De Andamarca,2,42%
+16,2021-11-27,Oruro,Challapata,2,42%
+17,2021-11-27,Oruro,Coipasa,2,42%
+18,2021-11-27,Oruro,Poopo,2,45%
+19,2021-11-27,Oruro,Turco,2,45%
+20,2021-11-27,Oruro,Choque Cota,2,46%
+21,2021-11-27,Oruro,Yunguyo De Litoral,2,46%
+22,2021-11-27,Oruro,Caracollo,2,47%
+23,2021-11-27,Oruro,Eucaliptus,2,47%
+24,2021-11-27,Oruro,Pampa Aullagas,2,47%
+25,2021-11-27,Oruro,Pazña,2,49%
+26,2021-11-27,Oruro,Totora(Orr),2,50%
+27,2021-11-27,Oruro,Soracachi,2,51%
+28,2021-11-27,Oruro,Huanuni,2,59%
+29,2021-11-27,Oruro,Huayllamarca,2,60%
+30,2021-11-27,Oruro,Machacamarca,2,61%
+31,2021-11-27,Oruro,Curahuara De Carangas,2,63%
+32,2021-11-27,Oruro,Oruro,2,66%
+33,2021-11-27,Oruro,Antequera,2,82%
+34,2021-11-27,Oruro,Huachacalla,2,97%
