@@ -7,4 +7,7 @@
  
 ## Gráficas de Diego Acevedo Quintanilla (BoliGráfica)
 
+# Importante:
+ - Estos datos fueron extraidos de powerpoints internos (y no públicos) del Ministerio de Salud. Desafortunadamente parecen tener varias inconsistencias con los datos de los SEDES, y la metodología de qué poblaciones están incluidas en los datos no es clara. En otras palabras: USE CON PRECAUCIÓN. 
+
 ![Resumen Nacional Municipal](https://github.com/dquintani/vacunacion-municipios-bo/blob/master/figures/vac_mun_completo.jpg?raw=true)
