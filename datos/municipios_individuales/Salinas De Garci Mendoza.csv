@@ -1,8 +1,8 @@
 fecha,cod_ine,municipio,departamento,poblacion2020,dosis,porcentaje
 2021-11-13,40801,Salinas De Garci Mendoza,Oruro,14020,1,30
-2021-10-30,40801,Salinas De Garci Mendoza,Oruro,14020,2,25
-2021-10-23,40801,Salinas De Garci Mendoza,Oruro,14020,2,25
 2021-10-23,40801,Salinas De Garci Mendoza,Oruro,14020,1,28
+2021-10-30,40801,Salinas De Garci Mendoza,Oruro,14020,1,29
+2021-10-30,40801,Salinas De Garci Mendoza,Oruro,14020,2,25
 2021-11-13,40801,Salinas De Garci Mendoza,Oruro,14020,2,27
 2021-11-20,40801,Salinas De Garci Mendoza,Oruro,14020,1,31
 2021-11-20,40801,Salinas De Garci Mendoza,Oruro,14020,2,27
@@ -10,4 +10,4 @@ fecha,cod_ine,municipio,departamento,poblacion2020,dosis,porcentaje
 2021-11-27,40801,Salinas De Garci Mendoza,Oruro,14020,2,27
 2021-12-04,40801,Salinas De Garci Mendoza,Oruro,14020,1,32
 2021-12-04,40801,Salinas De Garci Mendoza,Oruro,14020,2,28
-2021-10-30,40801,Salinas De Garci Mendoza,Oruro,14020,1,29
+2021-10-23,40801,Salinas De Garci Mendoza,Oruro,14020,2,25

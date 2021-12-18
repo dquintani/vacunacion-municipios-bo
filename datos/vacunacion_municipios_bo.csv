@@ -3366,687 +3366,689 @@
 3364,2021-11-20,80202,Guayaramerin,Beni,2,59
 3365,2021-11-27,80202,Guayaramerin,Beni,1,77
 3366,2021-11-27,80202,Guayaramerin,Beni,2,59
-3367,2021-10-23,80802,Baures,Beni,1,74
-3368,2021-10-23,80802,Baures,Beni,2,70
-3369,2021-10-30,80802,Baures,Beni,1,74
-3370,2021-10-30,80802,Baures,Beni,2,70
-3371,2021-11-13,80802,Baures,Beni,1,77
-3372,2021-11-13,80802,Baures,Beni,2,73
-3373,2021-11-20,80802,Baures,Beni,1,80
-3374,2021-11-20,80802,Baures,Beni,2,73
-3375,2021-11-27,80802,Baures,Beni,1,80
-3376,2021-11-27,80802,Baures,Beni,2,73
-3377,2021-12-04,80802,Baures,Beni,1,82
-3378,2021-12-04,80802,Baures,Beni,2,79
-3379,2021-10-23,70403,Yapacani,Santa Cruz,1,23
-3380,2021-10-23,70403,Yapacani,Santa Cruz,2,21
-3381,2021-10-30,70403,Yapacani,Santa Cruz,1,23
-3382,2021-10-30,70403,Yapacani,Santa Cruz,2,21
-3383,2021-11-13,70403,Yapacani,Santa Cruz,1,24
-3384,2021-11-13,70403,Yapacani,Santa Cruz,2,21
-3385,2021-11-20,70403,Yapacani,Santa Cruz,1,24
-3386,2021-11-20,70403,Yapacani,Santa Cruz,2,21
-3387,2021-11-27,70403,Yapacani,Santa Cruz,1,25
-3388,2021-11-27,70403,Yapacani,Santa Cruz,2,21
-3389,2021-12-04,70403,Yapacani,Santa Cruz,1,25
-3390,2021-12-04,70403,Yapacani,Santa Cruz,2,22
-3391,2021-10-23,70502,Pailon,Santa Cruz,1,29
-3392,2021-10-23,70502,Pailon,Santa Cruz,2,15
-3393,2021-10-30,70502,Pailon,Santa Cruz,1,29
-3394,2021-10-30,70502,Pailon,Santa Cruz,2,16
-3395,2021-11-13,70502,Pailon,Santa Cruz,1,29
-3396,2021-11-13,70502,Pailon,Santa Cruz,2,18
-3397,2021-11-20,70502,Pailon,Santa Cruz,1,30
-3398,2021-11-20,70502,Pailon,Santa Cruz,2,18
-3399,2021-11-27,70502,Pailon,Santa Cruz,1,30
-3400,2021-11-27,70502,Pailon,Santa Cruz,2,18
-3401,2021-12-04,70502,Pailon,Santa Cruz,1,31
-3402,2021-12-04,70502,Pailon,Santa Cruz,2,20
-3403,2021-10-23,71104,San Julian,Santa Cruz,1,30
-3404,2021-10-23,71104,San Julian,Santa Cruz,2,27
-3405,2021-10-30,71104,San Julian,Santa Cruz,1,30
-3406,2021-10-30,71104,San Julian,Santa Cruz,2,28
-3407,2021-11-13,71104,San Julian,Santa Cruz,1,31
-3408,2021-11-13,71104,San Julian,Santa Cruz,2,29
-3409,2021-11-20,71104,San Julian,Santa Cruz,1,32
-3410,2021-11-20,71104,San Julian,Santa Cruz,2,29
-3411,2021-11-27,71104,San Julian,Santa Cruz,1,32
-3412,2021-11-27,71104,San Julian,Santa Cruz,2,29
-3413,2021-12-04,71104,San Julian,Santa Cruz,1,33
-3414,2021-12-04,71104,San Julian,Santa Cruz,2,29
-3415,2021-10-23,70501,San Jose De Chiquitos,Santa Cruz,1,31
-3416,2021-10-23,70501,San Jose De Chiquitos,Santa Cruz,2,25
-3417,2021-10-30,70501,San Jose De Chiquitos,Santa Cruz,1,32
-3418,2021-10-30,70501,San Jose De Chiquitos,Santa Cruz,2,25
-3419,2021-11-13,70501,San Jose De Chiquitos,Santa Cruz,1,32
-3420,2021-11-13,70501,San Jose De Chiquitos,Santa Cruz,2,26
-3421,2021-11-20,70501,San Jose De Chiquitos,Santa Cruz,1,33
-3422,2021-11-20,70501,San Jose De Chiquitos,Santa Cruz,2,26
-3423,2021-11-27,70501,San Jose De Chiquitos,Santa Cruz,1,33
-3424,2021-11-27,70501,San Jose De Chiquitos,Santa Cruz,2,26
-3425,2021-12-04,70501,San Jose De Chiquitos,Santa Cruz,1,33
-3426,2021-12-04,70501,San Jose De Chiquitos,Santa Cruz,2,28
-3427,2021-10-23,71503,El Puente(Stc),Santa Cruz,1,32
-3428,2021-10-23,71503,El Puente(Stc),Santa Cruz,2,28
-3429,2021-10-30,71503,El Puente(Stc),Santa Cruz,1,33
-3430,2021-10-30,71503,El Puente(Stc),Santa Cruz,2,29
-3431,2021-11-13,71503,El Puente(Stc),Santa Cruz,1,34
-3432,2021-11-13,71503,El Puente(Stc),Santa Cruz,2,29
-3433,2021-11-20,71503,El Puente(Stc),Santa Cruz,1,35
-3434,2021-11-20,71503,El Puente(Stc),Santa Cruz,2,29
-3435,2021-11-27,71503,El Puente(Stc),Santa Cruz,1,35
-3436,2021-11-27,71503,El Puente(Stc),Santa Cruz,2,29
-3437,2021-12-04,71503,El Puente(Stc),Santa Cruz,1,36
-3438,2021-12-04,71503,El Puente(Stc),Santa Cruz,2,31
-3439,2021-10-23,70104,La Guardia,Santa Cruz,1,35
-3440,2021-10-23,70104,La Guardia,Santa Cruz,2,29
-3441,2021-10-30,70104,La Guardia,Santa Cruz,1,36
-3442,2021-10-30,70104,La Guardia,Santa Cruz,2,31
-3443,2021-11-13,70104,La Guardia,Santa Cruz,1,37
-3444,2021-11-13,70104,La Guardia,Santa Cruz,2,32
-3445,2021-11-20,70104,La Guardia,Santa Cruz,1,37
-3446,2021-11-20,70104,La Guardia,Santa Cruz,2,32
-3447,2021-11-27,70104,La Guardia,Santa Cruz,1,37
-3448,2021-11-27,70104,La Guardia,Santa Cruz,2,32
-3449,2021-12-04,70104,La Guardia,Santa Cruz,1,38
-3450,2021-12-04,70104,La Guardia,Santa Cruz,2,33
-3451,2021-10-23,70602,Santa Rosa Del Sara,Santa Cruz,1,35
-3452,2021-10-23,70602,Santa Rosa Del Sara,Santa Cruz,2,33
-3453,2021-10-30,70602,Santa Rosa Del Sara,Santa Cruz,1,35
-3454,2021-10-30,70602,Santa Rosa Del Sara,Santa Cruz,2,33
-3455,2021-11-13,70602,Santa Rosa Del Sara,Santa Cruz,1,36
-3456,2021-11-13,70602,Santa Rosa Del Sara,Santa Cruz,2,34
-3457,2021-11-20,70602,Santa Rosa Del Sara,Santa Cruz,1,37
-3458,2021-11-20,70602,Santa Rosa Del Sara,Santa Cruz,2,34
-3459,2021-11-27,70602,Santa Rosa Del Sara,Santa Cruz,1,37
-3460,2021-11-27,70602,Santa Rosa Del Sara,Santa Cruz,2,34
-3461,2021-12-04,70602,Santa Rosa Del Sara,Santa Cruz,1,37
-3462,2021-12-04,70602,Santa Rosa Del Sara,Santa Cruz,2,35
-3463,2021-10-23,70702,Charagua,Santa Cruz,1,36
-3464,2021-10-23,70702,Charagua,Santa Cruz,2,33
-3465,2021-10-30,70702,Charagua,Santa Cruz,1,37
-3466,2021-10-30,70702,Charagua,Santa Cruz,2,34
-3467,2021-11-13,70702,Charagua,Santa Cruz,1,39
-3468,2021-11-13,70702,Charagua,Santa Cruz,2,34
-3469,2021-11-20,70702,Charagua,Santa Cruz,1,39
-3470,2021-11-20,70702,Charagua,Santa Cruz,2,34
-3471,2021-11-27,70702,Charagua,Santa Cruz,1,40
-3472,2021-11-27,70702,Charagua,Santa Cruz,2,34
-3473,2021-12-04,70702,Charagua,Santa Cruz,1,40
-3474,2021-12-04,70702,Charagua,Santa Cruz,2,35
-3475,2021-10-23,71501,Ascencion De Guarayos,Santa Cruz,1,37
-3476,2021-10-23,71501,Ascencion De Guarayos,Santa Cruz,2,31
-3477,2021-10-30,71501,Ascencion De Guarayos,Santa Cruz,1,38
-3478,2021-10-30,71501,Ascencion De Guarayos,Santa Cruz,2,32
-3479,2021-11-13,71501,Ascencion De Guarayos,Santa Cruz,1,39
-3480,2021-11-13,71501,Ascencion De Guarayos,Santa Cruz,2,32
-3481,2021-11-20,71501,Ascencion De Guarayos,Santa Cruz,1,40
-3482,2021-11-20,71501,Ascencion De Guarayos,Santa Cruz,2,32
-3483,2021-11-27,71501,Ascencion De Guarayos,Santa Cruz,1,41
-3484,2021-11-27,71501,Ascencion De Guarayos,Santa Cruz,2,32
-3485,2021-12-04,71501,Ascencion De Guarayos,Santa Cruz,1,41
-3486,2021-12-04,71501,Ascencion De Guarayos,Santa Cruz,2,33
-3487,2021-10-23,71106,Cuatro Cañadas,Santa Cruz,1,37
-3488,2021-10-23,71106,Cuatro Cañadas,Santa Cruz,2,34
-3489,2021-10-30,71106,Cuatro Cañadas,Santa Cruz,1,38
-3490,2021-10-30,71106,Cuatro Cañadas,Santa Cruz,2,34
-3491,2021-11-13,71106,Cuatro Cañadas,Santa Cruz,1,40
-3492,2021-11-13,71106,Cuatro Cañadas,Santa Cruz,2,36
-3493,2021-11-20,71106,Cuatro Cañadas,Santa Cruz,1,40
-3494,2021-11-20,71106,Cuatro Cañadas,Santa Cruz,2,36
-3495,2021-11-27,71106,Cuatro Cañadas,Santa Cruz,1,40
-3496,2021-11-27,71106,Cuatro Cañadas,Santa Cruz,2,36
-3497,2021-12-04,71106,Cuatro Cañadas,Santa Cruz,1,41
-3498,2021-12-04,71106,Cuatro Cañadas,Santa Cruz,2,37
-3499,2021-10-23,70201,Warnes,Santa Cruz,1,39
-3500,2021-10-23,70201,Warnes,Santa Cruz,2,35
-3501,2021-10-30,70201,Warnes,Santa Cruz,1,40
-3502,2021-10-30,70201,Warnes,Santa Cruz,2,36
-3503,2021-11-13,70201,Warnes,Santa Cruz,1,40
-3504,2021-11-13,70201,Warnes,Santa Cruz,2,37
-3505,2021-11-20,70201,Warnes,Santa Cruz,1,41
-3506,2021-11-20,70201,Warnes,Santa Cruz,2,37
-3507,2021-11-27,70201,Warnes,Santa Cruz,1,41
-3508,2021-11-27,70201,Warnes,Santa Cruz,2,37
-3509,2021-12-04,70201,Warnes,Santa Cruz,1,41
-3510,2021-12-04,70201,Warnes,Santa Cruz,2,38
-3511,2021-10-23,71302,Saipina,Santa Cruz,1,42
-3512,2021-10-23,71302,Saipina,Santa Cruz,2,40
-3513,2021-10-30,71302,Saipina,Santa Cruz,1,42
-3514,2021-10-30,71302,Saipina,Santa Cruz,2,41
-3515,2021-11-13,71302,Saipina,Santa Cruz,1,43
-3516,2021-11-13,71302,Saipina,Santa Cruz,2,41
-3517,2021-11-20,71302,Saipina,Santa Cruz,1,47
-3518,2021-11-20,71302,Saipina,Santa Cruz,2,41
-3519,2021-11-27,71302,Saipina,Santa Cruz,1,48
-3520,2021-11-27,71302,Saipina,Santa Cruz,2,41
-3521,2021-12-04,71302,Saipina,Santa Cruz,1,49
-3522,2021-12-04,71302,Saipina,Santa Cruz,2,42
-3523,2021-10-23,71004,Fernandez Alonso,Santa Cruz,1,43
-3524,2021-10-23,71004,Fernandez Alonso,Santa Cruz,2,35
-3525,2021-10-30,71004,Fernandez Alonso,Santa Cruz,1,44
-3526,2021-10-30,71004,Fernandez Alonso,Santa Cruz,2,36
-3527,2021-11-13,71004,Fernandez Alonso,Santa Cruz,1,46
-3528,2021-11-13,71004,Fernandez Alonso,Santa Cruz,2,37
-3529,2021-11-20,71004,Fernandez Alonso,Santa Cruz,1,46
-3530,2021-11-20,71004,Fernandez Alonso,Santa Cruz,2,37
-3531,2021-11-27,71004,Fernandez Alonso,Santa Cruz,1,47
-3532,2021-11-27,71004,Fernandez Alonso,Santa Cruz,2,37
-3533,2021-12-04,71004,Fernandez Alonso,Santa Cruz,1,47
-3534,2021-12-04,71004,Fernandez Alonso,Santa Cruz,2,41
-3535,2021-10-23,71502,Urubicha,Santa Cruz,1,44
-3536,2021-10-23,71502,Urubicha,Santa Cruz,2,34
-3537,2021-10-30,71502,Urubicha,Santa Cruz,1,45
-3538,2021-10-30,71502,Urubicha,Santa Cruz,2,34
-3539,2021-11-13,71502,Urubicha,Santa Cruz,1,50
-3540,2021-11-13,71502,Urubicha,Santa Cruz,2,36
-3541,2021-11-20,71502,Urubicha,Santa Cruz,1,52
-3542,2021-11-20,71502,Urubicha,Santa Cruz,2,36
-3543,2021-11-27,71502,Urubicha,Santa Cruz,1,52
-3544,2021-11-27,71502,Urubicha,Santa Cruz,2,36
-3545,2021-12-04,71502,Urubicha,Santa Cruz,1,53
-3546,2021-12-04,71502,Urubicha,Santa Cruz,2,40
-3547,2021-10-23,70402,San Carlos,Santa Cruz,1,47
-3548,2021-10-23,70402,San Carlos,Santa Cruz,2,44
-3549,2021-10-30,70402,San Carlos,Santa Cruz,1,47
-3550,2021-10-30,70402,San Carlos,Santa Cruz,2,44
-3551,2021-11-13,70402,San Carlos,Santa Cruz,1,48
-3552,2021-11-13,70402,San Carlos,Santa Cruz,2,45
-3553,2021-11-20,70402,San Carlos,Santa Cruz,1,49
-3554,2021-11-20,70402,San Carlos,Santa Cruz,2,45
-3555,2021-11-27,70402,San Carlos,Santa Cruz,1,49
-3556,2021-11-27,70402,San Carlos,Santa Cruz,2,46
-3557,2021-12-04,70402,San Carlos,Santa Cruz,1,50
-3558,2021-12-04,70402,San Carlos,Santa Cruz,2,46
-3559,2021-10-23,71005,San Pedro,Santa Cruz,1,47
-3560,2021-10-23,71005,San Pedro,Santa Cruz,2,38
-3561,2021-10-30,71005,San Pedro,Santa Cruz,1,48
-3562,2021-10-30,71005,San Pedro,Santa Cruz,2,40
-3563,2021-11-13,71005,San Pedro,Santa Cruz,1,49
-3564,2021-11-13,71005,San Pedro,Santa Cruz,2,42
-3565,2021-11-20,71005,San Pedro,Santa Cruz,1,49
-3566,2021-11-20,71005,San Pedro,Santa Cruz,2,42
-3567,2021-11-27,71005,San Pedro,Santa Cruz,1,49
-3568,2021-11-27,71005,San Pedro,Santa Cruz,2,43
-3569,2021-12-04,71005,San Pedro,Santa Cruz,1,49
-3570,2021-12-04,71005,San Pedro,Santa Cruz,2,44
-3571,2021-10-23,70902,Pampa Grande,Santa Cruz,1,51
-3572,2021-10-23,70902,Pampa Grande,Santa Cruz,2,41
-3573,2021-10-30,70902,Pampa Grande,Santa Cruz,1,51
-3574,2021-10-30,70902,Pampa Grande,Santa Cruz,2,42
-3575,2021-11-13,70902,Pampa Grande,Santa Cruz,1,53
-3576,2021-11-13,70902,Pampa Grande,Santa Cruz,2,43
-3577,2021-11-20,70902,Pampa Grande,Santa Cruz,1,53
-3578,2021-11-20,70902,Pampa Grande,Santa Cruz,2,43
-3579,2021-11-27,70902,Pampa Grande,Santa Cruz,1,54
-3580,2021-11-27,70902,Pampa Grande,Santa Cruz,2,45
-3581,2021-12-04,70902,Pampa Grande,Santa Cruz,1,55
-3582,2021-12-04,70902,Pampa Grande,Santa Cruz,2,46
-3583,2021-10-23,70703,Cabezas,Santa Cruz,1,54
-3584,2021-10-23,70703,Cabezas,Santa Cruz,2,51
-3585,2021-10-30,70703,Cabezas,Santa Cruz,1,55
-3586,2021-10-30,70703,Cabezas,Santa Cruz,2,51
-3587,2021-11-13,70703,Cabezas,Santa Cruz,1,56
-3588,2021-11-13,70703,Cabezas,Santa Cruz,2,52
-3589,2021-11-20,70703,Cabezas,Santa Cruz,1,57
-3590,2021-11-20,70703,Cabezas,Santa Cruz,2,52
-3591,2021-11-27,70703,Cabezas,Santa Cruz,1,57
-3592,2021-11-27,70703,Cabezas,Santa Cruz,2,53
-3593,2021-12-04,70703,Cabezas,Santa Cruz,1,57
-3594,2021-12-04,70703,Cabezas,Santa Cruz,2,53
-3595,2021-10-23,70404,San Juan De Yapacani,Santa Cruz,1,54
-3596,2021-10-23,70404,San Juan De Yapacani,Santa Cruz,2,51
-3597,2021-10-30,70404,San Juan De Yapacani,Santa Cruz,1,54
-3598,2021-10-30,70404,San Juan De Yapacani,Santa Cruz,2,51
-3599,2021-11-13,70404,San Juan De Yapacani,Santa Cruz,1,54
-3600,2021-11-13,70404,San Juan De Yapacani,Santa Cruz,2,52
-3601,2021-11-20,70404,San Juan De Yapacani,Santa Cruz,1,55
-3602,2021-11-20,70404,San Juan De Yapacani,Santa Cruz,2,52
-3603,2021-11-27,70404,San Juan De Yapacani,Santa Cruz,1,55
-3604,2021-11-27,70404,San Juan De Yapacani,Santa Cruz,2,52
-3605,2021-12-04,70404,San Juan De Yapacani,Santa Cruz,1,56
-3606,2021-12-04,70404,San Juan De Yapacani,Santa Cruz,2,52
-3607,2021-10-23,71105,San Antonio De Lomerio,Santa Cruz,1,55
-3608,2021-10-23,71105,San Antonio De Lomerio,Santa Cruz,2,51
-3609,2021-10-30,71105,San Antonio De Lomerio,Santa Cruz,1,55
-3610,2021-10-30,71105,San Antonio De Lomerio,Santa Cruz,2,52
-3611,2021-11-13,71105,San Antonio De Lomerio,Santa Cruz,1,57
-3612,2021-11-13,71105,San Antonio De Lomerio,Santa Cruz,2,52
-3613,2021-11-20,71105,San Antonio De Lomerio,Santa Cruz,1,57
-3614,2021-11-20,71105,San Antonio De Lomerio,Santa Cruz,2,52
-3615,2021-11-27,71105,San Antonio De Lomerio,Santa Cruz,1,58
-3616,2021-11-27,71105,San Antonio De Lomerio,Santa Cruz,2,53
-3617,2021-12-04,71105,San Antonio De Lomerio,Santa Cruz,1,59
-3618,2021-12-04,71105,San Antonio De Lomerio,Santa Cruz,2,53
-3619,2021-10-23,70903,Mairana,Santa Cruz,1,56
-3620,2021-10-23,70903,Mairana,Santa Cruz,2,53
-3621,2021-10-30,70903,Mairana,Santa Cruz,1,57
-3622,2021-10-30,70903,Mairana,Santa Cruz,2,53
-3623,2021-11-13,70903,Mairana,Santa Cruz,1,58
-3624,2021-11-13,70903,Mairana,Santa Cruz,2,54
-3625,2021-11-20,70903,Mairana,Santa Cruz,1,59
-3626,2021-11-20,70903,Mairana,Santa Cruz,2,54
-3627,2021-11-27,70903,Mairana,Santa Cruz,1,59
-3628,2021-11-27,70903,Mairana,Santa Cruz,2,54
-3629,2021-12-04,70903,Mairana,Santa Cruz,1,59
-3630,2021-12-04,70903,Mairana,Santa Cruz,2,55
-3631,2021-10-23,71003,Mineros,Santa Cruz,1,58
-3632,2021-10-23,71003,Mineros,Santa Cruz,2,47
-3633,2021-10-30,71003,Mineros,Santa Cruz,1,59
-3634,2021-10-30,71003,Mineros,Santa Cruz,2,49
-3635,2021-11-13,71003,Mineros,Santa Cruz,1,61
-3636,2021-11-13,71003,Mineros,Santa Cruz,2,51
-3637,2021-11-20,71003,Mineros,Santa Cruz,1,62
-3638,2021-11-20,71003,Mineros,Santa Cruz,2,51
-3639,2021-11-27,71003,Mineros,Santa Cruz,1,62
-3640,2021-11-27,71003,Mineros,Santa Cruz,2,53
-3641,2021-12-04,71003,Mineros,Santa Cruz,1,64
-3642,2021-12-04,71003,Mineros,Santa Cruz,2,54
-3643,2021-10-23,70904,Quirusillas,Santa Cruz,1,58
-3644,2021-10-23,70904,Quirusillas,Santa Cruz,2,53
-3645,2021-10-30,70904,Quirusillas,Santa Cruz,1,59
-3646,2021-10-30,70904,Quirusillas,Santa Cruz,2,54
-3647,2021-11-13,70904,Quirusillas,Santa Cruz,1,59
-3648,2021-11-13,70904,Quirusillas,Santa Cruz,2,55
-3649,2021-11-20,70904,Quirusillas,Santa Cruz,1,60
-3650,2021-11-20,70904,Quirusillas,Santa Cruz,2,55
-3651,2021-11-27,70904,Quirusillas,Santa Cruz,1,60
-3652,2021-11-27,70904,Quirusillas,Santa Cruz,2,56
-3653,2021-12-04,70904,Quirusillas,Santa Cruz,1,60
-3654,2021-12-04,70904,Quirusillas,Santa Cruz,2,57
-3655,2021-10-23,70705,Gutierrez,Santa Cruz,1,61
-3656,2021-10-23,70705,Gutierrez,Santa Cruz,2,53
-3657,2021-10-30,70705,Gutierrez,Santa Cruz,1,61
-3658,2021-10-30,70705,Gutierrez,Santa Cruz,2,54
-3659,2021-11-13,70705,Gutierrez,Santa Cruz,1,64
-3660,2021-11-13,70705,Gutierrez,Santa Cruz,2,56
-3661,2021-11-20,70705,Gutierrez,Santa Cruz,1,65
-3662,2021-11-20,70705,Gutierrez,Santa Cruz,2,56
-3663,2021-11-27,70705,Gutierrez,Santa Cruz,1,65
-3664,2021-11-27,70705,Gutierrez,Santa Cruz,2,57
-3665,2021-12-04,70705,Gutierrez,Santa Cruz,1,65
-3666,2021-12-04,70705,Gutierrez,Santa Cruz,2,57
-3667,2021-10-23,71301,Comarapa,Santa Cruz,1,63
-3668,2021-10-23,71301,Comarapa,Santa Cruz,2,59
-3669,2021-10-30,71301,Comarapa,Santa Cruz,1,64
-3670,2021-10-30,71301,Comarapa,Santa Cruz,2,60
-3671,2021-11-13,71301,Comarapa,Santa Cruz,1,64
-3672,2021-11-13,71301,Comarapa,Santa Cruz,2,60
-3673,2021-11-20,71301,Comarapa,Santa Cruz,1,65
-3674,2021-11-20,71301,Comarapa,Santa Cruz,2,60
-3675,2021-11-27,71301,Comarapa,Santa Cruz,1,65
-3676,2021-11-27,71301,Comarapa,Santa Cruz,2,61
-3677,2021-12-04,71301,Comarapa,Santa Cruz,1,66
-3678,2021-12-04,71301,Comarapa,Santa Cruz,2,62
-3679,2021-10-23,70804,Postrer Valle,Santa Cruz,1,63
-3680,2021-10-23,70804,Postrer Valle,Santa Cruz,2,51
-3681,2021-10-30,70804,Postrer Valle,Santa Cruz,1,64
-3682,2021-10-30,70804,Postrer Valle,Santa Cruz,2,52
-3683,2021-11-13,70804,Postrer Valle,Santa Cruz,1,65
-3684,2021-11-13,70804,Postrer Valle,Santa Cruz,2,56
-3685,2021-11-20,70804,Postrer Valle,Santa Cruz,1,66
-3686,2021-11-20,70804,Postrer Valle,Santa Cruz,2,56
-3687,2021-11-27,70804,Postrer Valle,Santa Cruz,1,66
-3688,2021-11-27,70804,Postrer Valle,Santa Cruz,2,57
-3689,2021-12-04,70804,Postrer Valle,Santa Cruz,1,67
-3690,2021-12-04,70804,Postrer Valle,Santa Cruz,2,60
-3691,2021-10-23,71102,San Javier(Stc),Santa Cruz,1,64
-3692,2021-10-23,71102,San Javier(Stc),Santa Cruz,2,58
-3693,2021-10-30,71102,San Javier(Stc),Santa Cruz,1,65
-3694,2021-10-30,71102,San Javier(Stc),Santa Cruz,2,59
-3695,2021-11-13,71102,San Javier(Stc),Santa Cruz,1,66
-3696,2021-11-13,71102,San Javier(Stc),Santa Cruz,2,60
-3697,2021-11-20,71102,San Javier(Stc),Santa Cruz,1,67
-3698,2021-11-20,71102,San Javier(Stc),Santa Cruz,2,60
-3699,2021-11-27,71102,San Javier(Stc),Santa Cruz,1,67
-3700,2021-11-27,71102,San Javier(Stc),Santa Cruz,2,63
-3701,2021-12-04,71102,San Javier(Stc),Santa Cruz,1,68
-3702,2021-12-04,71102,San Javier(Stc),Santa Cruz,2,63
-3703,2021-10-23,70802,Trigal,Santa Cruz,1,66
-3704,2021-10-23,70802,Trigal,Santa Cruz,2,54
-3705,2021-10-30,70802,Trigal,Santa Cruz,1,66
-3706,2021-10-30,70802,Trigal,Santa Cruz,2,55
-3707,2021-11-13,70802,Trigal,Santa Cruz,1,67
-3708,2021-11-13,70802,Trigal,Santa Cruz,2,59
-3709,2021-11-20,70802,Trigal,Santa Cruz,1,68
-3710,2021-11-20,70802,Trigal,Santa Cruz,2,59
-3711,2021-11-27,70802,Trigal,Santa Cruz,1,68
-3712,2021-11-27,70802,Trigal,Santa Cruz,2,60
-3713,2021-12-04,70802,Trigal,Santa Cruz,1,69
-3714,2021-12-04,70802,Trigal,Santa Cruz,2,61
-3715,2021-10-23,70401,Buena Vista,Santa Cruz,1,67
-3716,2021-10-23,70401,Buena Vista,Santa Cruz,2,61
-3717,2021-10-30,70401,Buena Vista,Santa Cruz,1,68
-3718,2021-10-30,70401,Buena Vista,Santa Cruz,2,61
-3719,2021-11-13,70401,Buena Vista,Santa Cruz,1,70
-3720,2021-11-13,70401,Buena Vista,Santa Cruz,2,64
-3721,2021-11-20,70401,Buena Vista,Santa Cruz,1,71
-3722,2021-11-20,70401,Buena Vista,Santa Cruz,2,64
-3723,2021-11-27,70401,Buena Vista,Santa Cruz,1,71
-3724,2021-11-27,70401,Buena Vista,Santa Cruz,2,65
-3725,2021-12-04,70401,Buena Vista,Santa Cruz,1,72
-3726,2021-12-04,70401,Buena Vista,Santa Cruz,2,66
-3727,2021-10-23,70105,El Torno,Santa Cruz,1,67
-3728,2021-10-23,70105,El Torno,Santa Cruz,2,61
-3729,2021-10-30,70105,El Torno,Santa Cruz,1,68
-3730,2021-10-30,70105,El Torno,Santa Cruz,2,62
-3731,2021-11-13,70105,El Torno,Santa Cruz,1,69
-3732,2021-11-13,70105,El Torno,Santa Cruz,2,63
-3733,2021-11-20,70105,El Torno,Santa Cruz,1,70
-3734,2021-11-20,70105,El Torno,Santa Cruz,2,63
-3735,2021-11-27,70105,El Torno,Santa Cruz,1,70
-3736,2021-11-27,70105,El Torno,Santa Cruz,2,64
-3737,2021-12-04,70105,El Torno,Santa Cruz,1,71
-3738,2021-12-04,70105,El Torno,Santa Cruz,2,65
-3739,2021-10-23,71001,Montero,Santa Cruz,1,67
-3740,2021-10-23,71001,Montero,Santa Cruz,2,51
-3741,2021-10-30,71001,Montero,Santa Cruz,1,68
-3742,2021-10-30,71001,Montero,Santa Cruz,2,53
-3743,2021-11-13,71001,Montero,Santa Cruz,1,69
-3744,2021-11-13,71001,Montero,Santa Cruz,2,55
-3745,2021-11-20,71001,Montero,Santa Cruz,1,70
-3746,2021-11-20,71001,Montero,Santa Cruz,2,55
-3747,2021-11-27,71001,Montero,Santa Cruz,1,70
-3748,2021-11-27,71001,Montero,Santa Cruz,2,58
-3749,2021-12-04,71001,Montero,Santa Cruz,1,72
-3750,2021-12-04,71001,Montero,Santa Cruz,2,59
-3751,2021-10-23,70704,Cuevo,Santa Cruz,1,69
-3752,2021-10-23,70704,Cuevo,Santa Cruz,2,66
-3753,2021-10-30,70704,Cuevo,Santa Cruz,1,70
-3754,2021-10-30,70704,Cuevo,Santa Cruz,2,67
-3755,2021-11-13,70704,Cuevo,Santa Cruz,1,70
-3756,2021-11-13,70704,Cuevo,Santa Cruz,2,67
-3757,2021-11-20,70704,Cuevo,Santa Cruz,1,70
-3758,2021-11-20,70704,Cuevo,Santa Cruz,2,67
-3759,2021-11-27,70704,Cuevo,Santa Cruz,1,70
-3760,2021-11-27,70704,Cuevo,Santa Cruz,2,68
-3761,2021-12-04,70704,Cuevo,Santa Cruz,1,71
-3762,2021-12-04,70704,Cuevo,Santa Cruz,2,68
-3763,2021-10-23,70303,San Rafael,Santa Cruz,1,69
-3764,2021-10-23,70303,San Rafael,Santa Cruz,2,59
-3765,2021-10-30,70303,San Rafael,Santa Cruz,1,69
-3766,2021-10-30,70303,San Rafael,Santa Cruz,2,60
-3767,2021-11-13,70303,San Rafael,Santa Cruz,1,70
-3768,2021-11-13,70303,San Rafael,Santa Cruz,2,60
-3769,2021-11-20,70303,San Rafael,Santa Cruz,1,70
-3770,2021-11-20,70303,San Rafael,Santa Cruz,2,60
-3771,2021-11-27,70303,San Rafael,Santa Cruz,1,70
-3772,2021-11-27,70303,San Rafael,Santa Cruz,2,61
-3773,2021-12-04,70303,San Rafael,Santa Cruz,1,71
-3774,2021-12-04,70303,San Rafael,Santa Cruz,2,61
-3775,2021-10-23,71403,Carmen Rivero Torrez,Santa Cruz,1,70
-3776,2021-10-23,71403,Carmen Rivero Torrez,Santa Cruz,2,67
-3777,2021-10-30,71403,Carmen Rivero Torrez,Santa Cruz,1,70
-3778,2021-10-30,71403,Carmen Rivero Torrez,Santa Cruz,2,67
-3779,2021-11-13,71403,Carmen Rivero Torrez,Santa Cruz,1,72
-3780,2021-11-13,71403,Carmen Rivero Torrez,Santa Cruz,2,69
-3781,2021-11-20,71403,Carmen Rivero Torrez,Santa Cruz,1,72
-3782,2021-11-20,71403,Carmen Rivero Torrez,Santa Cruz,2,69
-3783,2021-11-27,71403,Carmen Rivero Torrez,Santa Cruz,1,72
-3784,2021-11-27,71403,Carmen Rivero Torrez,Santa Cruz,2,69
-3785,2021-12-04,71403,Carmen Rivero Torrez,Santa Cruz,1,72
-3786,2021-12-04,71403,Carmen Rivero Torrez,Santa Cruz,2,69
-3787,2021-10-23,71401,Puerto Suarez,Santa Cruz,1,71
-3788,2021-10-23,71401,Puerto Suarez,Santa Cruz,2,69
-3789,2021-10-30,71401,Puerto Suarez,Santa Cruz,1,72
-3790,2021-10-30,71401,Puerto Suarez,Santa Cruz,2,70
-3791,2021-11-13,71401,Puerto Suarez,Santa Cruz,1,72
-3792,2021-11-13,71401,Puerto Suarez,Santa Cruz,2,70
-3793,2021-11-20,71401,Puerto Suarez,Santa Cruz,1,73
-3794,2021-11-20,71401,Puerto Suarez,Santa Cruz,2,70
-3795,2021-11-27,71401,Puerto Suarez,Santa Cruz,1,73
-3796,2021-11-27,71401,Puerto Suarez,Santa Cruz,2,71
-3797,2021-12-04,71401,Puerto Suarez,Santa Cruz,1,73
-3798,2021-12-04,71401,Puerto Suarez,Santa Cruz,2,71
-3799,2021-10-23,71101,Concepcion,Santa Cruz,1,72
-3800,2021-10-23,71101,Concepcion,Santa Cruz,2,65
-3801,2021-10-30,71101,Concepcion,Santa Cruz,1,73
-3802,2021-10-30,71101,Concepcion,Santa Cruz,2,66
-3803,2021-11-13,71101,Concepcion,Santa Cruz,1,74
-3804,2021-11-13,71101,Concepcion,Santa Cruz,2,66
-3805,2021-11-20,71101,Concepcion,Santa Cruz,1,74
-3806,2021-11-20,71101,Concepcion,Santa Cruz,2,66
-3807,2021-11-27,71101,Concepcion,Santa Cruz,1,74
-3808,2021-11-27,71101,Concepcion,Santa Cruz,2,68
-3809,2021-12-04,71101,Concepcion,Santa Cruz,1,79
-3810,2021-12-04,71101,Concepcion,Santa Cruz,2,69
-3811,2021-10-23,70707,Boyuibe,Santa Cruz,1,73
-3812,2021-10-23,70707,Boyuibe,Santa Cruz,2,71
-3813,2021-10-30,70707,Boyuibe,Santa Cruz,1,73
-3814,2021-10-30,70707,Boyuibe,Santa Cruz,2,71
-3815,2021-11-13,70707,Boyuibe,Santa Cruz,1,74
-3816,2021-11-13,70707,Boyuibe,Santa Cruz,2,72
-3817,2021-11-20,70707,Boyuibe,Santa Cruz,1,73
-3818,2021-11-20,70707,Boyuibe,Santa Cruz,2,72
-3819,2021-11-27,70707,Boyuibe,Santa Cruz,1,73
-3820,2021-11-27,70707,Boyuibe,Santa Cruz,2,73
-3821,2021-12-04,70707,Boyuibe,Santa Cruz,1,74
-3822,2021-12-04,70707,Boyuibe,Santa Cruz,2,72
-3823,2021-10-23,70103,Porongo,Santa Cruz,1,73
-3824,2021-10-23,70103,Porongo,Santa Cruz,2,65
-3825,2021-10-30,70103,Porongo,Santa Cruz,1,74
-3826,2021-10-30,70103,Porongo,Santa Cruz,2,67
-3827,2021-11-13,70103,Porongo,Santa Cruz,1,76
-3828,2021-11-13,70103,Porongo,Santa Cruz,2,69
-3829,2021-11-20,70103,Porongo,Santa Cruz,1,76
-3830,2021-11-20,70103,Porongo,Santa Cruz,2,69
-3831,2021-11-27,70103,Porongo,Santa Cruz,1,76
-3832,2021-11-27,70103,Porongo,Santa Cruz,2,70
-3833,2021-12-04,70103,Porongo,Santa Cruz,1,77
-3834,2021-12-04,70103,Porongo,Santa Cruz,2,70
-3835,2021-10-23,70301,San Ignacio De Velasco,Santa Cruz,1,74
-3836,2021-10-23,70301,San Ignacio De Velasco,Santa Cruz,2,66
-3837,2021-10-30,70301,San Ignacio De Velasco,Santa Cruz,1,75
-3838,2021-10-30,70301,San Ignacio De Velasco,Santa Cruz,2,67
-3839,2021-11-13,70301,San Ignacio De Velasco,Santa Cruz,1,76
-3840,2021-11-13,70301,San Ignacio De Velasco,Santa Cruz,2,68
-3841,2021-11-20,70301,San Ignacio De Velasco,Santa Cruz,1,76
-3842,2021-11-20,70301,San Ignacio De Velasco,Santa Cruz,2,68
-3843,2021-11-27,70301,San Ignacio De Velasco,Santa Cruz,1,76
-3844,2021-11-27,70301,San Ignacio De Velasco,Santa Cruz,2,69
-3845,2021-12-04,70301,San Ignacio De Velasco,Santa Cruz,1,77
-3846,2021-12-04,70301,San Ignacio De Velasco,Santa Cruz,2,69
-3847,2021-10-23,71103,San Ramon,Santa Cruz,1,74
-3848,2021-10-23,71103,San Ramon,Santa Cruz,2,68
-3849,2021-10-30,71103,San Ramon,Santa Cruz,1,75
-3850,2021-10-30,71103,San Ramon,Santa Cruz,2,69
-3851,2021-11-13,71103,San Ramon,Santa Cruz,1,76
-3852,2021-11-13,71103,San Ramon,Santa Cruz,2,70
-3853,2021-11-20,71103,San Ramon,Santa Cruz,1,77
-3854,2021-11-20,71103,San Ramon,Santa Cruz,2,70
-3855,2021-11-27,71103,San Ramon,Santa Cruz,1,77
-3856,2021-11-27,71103,San Ramon,Santa Cruz,2,71
-3857,2021-12-04,71103,San Ramon,Santa Cruz,1,77
-3858,2021-12-04,71103,San Ramon,Santa Cruz,2,71
-3859,2021-10-23,70901,Samaipata,Santa Cruz,1,75
-3860,2021-10-23,70901,Samaipata,Santa Cruz,2,74
-3861,2021-10-30,70901,Samaipata,Santa Cruz,1,75
-3862,2021-10-30,70901,Samaipata,Santa Cruz,2,74
-3863,2021-11-13,70901,Samaipata,Santa Cruz,1,76
-3864,2021-11-13,70901,Samaipata,Santa Cruz,2,74
-3865,2021-11-20,70901,Samaipata,Santa Cruz,1,76
-3866,2021-11-20,70901,Samaipata,Santa Cruz,2,74
-3867,2021-11-27,70901,Samaipata,Santa Cruz,1,76
-3868,2021-11-27,70901,Samaipata,Santa Cruz,2,75
-3869,2021-12-04,70901,Samaipata,Santa Cruz,1,77
-3870,2021-12-04,70901,Samaipata,Santa Cruz,2,75
-3871,2021-10-23,70302,San Miguel De Velasco,Santa Cruz,1,75
-3872,2021-10-23,70302,San Miguel De Velasco,Santa Cruz,2,70
-3873,2021-10-30,70302,San Miguel De Velasco,Santa Cruz,1,76
-3874,2021-10-30,70302,San Miguel De Velasco,Santa Cruz,2,71
-3875,2021-11-13,70302,San Miguel De Velasco,Santa Cruz,1,77
-3876,2021-11-13,70302,San Miguel De Velasco,Santa Cruz,2,72
-3877,2021-11-20,70302,San Miguel De Velasco,Santa Cruz,1,79
-3878,2021-11-20,70302,San Miguel De Velasco,Santa Cruz,2,72
-3879,2021-11-27,70302,San Miguel De Velasco,Santa Cruz,1,79
-3880,2021-11-27,70302,San Miguel De Velasco,Santa Cruz,2,74
-3881,2021-12-04,70302,San Miguel De Velasco,Santa Cruz,1,80
-3882,2021-12-04,70302,San Miguel De Velasco,Santa Cruz,2,75
-3883,2021-10-23,70202,Okinawa,Santa Cruz,1,77
-3884,2021-10-23,70202,Okinawa,Santa Cruz,2,69
-3885,2021-10-30,70202,Okinawa,Santa Cruz,1,77
-3886,2021-10-30,70202,Okinawa,Santa Cruz,2,70
-3887,2021-11-13,70202,Okinawa,Santa Cruz,1,79
-3888,2021-11-13,70202,Okinawa,Santa Cruz,2,73
-3889,2021-11-20,70202,Okinawa,Santa Cruz,1,79
-3890,2021-11-20,70202,Okinawa,Santa Cruz,2,73
-3891,2021-11-27,70202,Okinawa,Santa Cruz,1,79
-3892,2021-11-27,70202,Okinawa,Santa Cruz,2,74
-3893,2021-12-04,70202,Okinawa,Santa Cruz,1,80
-3894,2021-12-04,70202,Okinawa,Santa Cruz,2,75
-3895,2021-10-23,70101,Santa Cruz de la Sierra,Santa Cruz,1,78
-3896,2021-10-23,70101,Santa Cruz de la Sierra,Santa Cruz,2,62
-3897,2021-10-30,70101,Santa Cruz de la Sierra,Santa Cruz,1,78
-3898,2021-10-30,70101,Santa Cruz de la Sierra,Santa Cruz,2,65
-3899,2021-11-13,70101,Santa Cruz de la Sierra,Santa Cruz,1,79
-3900,2021-11-13,70101,Santa Cruz de la Sierra,Santa Cruz,2,66
-3901,2021-11-20,70101,Santa Cruz de la Sierra,Santa Cruz,1,80
-3902,2021-11-20,70101,Santa Cruz de la Sierra,Santa Cruz,2,66
-3903,2021-11-27,70101,Santa Cruz de la Sierra,Santa Cruz,1,80
-3904,2021-11-27,70101,Santa Cruz de la Sierra,Santa Cruz,2,69
-3905,2021-12-04,70101,Santa Cruz de la Sierra,Santa Cruz,1,82
-3906,2021-12-04,70101,Santa Cruz de la Sierra,Santa Cruz,2,70
-3907,2021-10-23,70805,Pucara,Santa Cruz,1,79
-3908,2021-10-23,70805,Pucara,Santa Cruz,2,70
-3909,2021-10-30,70805,Pucara,Santa Cruz,1,81
-3910,2021-10-30,70805,Pucara,Santa Cruz,2,73
-3911,2021-11-13,70805,Pucara,Santa Cruz,1,83
-3912,2021-11-13,70805,Pucara,Santa Cruz,2,75
-3913,2021-11-20,70805,Pucara,Santa Cruz,1,83
-3914,2021-11-20,70805,Pucara,Santa Cruz,2,75
-3915,2021-11-27,70805,Pucara,Santa Cruz,1,83
-3916,2021-11-27,70805,Pucara,Santa Cruz,2,78
-3917,2021-12-04,70805,Pucara,Santa Cruz,1,84
-3918,2021-12-04,70805,Pucara,Santa Cruz,2,79
-3919,2021-10-23,70601,Portachuelo,Santa Cruz,1,80
-3920,2021-10-23,70601,Portachuelo,Santa Cruz,2,76
-3921,2021-10-30,70601,Portachuelo,Santa Cruz,1,80
-3922,2021-10-30,70601,Portachuelo,Santa Cruz,2,77
-3923,2021-11-13,70601,Portachuelo,Santa Cruz,1,81
-3924,2021-11-13,70601,Portachuelo,Santa Cruz,2,78
-3925,2021-11-20,70601,Portachuelo,Santa Cruz,1,81
-3926,2021-11-20,70601,Portachuelo,Santa Cruz,2,78
-3927,2021-11-27,70601,Portachuelo,Santa Cruz,1,82
-3928,2021-11-27,70601,Portachuelo,Santa Cruz,2,78
-3929,2021-12-04,70601,Portachuelo,Santa Cruz,1,83
-3930,2021-12-04,70601,Portachuelo,Santa Cruz,2,78
-3931,2021-10-23,71402,Puerto Quijarro,Santa Cruz,1,84
-3932,2021-10-23,71402,Puerto Quijarro,Santa Cruz,2,76
-3933,2021-10-30,71402,Puerto Quijarro,Santa Cruz,1,85
-3934,2021-10-30,71402,Puerto Quijarro,Santa Cruz,2,76
-3935,2021-11-13,71402,Puerto Quijarro,Santa Cruz,1,85
-3936,2021-11-13,71402,Puerto Quijarro,Santa Cruz,2,77
-3937,2021-11-20,71402,Puerto Quijarro,Santa Cruz,1,86
-3938,2021-11-20,71402,Puerto Quijarro,Santa Cruz,2,77
-3939,2021-11-27,71402,Puerto Quijarro,Santa Cruz,1,86
-3940,2021-11-27,71402,Puerto Quijarro,Santa Cruz,2,78
-3941,2021-12-04,71402,Puerto Quijarro,Santa Cruz,1,86
-3942,2021-12-04,71402,Puerto Quijarro,Santa Cruz,2,78
-3943,2021-10-23,70803,Moro Moro,Santa Cruz,1,85
-3944,2021-10-23,70803,Moro Moro,Santa Cruz,2,70
-3945,2021-10-30,70803,Moro Moro,Santa Cruz,1,86
-3946,2021-10-30,70803,Moro Moro,Santa Cruz,2,72
-3947,2021-11-13,70803,Moro Moro,Santa Cruz,1,87
-3948,2021-11-13,70803,Moro Moro,Santa Cruz,2,75
-3949,2021-11-20,70803,Moro Moro,Santa Cruz,1,90
-3950,2021-11-20,70803,Moro Moro,Santa Cruz,2,75
-3951,2021-11-27,70803,Moro Moro,Santa Cruz,1,90
-3952,2021-11-27,70803,Moro Moro,Santa Cruz,2,79
-3953,2021-12-04,70803,Moro Moro,Santa Cruz,1,90
-3954,2021-12-04,70803,Moro Moro,Santa Cruz,2,80
-3955,2021-10-23,71201,San Matias,Santa Cruz,1,85
-3956,2021-10-23,71201,San Matias,Santa Cruz,2,84
-3957,2021-10-30,71201,San Matias,Santa Cruz,1,85
-3958,2021-10-30,71201,San Matias,Santa Cruz,2,84
-3959,2021-11-13,71201,San Matias,Santa Cruz,1,85
-3960,2021-11-13,71201,San Matias,Santa Cruz,2,83
-3961,2021-11-20,71201,San Matias,Santa Cruz,1,87
-3962,2021-11-20,71201,San Matias,Santa Cruz,2,83
-3963,2021-11-27,71201,San Matias,Santa Cruz,1,87
-3964,2021-11-27,71201,San Matias,Santa Cruz,2,84
-3965,2021-12-04,71201,San Matias,Santa Cruz,1,87
-3966,2021-12-04,71201,San Matias,Santa Cruz,2,84
-3967,2021-10-23,70801,Vallegrande,Santa Cruz,1,85
-3968,2021-10-23,70801,Vallegrande,Santa Cruz,2,74
-3969,2021-10-30,70801,Vallegrande,Santa Cruz,1,86
-3970,2021-10-30,70801,Vallegrande,Santa Cruz,2,77
-3971,2021-11-13,70801,Vallegrande,Santa Cruz,1,88
-3972,2021-11-13,70801,Vallegrande,Santa Cruz,2,80
-3973,2021-11-20,70801,Vallegrande,Santa Cruz,1,90
-3974,2021-11-20,70801,Vallegrande,Santa Cruz,2,80
-3975,2021-11-27,70801,Vallegrande,Santa Cruz,1,91
-3976,2021-11-27,70801,Vallegrande,Santa Cruz,2,83
-3977,2021-12-04,70801,Vallegrande,Santa Cruz,1,92
-3978,2021-12-04,70801,Vallegrande,Santa Cruz,2,85
-3979,2021-10-23,71002,General Saavedra,Santa Cruz,1,86
-3980,2021-10-23,71002,General Saavedra,Santa Cruz,2,74
-3981,2021-10-30,71002,General Saavedra,Santa Cruz,1,87
-3982,2021-10-30,71002,General Saavedra,Santa Cruz,2,76
-3983,2021-11-13,71002,General Saavedra,Santa Cruz,1,89
-3984,2021-11-13,71002,General Saavedra,Santa Cruz,2,78
-3985,2021-11-20,71002,General Saavedra,Santa Cruz,1,90
-3986,2021-11-20,71002,General Saavedra,Santa Cruz,2,78
-3987,2021-11-27,71002,General Saavedra,Santa Cruz,1,90
-3988,2021-11-27,71002,General Saavedra,Santa Cruz,2,80
-3989,2021-12-04,71002,General Saavedra,Santa Cruz,1,92
-3990,2021-12-04,71002,General Saavedra,Santa Cruz,2,82
-3991,2021-10-23,70701,Lagunillas,Santa Cruz,1,87
-3992,2021-10-23,70701,Lagunillas,Santa Cruz,2,78
-3993,2021-10-30,70701,Lagunillas,Santa Cruz,1,87
-3994,2021-10-30,70701,Lagunillas,Santa Cruz,2,79
-3995,2021-11-13,70701,Lagunillas,Santa Cruz,1,89
-3996,2021-11-13,70701,Lagunillas,Santa Cruz,2,84
-3997,2021-11-20,70701,Lagunillas,Santa Cruz,1,89
-3998,2021-11-20,70701,Lagunillas,Santa Cruz,2,84
-3999,2021-11-27,70701,Lagunillas,Santa Cruz,1,90
-4000,2021-11-27,70701,Lagunillas,Santa Cruz,2,85
-4001,2021-12-04,70701,Lagunillas,Santa Cruz,1,90
-4002,2021-12-04,70701,Lagunillas,Santa Cruz,2,86
-4003,2021-10-23,70503,Robore,Santa Cruz,1,87
-4004,2021-10-23,70503,Robore,Santa Cruz,2,64
-4005,2021-10-30,70503,Robore,Santa Cruz,1,88
-4006,2021-10-30,70503,Robore,Santa Cruz,2,66
-4007,2021-11-13,70503,Robore,Santa Cruz,1,90
-4008,2021-11-13,70503,Robore,Santa Cruz,2,73
-4009,2021-11-20,70503,Robore,Santa Cruz,1,90
-4010,2021-11-20,70503,Robore,Santa Cruz,2,73
-4011,2021-11-27,70503,Robore,Santa Cruz,1,92
-4012,2021-11-27,70503,Robore,Santa Cruz,2,77
-4013,2021-12-04,70503,Robore,Santa Cruz,1,93
-4014,2021-12-04,70503,Robore,Santa Cruz,2,79
-4015,2021-10-23,70603,Colpa Belgica,Santa Cruz,1,93
-4016,2021-10-23,70603,Colpa Belgica,Santa Cruz,2,90
-4017,2021-10-30,70603,Colpa Belgica,Santa Cruz,1,94
-4018,2021-10-30,70603,Colpa Belgica,Santa Cruz,2,90
-4019,2021-11-13,70603,Colpa Belgica,Santa Cruz,1,95
-4020,2021-11-13,70603,Colpa Belgica,Santa Cruz,2,91
-4021,2021-11-20,70603,Colpa Belgica,Santa Cruz,1,96
-4022,2021-11-20,70603,Colpa Belgica,Santa Cruz,2,91
-4023,2021-11-27,70603,Colpa Belgica,Santa Cruz,1,96
-4024,2021-11-27,70603,Colpa Belgica,Santa Cruz,2,92
-4025,2021-12-04,70603,Colpa Belgica,Santa Cruz,1,97
-4026,2021-12-04,70603,Colpa Belgica,Santa Cruz,2,92
-4027,2021-10-23,70102,Cotoca,Santa Cruz,1,93
-4028,2021-10-23,70102,Cotoca,Santa Cruz,2,70
-4029,2021-10-30,70102,Cotoca,Santa Cruz,1,94
-4030,2021-10-30,70102,Cotoca,Santa Cruz,2,73
-4031,2021-11-13,70102,Cotoca,Santa Cruz,1,95
-4032,2021-11-13,70102,Cotoca,Santa Cruz,2,74
-4033,2021-11-20,70102,Cotoca,Santa Cruz,1,96
-4034,2021-11-20,70102,Cotoca,Santa Cruz,2,74
-4035,2021-11-27,70102,Cotoca,Santa Cruz,1,97
-4036,2021-11-27,70102,Cotoca,Santa Cruz,2,77
-4037,2021-12-04,70102,Cotoca,Santa Cruz,1,98
-4038,2021-12-04,70102,Cotoca,Santa Cruz,2,79
-4039,2021-10-23,70706,Camiri,Santa Cruz,1,95
-4040,2021-10-23,70706,Camiri,Santa Cruz,2,91
-4041,2021-10-30,70706,Camiri,Santa Cruz,1,96
-4042,2021-10-30,70706,Camiri,Santa Cruz,2,91
-4043,2021-11-13,70706,Camiri,Santa Cruz,1,97
-4044,2021-11-13,70706,Camiri,Santa Cruz,2,92
-4045,2021-11-20,70706,Camiri,Santa Cruz,1,97
-4046,2021-11-20,70706,Camiri,Santa Cruz,2,92
-4047,2021-11-27,70706,Camiri,Santa Cruz,1,98
-4048,2021-11-27,70706,Camiri,Santa Cruz,2,92
-4049,2021-12-04,70706,Camiri,Santa Cruz,1,99
-4050,2021-12-04,70706,Camiri,Santa Cruz,2,93
+3367,2021-12-04,80202,Guayaramerin,Beni,1,78
+3368,2021-12-04,80202,Guayaramerin,Beni,2,61
+3369,2021-10-23,80802,Baures,Beni,1,74
+3370,2021-10-23,80802,Baures,Beni,2,70
+3371,2021-10-30,80802,Baures,Beni,1,74
+3372,2021-10-30,80802,Baures,Beni,2,70
+3373,2021-11-13,80802,Baures,Beni,1,77
+3374,2021-11-13,80802,Baures,Beni,2,73
+3375,2021-11-20,80802,Baures,Beni,1,80
+3376,2021-11-20,80802,Baures,Beni,2,73
+3377,2021-11-27,80802,Baures,Beni,1,80
+3378,2021-11-27,80802,Baures,Beni,2,73
+3379,2021-12-04,80802,Baures,Beni,1,82
+3380,2021-12-04,80802,Baures,Beni,2,79
+3381,2021-10-23,70403,Yapacani,Santa Cruz,1,23
+3382,2021-10-23,70403,Yapacani,Santa Cruz,2,21
+3383,2021-10-30,70403,Yapacani,Santa Cruz,1,23
+3384,2021-10-30,70403,Yapacani,Santa Cruz,2,21
+3385,2021-11-13,70403,Yapacani,Santa Cruz,1,24
+3386,2021-11-13,70403,Yapacani,Santa Cruz,2,21
+3387,2021-11-20,70403,Yapacani,Santa Cruz,1,24
+3388,2021-11-20,70403,Yapacani,Santa Cruz,2,21
+3389,2021-11-27,70403,Yapacani,Santa Cruz,1,25
+3390,2021-11-27,70403,Yapacani,Santa Cruz,2,21
+3391,2021-12-04,70403,Yapacani,Santa Cruz,1,25
+3392,2021-12-04,70403,Yapacani,Santa Cruz,2,22
+3393,2021-10-23,70502,Pailon,Santa Cruz,1,29
+3394,2021-10-23,70502,Pailon,Santa Cruz,2,15
+3395,2021-10-30,70502,Pailon,Santa Cruz,1,29
+3396,2021-10-30,70502,Pailon,Santa Cruz,2,16
+3397,2021-11-13,70502,Pailon,Santa Cruz,1,29
+3398,2021-11-13,70502,Pailon,Santa Cruz,2,18
+3399,2021-11-20,70502,Pailon,Santa Cruz,1,30
+3400,2021-11-20,70502,Pailon,Santa Cruz,2,18
+3401,2021-11-27,70502,Pailon,Santa Cruz,1,30
+3402,2021-11-27,70502,Pailon,Santa Cruz,2,18
+3403,2021-12-04,70502,Pailon,Santa Cruz,1,31
+3404,2021-12-04,70502,Pailon,Santa Cruz,2,20
+3405,2021-10-23,71104,San Julian,Santa Cruz,1,30
+3406,2021-10-23,71104,San Julian,Santa Cruz,2,27
+3407,2021-10-30,71104,San Julian,Santa Cruz,1,30
+3408,2021-10-30,71104,San Julian,Santa Cruz,2,28
+3409,2021-11-13,71104,San Julian,Santa Cruz,1,31
+3410,2021-11-13,71104,San Julian,Santa Cruz,2,29
+3411,2021-11-20,71104,San Julian,Santa Cruz,1,32
+3412,2021-11-20,71104,San Julian,Santa Cruz,2,29
+3413,2021-11-27,71104,San Julian,Santa Cruz,1,32
+3414,2021-11-27,71104,San Julian,Santa Cruz,2,29
+3415,2021-12-04,71104,San Julian,Santa Cruz,1,33
+3416,2021-12-04,71104,San Julian,Santa Cruz,2,29
+3417,2021-10-23,70501,San Jose De Chiquitos,Santa Cruz,1,31
+3418,2021-10-23,70501,San Jose De Chiquitos,Santa Cruz,2,25
+3419,2021-10-30,70501,San Jose De Chiquitos,Santa Cruz,1,32
+3420,2021-10-30,70501,San Jose De Chiquitos,Santa Cruz,2,25
+3421,2021-11-13,70501,San Jose De Chiquitos,Santa Cruz,1,32
+3422,2021-11-13,70501,San Jose De Chiquitos,Santa Cruz,2,26
+3423,2021-11-20,70501,San Jose De Chiquitos,Santa Cruz,1,33
+3424,2021-11-20,70501,San Jose De Chiquitos,Santa Cruz,2,26
+3425,2021-11-27,70501,San Jose De Chiquitos,Santa Cruz,1,33
+3426,2021-11-27,70501,San Jose De Chiquitos,Santa Cruz,2,26
+3427,2021-12-04,70501,San Jose De Chiquitos,Santa Cruz,1,33
+3428,2021-12-04,70501,San Jose De Chiquitos,Santa Cruz,2,28
+3429,2021-10-23,71503,El Puente(Stc),Santa Cruz,1,32
+3430,2021-10-23,71503,El Puente(Stc),Santa Cruz,2,28
+3431,2021-10-30,71503,El Puente(Stc),Santa Cruz,1,33
+3432,2021-10-30,71503,El Puente(Stc),Santa Cruz,2,29
+3433,2021-11-13,71503,El Puente(Stc),Santa Cruz,1,34
+3434,2021-11-13,71503,El Puente(Stc),Santa Cruz,2,29
+3435,2021-11-20,71503,El Puente(Stc),Santa Cruz,1,35
+3436,2021-11-20,71503,El Puente(Stc),Santa Cruz,2,29
+3437,2021-11-27,71503,El Puente(Stc),Santa Cruz,1,35
+3438,2021-11-27,71503,El Puente(Stc),Santa Cruz,2,29
+3439,2021-12-04,71503,El Puente(Stc),Santa Cruz,1,36
+3440,2021-12-04,71503,El Puente(Stc),Santa Cruz,2,31
+3441,2021-10-23,70104,La Guardia,Santa Cruz,1,35
+3442,2021-10-23,70104,La Guardia,Santa Cruz,2,29
+3443,2021-10-30,70104,La Guardia,Santa Cruz,1,36
+3444,2021-10-30,70104,La Guardia,Santa Cruz,2,31
+3445,2021-11-13,70104,La Guardia,Santa Cruz,1,37
+3446,2021-11-13,70104,La Guardia,Santa Cruz,2,32
+3447,2021-11-20,70104,La Guardia,Santa Cruz,1,37
+3448,2021-11-20,70104,La Guardia,Santa Cruz,2,32
+3449,2021-11-27,70104,La Guardia,Santa Cruz,1,37
+3450,2021-11-27,70104,La Guardia,Santa Cruz,2,32
+3451,2021-12-04,70104,La Guardia,Santa Cruz,1,38
+3452,2021-12-04,70104,La Guardia,Santa Cruz,2,33
+3453,2021-10-23,70602,Santa Rosa Del Sara,Santa Cruz,1,35
+3454,2021-10-23,70602,Santa Rosa Del Sara,Santa Cruz,2,33
+3455,2021-10-30,70602,Santa Rosa Del Sara,Santa Cruz,1,35
+3456,2021-10-30,70602,Santa Rosa Del Sara,Santa Cruz,2,33
+3457,2021-11-13,70602,Santa Rosa Del Sara,Santa Cruz,1,36
+3458,2021-11-13,70602,Santa Rosa Del Sara,Santa Cruz,2,34
+3459,2021-11-20,70602,Santa Rosa Del Sara,Santa Cruz,1,37
+3460,2021-11-20,70602,Santa Rosa Del Sara,Santa Cruz,2,34
+3461,2021-11-27,70602,Santa Rosa Del Sara,Santa Cruz,1,37
+3462,2021-11-27,70602,Santa Rosa Del Sara,Santa Cruz,2,34
+3463,2021-12-04,70602,Santa Rosa Del Sara,Santa Cruz,1,37
+3464,2021-12-04,70602,Santa Rosa Del Sara,Santa Cruz,2,35
+3465,2021-10-23,70702,Charagua,Santa Cruz,1,36
+3466,2021-10-23,70702,Charagua,Santa Cruz,2,33
+3467,2021-10-30,70702,Charagua,Santa Cruz,1,37
+3468,2021-10-30,70702,Charagua,Santa Cruz,2,34
+3469,2021-11-13,70702,Charagua,Santa Cruz,1,39
+3470,2021-11-13,70702,Charagua,Santa Cruz,2,34
+3471,2021-11-20,70702,Charagua,Santa Cruz,1,39
+3472,2021-11-20,70702,Charagua,Santa Cruz,2,34
+3473,2021-11-27,70702,Charagua,Santa Cruz,1,40
+3474,2021-11-27,70702,Charagua,Santa Cruz,2,34
+3475,2021-12-04,70702,Charagua,Santa Cruz,1,40
+3476,2021-12-04,70702,Charagua,Santa Cruz,2,35
+3477,2021-10-23,71501,Ascencion De Guarayos,Santa Cruz,1,37
+3478,2021-10-23,71501,Ascencion De Guarayos,Santa Cruz,2,31
+3479,2021-10-30,71501,Ascencion De Guarayos,Santa Cruz,1,38
+3480,2021-10-30,71501,Ascencion De Guarayos,Santa Cruz,2,32
+3481,2021-11-13,71501,Ascencion De Guarayos,Santa Cruz,1,39
+3482,2021-11-13,71501,Ascencion De Guarayos,Santa Cruz,2,32
+3483,2021-11-20,71501,Ascencion De Guarayos,Santa Cruz,1,40
+3484,2021-11-20,71501,Ascencion De Guarayos,Santa Cruz,2,32
+3485,2021-11-27,71501,Ascencion De Guarayos,Santa Cruz,1,41
+3486,2021-11-27,71501,Ascencion De Guarayos,Santa Cruz,2,32
+3487,2021-12-04,71501,Ascencion De Guarayos,Santa Cruz,1,41
+3488,2021-12-04,71501,Ascencion De Guarayos,Santa Cruz,2,33
+3489,2021-10-23,71106,Cuatro Cañadas,Santa Cruz,1,37
+3490,2021-10-23,71106,Cuatro Cañadas,Santa Cruz,2,34
+3491,2021-10-30,71106,Cuatro Cañadas,Santa Cruz,1,38
+3492,2021-10-30,71106,Cuatro Cañadas,Santa Cruz,2,34
+3493,2021-11-13,71106,Cuatro Cañadas,Santa Cruz,1,40
+3494,2021-11-13,71106,Cuatro Cañadas,Santa Cruz,2,36
+3495,2021-11-20,71106,Cuatro Cañadas,Santa Cruz,1,40
+3496,2021-11-20,71106,Cuatro Cañadas,Santa Cruz,2,36
+3497,2021-11-27,71106,Cuatro Cañadas,Santa Cruz,1,40
+3498,2021-11-27,71106,Cuatro Cañadas,Santa Cruz,2,36
+3499,2021-12-04,71106,Cuatro Cañadas,Santa Cruz,1,41
+3500,2021-12-04,71106,Cuatro Cañadas,Santa Cruz,2,37
+3501,2021-10-23,70201,Warnes,Santa Cruz,1,39
+3502,2021-10-23,70201,Warnes,Santa Cruz,2,35
+3503,2021-10-30,70201,Warnes,Santa Cruz,1,40
+3504,2021-10-30,70201,Warnes,Santa Cruz,2,36
+3505,2021-11-13,70201,Warnes,Santa Cruz,1,40
+3506,2021-11-13,70201,Warnes,Santa Cruz,2,37
+3507,2021-11-20,70201,Warnes,Santa Cruz,1,41
+3508,2021-11-20,70201,Warnes,Santa Cruz,2,37
+3509,2021-11-27,70201,Warnes,Santa Cruz,1,41
+3510,2021-11-27,70201,Warnes,Santa Cruz,2,37
+3511,2021-12-04,70201,Warnes,Santa Cruz,1,41
+3512,2021-12-04,70201,Warnes,Santa Cruz,2,38
+3513,2021-10-23,71302,Saipina,Santa Cruz,1,42
+3514,2021-10-23,71302,Saipina,Santa Cruz,2,40
+3515,2021-10-30,71302,Saipina,Santa Cruz,1,42
+3516,2021-10-30,71302,Saipina,Santa Cruz,2,41
+3517,2021-11-13,71302,Saipina,Santa Cruz,1,43
+3518,2021-11-13,71302,Saipina,Santa Cruz,2,41
+3519,2021-11-20,71302,Saipina,Santa Cruz,1,47
+3520,2021-11-20,71302,Saipina,Santa Cruz,2,41
+3521,2021-11-27,71302,Saipina,Santa Cruz,1,48
+3522,2021-11-27,71302,Saipina,Santa Cruz,2,41
+3523,2021-12-04,71302,Saipina,Santa Cruz,1,49
+3524,2021-12-04,71302,Saipina,Santa Cruz,2,42
+3525,2021-10-23,71004,Fernandez Alonso,Santa Cruz,1,43
+3526,2021-10-23,71004,Fernandez Alonso,Santa Cruz,2,35
+3527,2021-10-30,71004,Fernandez Alonso,Santa Cruz,1,44
+3528,2021-10-30,71004,Fernandez Alonso,Santa Cruz,2,36
+3529,2021-11-13,71004,Fernandez Alonso,Santa Cruz,1,46
+3530,2021-11-13,71004,Fernandez Alonso,Santa Cruz,2,37
+3531,2021-11-20,71004,Fernandez Alonso,Santa Cruz,1,46
+3532,2021-11-20,71004,Fernandez Alonso,Santa Cruz,2,37
+3533,2021-11-27,71004,Fernandez Alonso,Santa Cruz,1,47
+3534,2021-11-27,71004,Fernandez Alonso,Santa Cruz,2,37
+3535,2021-12-04,71004,Fernandez Alonso,Santa Cruz,1,47
+3536,2021-12-04,71004,Fernandez Alonso,Santa Cruz,2,41
+3537,2021-10-23,71502,Urubicha,Santa Cruz,1,44
+3538,2021-10-23,71502,Urubicha,Santa Cruz,2,34
+3539,2021-10-30,71502,Urubicha,Santa Cruz,1,45
+3540,2021-10-30,71502,Urubicha,Santa Cruz,2,34
+3541,2021-11-13,71502,Urubicha,Santa Cruz,1,50
+3542,2021-11-13,71502,Urubicha,Santa Cruz,2,36
+3543,2021-11-20,71502,Urubicha,Santa Cruz,1,52
+3544,2021-11-20,71502,Urubicha,Santa Cruz,2,36
+3545,2021-11-27,71502,Urubicha,Santa Cruz,1,52
+3546,2021-11-27,71502,Urubicha,Santa Cruz,2,36
+3547,2021-12-04,71502,Urubicha,Santa Cruz,1,53
+3548,2021-12-04,71502,Urubicha,Santa Cruz,2,40
+3549,2021-10-23,70402,San Carlos,Santa Cruz,1,47
+3550,2021-10-23,70402,San Carlos,Santa Cruz,2,44
+3551,2021-10-30,70402,San Carlos,Santa Cruz,1,47
+3552,2021-10-30,70402,San Carlos,Santa Cruz,2,44
+3553,2021-11-13,70402,San Carlos,Santa Cruz,1,48
+3554,2021-11-13,70402,San Carlos,Santa Cruz,2,45
+3555,2021-11-20,70402,San Carlos,Santa Cruz,1,49
+3556,2021-11-20,70402,San Carlos,Santa Cruz,2,45
+3557,2021-11-27,70402,San Carlos,Santa Cruz,1,49
+3558,2021-11-27,70402,San Carlos,Santa Cruz,2,46
+3559,2021-12-04,70402,San Carlos,Santa Cruz,1,50
+3560,2021-12-04,70402,San Carlos,Santa Cruz,2,46
+3561,2021-10-23,71005,San Pedro,Santa Cruz,1,47
+3562,2021-10-23,71005,San Pedro,Santa Cruz,2,38
+3563,2021-10-30,71005,San Pedro,Santa Cruz,1,48
+3564,2021-10-30,71005,San Pedro,Santa Cruz,2,40
+3565,2021-11-13,71005,San Pedro,Santa Cruz,1,49
+3566,2021-11-13,71005,San Pedro,Santa Cruz,2,42
+3567,2021-11-20,71005,San Pedro,Santa Cruz,1,49
+3568,2021-11-20,71005,San Pedro,Santa Cruz,2,42
+3569,2021-11-27,71005,San Pedro,Santa Cruz,1,49
+3570,2021-11-27,71005,San Pedro,Santa Cruz,2,43
+3571,2021-12-04,71005,San Pedro,Santa Cruz,1,49
+3572,2021-12-04,71005,San Pedro,Santa Cruz,2,44
+3573,2021-10-23,70902,Pampa Grande,Santa Cruz,1,51
+3574,2021-10-23,70902,Pampa Grande,Santa Cruz,2,41
+3575,2021-10-30,70902,Pampa Grande,Santa Cruz,1,51
+3576,2021-10-30,70902,Pampa Grande,Santa Cruz,2,42
+3577,2021-11-13,70902,Pampa Grande,Santa Cruz,1,53
+3578,2021-11-13,70902,Pampa Grande,Santa Cruz,2,43
+3579,2021-11-20,70902,Pampa Grande,Santa Cruz,1,53
+3580,2021-11-20,70902,Pampa Grande,Santa Cruz,2,43
+3581,2021-11-27,70902,Pampa Grande,Santa Cruz,1,54
+3582,2021-11-27,70902,Pampa Grande,Santa Cruz,2,45
+3583,2021-12-04,70902,Pampa Grande,Santa Cruz,1,55
+3584,2021-12-04,70902,Pampa Grande,Santa Cruz,2,46
+3585,2021-10-23,70703,Cabezas,Santa Cruz,1,54
+3586,2021-10-23,70703,Cabezas,Santa Cruz,2,51
+3587,2021-10-30,70703,Cabezas,Santa Cruz,1,55
+3588,2021-10-30,70703,Cabezas,Santa Cruz,2,51
+3589,2021-11-13,70703,Cabezas,Santa Cruz,1,56
+3590,2021-11-13,70703,Cabezas,Santa Cruz,2,52
+3591,2021-11-20,70703,Cabezas,Santa Cruz,1,57
+3592,2021-11-20,70703,Cabezas,Santa Cruz,2,52
+3593,2021-11-27,70703,Cabezas,Santa Cruz,1,57
+3594,2021-11-27,70703,Cabezas,Santa Cruz,2,53
+3595,2021-12-04,70703,Cabezas,Santa Cruz,1,57
+3596,2021-12-04,70703,Cabezas,Santa Cruz,2,53
+3597,2021-10-23,70404,San Juan De Yapacani,Santa Cruz,1,54
+3598,2021-10-23,70404,San Juan De Yapacani,Santa Cruz,2,51
+3599,2021-10-30,70404,San Juan De Yapacani,Santa Cruz,1,54
+3600,2021-10-30,70404,San Juan De Yapacani,Santa Cruz,2,51
+3601,2021-11-13,70404,San Juan De Yapacani,Santa Cruz,1,54
+3602,2021-11-13,70404,San Juan De Yapacani,Santa Cruz,2,52
+3603,2021-11-20,70404,San Juan De Yapacani,Santa Cruz,1,55
+3604,2021-11-20,70404,San Juan De Yapacani,Santa Cruz,2,52
+3605,2021-11-27,70404,San Juan De Yapacani,Santa Cruz,1,55
+3606,2021-11-27,70404,San Juan De Yapacani,Santa Cruz,2,52
+3607,2021-12-04,70404,San Juan De Yapacani,Santa Cruz,1,56
+3608,2021-12-04,70404,San Juan De Yapacani,Santa Cruz,2,52
+3609,2021-10-23,71105,San Antonio De Lomerio,Santa Cruz,1,55
+3610,2021-10-23,71105,San Antonio De Lomerio,Santa Cruz,2,51
+3611,2021-10-30,71105,San Antonio De Lomerio,Santa Cruz,1,55
+3612,2021-10-30,71105,San Antonio De Lomerio,Santa Cruz,2,52
+3613,2021-11-13,71105,San Antonio De Lomerio,Santa Cruz,1,57
+3614,2021-11-13,71105,San Antonio De Lomerio,Santa Cruz,2,52
+3615,2021-11-20,71105,San Antonio De Lomerio,Santa Cruz,1,57
+3616,2021-11-20,71105,San Antonio De Lomerio,Santa Cruz,2,52
+3617,2021-11-27,71105,San Antonio De Lomerio,Santa Cruz,1,58
+3618,2021-11-27,71105,San Antonio De Lomerio,Santa Cruz,2,53
+3619,2021-12-04,71105,San Antonio De Lomerio,Santa Cruz,1,59
+3620,2021-12-04,71105,San Antonio De Lomerio,Santa Cruz,2,53
+3621,2021-10-23,70903,Mairana,Santa Cruz,1,56
+3622,2021-10-23,70903,Mairana,Santa Cruz,2,53
+3623,2021-10-30,70903,Mairana,Santa Cruz,1,57
+3624,2021-10-30,70903,Mairana,Santa Cruz,2,53
+3625,2021-11-13,70903,Mairana,Santa Cruz,1,58
+3626,2021-11-13,70903,Mairana,Santa Cruz,2,54
+3627,2021-11-20,70903,Mairana,Santa Cruz,1,59
+3628,2021-11-20,70903,Mairana,Santa Cruz,2,54
+3629,2021-11-27,70903,Mairana,Santa Cruz,1,59
+3630,2021-11-27,70903,Mairana,Santa Cruz,2,54
+3631,2021-12-04,70903,Mairana,Santa Cruz,1,59
+3632,2021-12-04,70903,Mairana,Santa Cruz,2,55
+3633,2021-10-23,71003,Mineros,Santa Cruz,1,58
+3634,2021-10-23,71003,Mineros,Santa Cruz,2,47
+3635,2021-10-30,71003,Mineros,Santa Cruz,1,59
+3636,2021-10-30,71003,Mineros,Santa Cruz,2,49
+3637,2021-11-13,71003,Mineros,Santa Cruz,1,61
+3638,2021-11-13,71003,Mineros,Santa Cruz,2,51
+3639,2021-11-20,71003,Mineros,Santa Cruz,1,62
+3640,2021-11-20,71003,Mineros,Santa Cruz,2,51
+3641,2021-11-27,71003,Mineros,Santa Cruz,1,62
+3642,2021-11-27,71003,Mineros,Santa Cruz,2,53
+3643,2021-12-04,71003,Mineros,Santa Cruz,1,64
+3644,2021-12-04,71003,Mineros,Santa Cruz,2,54
+3645,2021-10-23,70904,Quirusillas,Santa Cruz,1,58
+3646,2021-10-23,70904,Quirusillas,Santa Cruz,2,53
+3647,2021-10-30,70904,Quirusillas,Santa Cruz,1,59
+3648,2021-10-30,70904,Quirusillas,Santa Cruz,2,54
+3649,2021-11-13,70904,Quirusillas,Santa Cruz,1,59
+3650,2021-11-13,70904,Quirusillas,Santa Cruz,2,55
+3651,2021-11-20,70904,Quirusillas,Santa Cruz,1,60
+3652,2021-11-20,70904,Quirusillas,Santa Cruz,2,55
+3653,2021-11-27,70904,Quirusillas,Santa Cruz,1,60
+3654,2021-11-27,70904,Quirusillas,Santa Cruz,2,56
+3655,2021-12-04,70904,Quirusillas,Santa Cruz,1,60
+3656,2021-12-04,70904,Quirusillas,Santa Cruz,2,57
+3657,2021-10-23,70705,Gutierrez,Santa Cruz,1,61
+3658,2021-10-23,70705,Gutierrez,Santa Cruz,2,53
+3659,2021-10-30,70705,Gutierrez,Santa Cruz,1,61
+3660,2021-10-30,70705,Gutierrez,Santa Cruz,2,54
+3661,2021-11-13,70705,Gutierrez,Santa Cruz,1,64
+3662,2021-11-13,70705,Gutierrez,Santa Cruz,2,56
+3663,2021-11-20,70705,Gutierrez,Santa Cruz,1,65
+3664,2021-11-20,70705,Gutierrez,Santa Cruz,2,56
+3665,2021-11-27,70705,Gutierrez,Santa Cruz,1,65
+3666,2021-11-27,70705,Gutierrez,Santa Cruz,2,57
+3667,2021-12-04,70705,Gutierrez,Santa Cruz,1,65
+3668,2021-12-04,70705,Gutierrez,Santa Cruz,2,57
+3669,2021-10-23,71301,Comarapa,Santa Cruz,1,63
+3670,2021-10-23,71301,Comarapa,Santa Cruz,2,59
+3671,2021-10-30,71301,Comarapa,Santa Cruz,1,64
+3672,2021-10-30,71301,Comarapa,Santa Cruz,2,60
+3673,2021-11-13,71301,Comarapa,Santa Cruz,1,64
+3674,2021-11-13,71301,Comarapa,Santa Cruz,2,60
+3675,2021-11-20,71301,Comarapa,Santa Cruz,1,65
+3676,2021-11-20,71301,Comarapa,Santa Cruz,2,60
+3677,2021-11-27,71301,Comarapa,Santa Cruz,1,65
+3678,2021-11-27,71301,Comarapa,Santa Cruz,2,61
+3679,2021-12-04,71301,Comarapa,Santa Cruz,1,66
+3680,2021-12-04,71301,Comarapa,Santa Cruz,2,62
+3681,2021-10-23,70804,Postrer Valle,Santa Cruz,1,63
+3682,2021-10-23,70804,Postrer Valle,Santa Cruz,2,51
+3683,2021-10-30,70804,Postrer Valle,Santa Cruz,1,64
+3684,2021-10-30,70804,Postrer Valle,Santa Cruz,2,52
+3685,2021-11-13,70804,Postrer Valle,Santa Cruz,1,65
+3686,2021-11-13,70804,Postrer Valle,Santa Cruz,2,56
+3687,2021-11-20,70804,Postrer Valle,Santa Cruz,1,66
+3688,2021-11-20,70804,Postrer Valle,Santa Cruz,2,56
+3689,2021-11-27,70804,Postrer Valle,Santa Cruz,1,66
+3690,2021-11-27,70804,Postrer Valle,Santa Cruz,2,57
+3691,2021-12-04,70804,Postrer Valle,Santa Cruz,1,67
+3692,2021-12-04,70804,Postrer Valle,Santa Cruz,2,60
+3693,2021-10-23,71102,San Javier(Stc),Santa Cruz,1,64
+3694,2021-10-23,71102,San Javier(Stc),Santa Cruz,2,58
+3695,2021-10-30,71102,San Javier(Stc),Santa Cruz,1,65
+3696,2021-10-30,71102,San Javier(Stc),Santa Cruz,2,59
+3697,2021-11-13,71102,San Javier(Stc),Santa Cruz,1,66
+3698,2021-11-13,71102,San Javier(Stc),Santa Cruz,2,60
+3699,2021-11-20,71102,San Javier(Stc),Santa Cruz,1,67
+3700,2021-11-20,71102,San Javier(Stc),Santa Cruz,2,60
+3701,2021-11-27,71102,San Javier(Stc),Santa Cruz,1,67
+3702,2021-11-27,71102,San Javier(Stc),Santa Cruz,2,63
+3703,2021-12-04,71102,San Javier(Stc),Santa Cruz,1,68
+3704,2021-12-04,71102,San Javier(Stc),Santa Cruz,2,63
+3705,2021-10-23,70802,Trigal,Santa Cruz,1,66
+3706,2021-10-23,70802,Trigal,Santa Cruz,2,54
+3707,2021-10-30,70802,Trigal,Santa Cruz,1,66
+3708,2021-10-30,70802,Trigal,Santa Cruz,2,55
+3709,2021-11-13,70802,Trigal,Santa Cruz,1,67
+3710,2021-11-13,70802,Trigal,Santa Cruz,2,59
+3711,2021-11-20,70802,Trigal,Santa Cruz,1,68
+3712,2021-11-20,70802,Trigal,Santa Cruz,2,59
+3713,2021-11-27,70802,Trigal,Santa Cruz,1,68
+3714,2021-11-27,70802,Trigal,Santa Cruz,2,60
+3715,2021-12-04,70802,Trigal,Santa Cruz,1,69
+3716,2021-12-04,70802,Trigal,Santa Cruz,2,61
+3717,2021-10-23,70401,Buena Vista,Santa Cruz,1,67
+3718,2021-10-23,70401,Buena Vista,Santa Cruz,2,61
+3719,2021-10-30,70401,Buena Vista,Santa Cruz,1,68
+3720,2021-10-30,70401,Buena Vista,Santa Cruz,2,61
+3721,2021-11-13,70401,Buena Vista,Santa Cruz,1,70
+3722,2021-11-13,70401,Buena Vista,Santa Cruz,2,64
+3723,2021-11-20,70401,Buena Vista,Santa Cruz,1,71
+3724,2021-11-20,70401,Buena Vista,Santa Cruz,2,64
+3725,2021-11-27,70401,Buena Vista,Santa Cruz,1,71
+3726,2021-11-27,70401,Buena Vista,Santa Cruz,2,65
+3727,2021-12-04,70401,Buena Vista,Santa Cruz,1,72
+3728,2021-12-04,70401,Buena Vista,Santa Cruz,2,66
+3729,2021-10-23,70105,El Torno,Santa Cruz,1,67
+3730,2021-10-23,70105,El Torno,Santa Cruz,2,61
+3731,2021-10-30,70105,El Torno,Santa Cruz,1,68
+3732,2021-10-30,70105,El Torno,Santa Cruz,2,62
+3733,2021-11-13,70105,El Torno,Santa Cruz,1,69
+3734,2021-11-13,70105,El Torno,Santa Cruz,2,63
+3735,2021-11-20,70105,El Torno,Santa Cruz,1,70
+3736,2021-11-20,70105,El Torno,Santa Cruz,2,63
+3737,2021-11-27,70105,El Torno,Santa Cruz,1,70
+3738,2021-11-27,70105,El Torno,Santa Cruz,2,64
+3739,2021-12-04,70105,El Torno,Santa Cruz,1,71
+3740,2021-12-04,70105,El Torno,Santa Cruz,2,65
+3741,2021-10-23,71001,Montero,Santa Cruz,1,67
+3742,2021-10-23,71001,Montero,Santa Cruz,2,51
+3743,2021-10-30,71001,Montero,Santa Cruz,1,68
+3744,2021-10-30,71001,Montero,Santa Cruz,2,53
+3745,2021-11-13,71001,Montero,Santa Cruz,1,69
+3746,2021-11-13,71001,Montero,Santa Cruz,2,55
+3747,2021-11-20,71001,Montero,Santa Cruz,1,70
+3748,2021-11-20,71001,Montero,Santa Cruz,2,55
+3749,2021-11-27,71001,Montero,Santa Cruz,1,70
+3750,2021-11-27,71001,Montero,Santa Cruz,2,58
+3751,2021-12-04,71001,Montero,Santa Cruz,1,72
+3752,2021-12-04,71001,Montero,Santa Cruz,2,59
+3753,2021-10-23,70704,Cuevo,Santa Cruz,1,69
+3754,2021-10-23,70704,Cuevo,Santa Cruz,2,66
+3755,2021-10-30,70704,Cuevo,Santa Cruz,1,70
+3756,2021-10-30,70704,Cuevo,Santa Cruz,2,67
+3757,2021-11-13,70704,Cuevo,Santa Cruz,1,70
+3758,2021-11-13,70704,Cuevo,Santa Cruz,2,67
+3759,2021-11-20,70704,Cuevo,Santa Cruz,1,70
+3760,2021-11-20,70704,Cuevo,Santa Cruz,2,67
+3761,2021-11-27,70704,Cuevo,Santa Cruz,1,70
+3762,2021-11-27,70704,Cuevo,Santa Cruz,2,68
+3763,2021-12-04,70704,Cuevo,Santa Cruz,1,71
+3764,2021-12-04,70704,Cuevo,Santa Cruz,2,68
+3765,2021-10-23,70303,San Rafael,Santa Cruz,1,69
+3766,2021-10-23,70303,San Rafael,Santa Cruz,2,59
+3767,2021-10-30,70303,San Rafael,Santa Cruz,1,69
+3768,2021-10-30,70303,San Rafael,Santa Cruz,2,60
+3769,2021-11-13,70303,San Rafael,Santa Cruz,1,70
+3770,2021-11-13,70303,San Rafael,Santa Cruz,2,60
+3771,2021-11-20,70303,San Rafael,Santa Cruz,1,70
+3772,2021-11-20,70303,San Rafael,Santa Cruz,2,60
+3773,2021-11-27,70303,San Rafael,Santa Cruz,1,70
+3774,2021-11-27,70303,San Rafael,Santa Cruz,2,61
+3775,2021-12-04,70303,San Rafael,Santa Cruz,1,71
+3776,2021-12-04,70303,San Rafael,Santa Cruz,2,61
+3777,2021-10-23,71403,Carmen Rivero Torrez,Santa Cruz,1,70
+3778,2021-10-23,71403,Carmen Rivero Torrez,Santa Cruz,2,67
+3779,2021-10-30,71403,Carmen Rivero Torrez,Santa Cruz,1,70
+3780,2021-10-30,71403,Carmen Rivero Torrez,Santa Cruz,2,67
+3781,2021-11-13,71403,Carmen Rivero Torrez,Santa Cruz,1,72
+3782,2021-11-13,71403,Carmen Rivero Torrez,Santa Cruz,2,69
+3783,2021-11-20,71403,Carmen Rivero Torrez,Santa Cruz,1,72
+3784,2021-11-20,71403,Carmen Rivero Torrez,Santa Cruz,2,69
+3785,2021-11-27,71403,Carmen Rivero Torrez,Santa Cruz,1,72
+3786,2021-11-27,71403,Carmen Rivero Torrez,Santa Cruz,2,69
+3787,2021-12-04,71403,Carmen Rivero Torrez,Santa Cruz,1,72
+3788,2021-12-04,71403,Carmen Rivero Torrez,Santa Cruz,2,69
+3789,2021-10-23,71401,Puerto Suarez,Santa Cruz,1,71
+3790,2021-10-23,71401,Puerto Suarez,Santa Cruz,2,69
+3791,2021-10-30,71401,Puerto Suarez,Santa Cruz,1,72
+3792,2021-10-30,71401,Puerto Suarez,Santa Cruz,2,70
+3793,2021-11-13,71401,Puerto Suarez,Santa Cruz,1,72
+3794,2021-11-13,71401,Puerto Suarez,Santa Cruz,2,70
+3795,2021-11-20,71401,Puerto Suarez,Santa Cruz,1,73
+3796,2021-11-20,71401,Puerto Suarez,Santa Cruz,2,70
+3797,2021-11-27,71401,Puerto Suarez,Santa Cruz,1,73
+3798,2021-11-27,71401,Puerto Suarez,Santa Cruz,2,71
+3799,2021-12-04,71401,Puerto Suarez,Santa Cruz,1,73
+3800,2021-12-04,71401,Puerto Suarez,Santa Cruz,2,71
+3801,2021-10-23,71101,Concepcion,Santa Cruz,1,72
+3802,2021-10-23,71101,Concepcion,Santa Cruz,2,65
+3803,2021-10-30,71101,Concepcion,Santa Cruz,1,73
+3804,2021-10-30,71101,Concepcion,Santa Cruz,2,66
+3805,2021-11-13,71101,Concepcion,Santa Cruz,1,74
+3806,2021-11-13,71101,Concepcion,Santa Cruz,2,66
+3807,2021-11-20,71101,Concepcion,Santa Cruz,1,74
+3808,2021-11-20,71101,Concepcion,Santa Cruz,2,66
+3809,2021-11-27,71101,Concepcion,Santa Cruz,1,74
+3810,2021-11-27,71101,Concepcion,Santa Cruz,2,68
+3811,2021-12-04,71101,Concepcion,Santa Cruz,1,79
+3812,2021-12-04,71101,Concepcion,Santa Cruz,2,69
+3813,2021-10-23,70707,Boyuibe,Santa Cruz,1,73
+3814,2021-10-23,70707,Boyuibe,Santa Cruz,2,71
+3815,2021-10-30,70707,Boyuibe,Santa Cruz,1,73
+3816,2021-10-30,70707,Boyuibe,Santa Cruz,2,71
+3817,2021-11-13,70707,Boyuibe,Santa Cruz,1,74
+3818,2021-11-13,70707,Boyuibe,Santa Cruz,2,72
+3819,2021-11-20,70707,Boyuibe,Santa Cruz,1,73
+3820,2021-11-20,70707,Boyuibe,Santa Cruz,2,72
+3821,2021-11-27,70707,Boyuibe,Santa Cruz,1,73
+3822,2021-11-27,70707,Boyuibe,Santa Cruz,2,73
+3823,2021-12-04,70707,Boyuibe,Santa Cruz,1,74
+3824,2021-12-04,70707,Boyuibe,Santa Cruz,2,72
+3825,2021-10-23,70103,Porongo,Santa Cruz,1,73
+3826,2021-10-23,70103,Porongo,Santa Cruz,2,65
+3827,2021-10-30,70103,Porongo,Santa Cruz,1,74
+3828,2021-10-30,70103,Porongo,Santa Cruz,2,67
+3829,2021-11-13,70103,Porongo,Santa Cruz,1,76
+3830,2021-11-13,70103,Porongo,Santa Cruz,2,69
+3831,2021-11-20,70103,Porongo,Santa Cruz,1,76
+3832,2021-11-20,70103,Porongo,Santa Cruz,2,69
+3833,2021-11-27,70103,Porongo,Santa Cruz,1,76
+3834,2021-11-27,70103,Porongo,Santa Cruz,2,70
+3835,2021-12-04,70103,Porongo,Santa Cruz,1,77
+3836,2021-12-04,70103,Porongo,Santa Cruz,2,70
+3837,2021-10-23,70301,San Ignacio De Velasco,Santa Cruz,1,74
+3838,2021-10-23,70301,San Ignacio De Velasco,Santa Cruz,2,66
+3839,2021-10-30,70301,San Ignacio De Velasco,Santa Cruz,1,75
+3840,2021-10-30,70301,San Ignacio De Velasco,Santa Cruz,2,67
+3841,2021-11-13,70301,San Ignacio De Velasco,Santa Cruz,1,76
+3842,2021-11-13,70301,San Ignacio De Velasco,Santa Cruz,2,68
+3843,2021-11-20,70301,San Ignacio De Velasco,Santa Cruz,1,76
+3844,2021-11-20,70301,San Ignacio De Velasco,Santa Cruz,2,68
+3845,2021-11-27,70301,San Ignacio De Velasco,Santa Cruz,1,76
+3846,2021-11-27,70301,San Ignacio De Velasco,Santa Cruz,2,69
+3847,2021-12-04,70301,San Ignacio De Velasco,Santa Cruz,1,77
+3848,2021-12-04,70301,San Ignacio De Velasco,Santa Cruz,2,69
+3849,2021-10-23,71103,San Ramon,Santa Cruz,1,74
+3850,2021-10-23,71103,San Ramon,Santa Cruz,2,68
+3851,2021-10-30,71103,San Ramon,Santa Cruz,1,75
+3852,2021-10-30,71103,San Ramon,Santa Cruz,2,69
+3853,2021-11-13,71103,San Ramon,Santa Cruz,1,76
+3854,2021-11-13,71103,San Ramon,Santa Cruz,2,70
+3855,2021-11-20,71103,San Ramon,Santa Cruz,1,77
+3856,2021-11-20,71103,San Ramon,Santa Cruz,2,70
+3857,2021-11-27,71103,San Ramon,Santa Cruz,1,77
+3858,2021-11-27,71103,San Ramon,Santa Cruz,2,71
+3859,2021-12-04,71103,San Ramon,Santa Cruz,1,77
+3860,2021-12-04,71103,San Ramon,Santa Cruz,2,71
+3861,2021-10-23,70901,Samaipata,Santa Cruz,1,75
+3862,2021-10-23,70901,Samaipata,Santa Cruz,2,74
+3863,2021-10-30,70901,Samaipata,Santa Cruz,1,75
+3864,2021-10-30,70901,Samaipata,Santa Cruz,2,74
+3865,2021-11-13,70901,Samaipata,Santa Cruz,1,76
+3866,2021-11-13,70901,Samaipata,Santa Cruz,2,74
+3867,2021-11-20,70901,Samaipata,Santa Cruz,1,76
+3868,2021-11-20,70901,Samaipata,Santa Cruz,2,74
+3869,2021-11-27,70901,Samaipata,Santa Cruz,1,76
+3870,2021-11-27,70901,Samaipata,Santa Cruz,2,75
+3871,2021-12-04,70901,Samaipata,Santa Cruz,1,77
+3872,2021-12-04,70901,Samaipata,Santa Cruz,2,75
+3873,2021-10-23,70302,San Miguel De Velasco,Santa Cruz,1,75
+3874,2021-10-23,70302,San Miguel De Velasco,Santa Cruz,2,70
+3875,2021-10-30,70302,San Miguel De Velasco,Santa Cruz,1,76
+3876,2021-10-30,70302,San Miguel De Velasco,Santa Cruz,2,71
+3877,2021-11-13,70302,San Miguel De Velasco,Santa Cruz,1,77
+3878,2021-11-13,70302,San Miguel De Velasco,Santa Cruz,2,72
+3879,2021-11-20,70302,San Miguel De Velasco,Santa Cruz,1,79
+3880,2021-11-20,70302,San Miguel De Velasco,Santa Cruz,2,72
+3881,2021-11-27,70302,San Miguel De Velasco,Santa Cruz,1,79
+3882,2021-11-27,70302,San Miguel De Velasco,Santa Cruz,2,74
+3883,2021-12-04,70302,San Miguel De Velasco,Santa Cruz,1,80
+3884,2021-12-04,70302,San Miguel De Velasco,Santa Cruz,2,75
+3885,2021-10-23,70202,Okinawa,Santa Cruz,1,77
+3886,2021-10-23,70202,Okinawa,Santa Cruz,2,69
+3887,2021-10-30,70202,Okinawa,Santa Cruz,1,77
+3888,2021-10-30,70202,Okinawa,Santa Cruz,2,70
+3889,2021-11-13,70202,Okinawa,Santa Cruz,1,79
+3890,2021-11-13,70202,Okinawa,Santa Cruz,2,73
+3891,2021-11-20,70202,Okinawa,Santa Cruz,1,79
+3892,2021-11-20,70202,Okinawa,Santa Cruz,2,73
+3893,2021-11-27,70202,Okinawa,Santa Cruz,1,79
+3894,2021-11-27,70202,Okinawa,Santa Cruz,2,74
+3895,2021-12-04,70202,Okinawa,Santa Cruz,1,80
+3896,2021-12-04,70202,Okinawa,Santa Cruz,2,75
+3897,2021-10-23,70101,Santa Cruz de la Sierra,Santa Cruz,1,78
+3898,2021-10-23,70101,Santa Cruz de la Sierra,Santa Cruz,2,62
+3899,2021-10-30,70101,Santa Cruz de la Sierra,Santa Cruz,1,78
+3900,2021-10-30,70101,Santa Cruz de la Sierra,Santa Cruz,2,65
+3901,2021-11-13,70101,Santa Cruz de la Sierra,Santa Cruz,1,79
+3902,2021-11-13,70101,Santa Cruz de la Sierra,Santa Cruz,2,66
+3903,2021-11-20,70101,Santa Cruz de la Sierra,Santa Cruz,1,80
+3904,2021-11-20,70101,Santa Cruz de la Sierra,Santa Cruz,2,66
+3905,2021-11-27,70101,Santa Cruz de la Sierra,Santa Cruz,1,80
+3906,2021-11-27,70101,Santa Cruz de la Sierra,Santa Cruz,2,69
+3907,2021-12-04,70101,Santa Cruz de la Sierra,Santa Cruz,1,82
+3908,2021-12-04,70101,Santa Cruz de la Sierra,Santa Cruz,2,70
+3909,2021-10-23,70805,Pucara,Santa Cruz,1,79
+3910,2021-10-23,70805,Pucara,Santa Cruz,2,70
+3911,2021-10-30,70805,Pucara,Santa Cruz,1,81
+3912,2021-10-30,70805,Pucara,Santa Cruz,2,73
+3913,2021-11-13,70805,Pucara,Santa Cruz,1,83
+3914,2021-11-13,70805,Pucara,Santa Cruz,2,75
+3915,2021-11-20,70805,Pucara,Santa Cruz,1,83
+3916,2021-11-20,70805,Pucara,Santa Cruz,2,75
+3917,2021-11-27,70805,Pucara,Santa Cruz,1,83
+3918,2021-11-27,70805,Pucara,Santa Cruz,2,78
+3919,2021-12-04,70805,Pucara,Santa Cruz,1,84
+3920,2021-12-04,70805,Pucara,Santa Cruz,2,79
+3921,2021-10-23,70601,Portachuelo,Santa Cruz,1,80
+3922,2021-10-23,70601,Portachuelo,Santa Cruz,2,76
+3923,2021-10-30,70601,Portachuelo,Santa Cruz,1,80
+3924,2021-10-30,70601,Portachuelo,Santa Cruz,2,77
+3925,2021-11-13,70601,Portachuelo,Santa Cruz,1,81
+3926,2021-11-13,70601,Portachuelo,Santa Cruz,2,78
+3927,2021-11-20,70601,Portachuelo,Santa Cruz,1,81
+3928,2021-11-20,70601,Portachuelo,Santa Cruz,2,78
+3929,2021-11-27,70601,Portachuelo,Santa Cruz,1,82
+3930,2021-11-27,70601,Portachuelo,Santa Cruz,2,78
+3931,2021-12-04,70601,Portachuelo,Santa Cruz,1,83
+3932,2021-12-04,70601,Portachuelo,Santa Cruz,2,78
+3933,2021-10-23,71402,Puerto Quijarro,Santa Cruz,1,84
+3934,2021-10-23,71402,Puerto Quijarro,Santa Cruz,2,76
+3935,2021-10-30,71402,Puerto Quijarro,Santa Cruz,1,85
+3936,2021-10-30,71402,Puerto Quijarro,Santa Cruz,2,76
+3937,2021-11-13,71402,Puerto Quijarro,Santa Cruz,1,85
+3938,2021-11-13,71402,Puerto Quijarro,Santa Cruz,2,77
+3939,2021-11-20,71402,Puerto Quijarro,Santa Cruz,1,86
+3940,2021-11-20,71402,Puerto Quijarro,Santa Cruz,2,77
+3941,2021-11-27,71402,Puerto Quijarro,Santa Cruz,1,86
+3942,2021-11-27,71402,Puerto Quijarro,Santa Cruz,2,78
+3943,2021-12-04,71402,Puerto Quijarro,Santa Cruz,1,86
+3944,2021-12-04,71402,Puerto Quijarro,Santa Cruz,2,78
+3945,2021-10-23,70803,Moro Moro,Santa Cruz,1,85
+3946,2021-10-23,70803,Moro Moro,Santa Cruz,2,70
+3947,2021-10-30,70803,Moro Moro,Santa Cruz,1,86
+3948,2021-10-30,70803,Moro Moro,Santa Cruz,2,72
+3949,2021-11-13,70803,Moro Moro,Santa Cruz,1,87
+3950,2021-11-13,70803,Moro Moro,Santa Cruz,2,75
+3951,2021-11-20,70803,Moro Moro,Santa Cruz,1,90
+3952,2021-11-20,70803,Moro Moro,Santa Cruz,2,75
+3953,2021-11-27,70803,Moro Moro,Santa Cruz,1,90
+3954,2021-11-27,70803,Moro Moro,Santa Cruz,2,79
+3955,2021-12-04,70803,Moro Moro,Santa Cruz,1,90
+3956,2021-12-04,70803,Moro Moro,Santa Cruz,2,80
+3957,2021-10-23,71201,San Matias,Santa Cruz,1,85
+3958,2021-10-23,71201,San Matias,Santa Cruz,2,84
+3959,2021-10-30,71201,San Matias,Santa Cruz,1,85
+3960,2021-10-30,71201,San Matias,Santa Cruz,2,84
+3961,2021-11-13,71201,San Matias,Santa Cruz,1,85
+3962,2021-11-13,71201,San Matias,Santa Cruz,2,83
+3963,2021-11-20,71201,San Matias,Santa Cruz,1,87
+3964,2021-11-20,71201,San Matias,Santa Cruz,2,83
+3965,2021-11-27,71201,San Matias,Santa Cruz,1,87
+3966,2021-11-27,71201,San Matias,Santa Cruz,2,84
+3967,2021-12-04,71201,San Matias,Santa Cruz,1,87
+3968,2021-12-04,71201,San Matias,Santa Cruz,2,84
+3969,2021-10-23,70801,Vallegrande,Santa Cruz,1,85
+3970,2021-10-23,70801,Vallegrande,Santa Cruz,2,74
+3971,2021-10-30,70801,Vallegrande,Santa Cruz,1,86
+3972,2021-10-30,70801,Vallegrande,Santa Cruz,2,77
+3973,2021-11-13,70801,Vallegrande,Santa Cruz,1,88
+3974,2021-11-13,70801,Vallegrande,Santa Cruz,2,80
+3975,2021-11-20,70801,Vallegrande,Santa Cruz,1,90
+3976,2021-11-20,70801,Vallegrande,Santa Cruz,2,80
+3977,2021-11-27,70801,Vallegrande,Santa Cruz,1,91
+3978,2021-11-27,70801,Vallegrande,Santa Cruz,2,83
+3979,2021-12-04,70801,Vallegrande,Santa Cruz,1,92
+3980,2021-12-04,70801,Vallegrande,Santa Cruz,2,85
+3981,2021-10-23,71002,General Saavedra,Santa Cruz,1,86
+3982,2021-10-23,71002,General Saavedra,Santa Cruz,2,74
+3983,2021-10-30,71002,General Saavedra,Santa Cruz,1,87
+3984,2021-10-30,71002,General Saavedra,Santa Cruz,2,76
+3985,2021-11-13,71002,General Saavedra,Santa Cruz,1,89
+3986,2021-11-13,71002,General Saavedra,Santa Cruz,2,78
+3987,2021-11-20,71002,General Saavedra,Santa Cruz,1,90
+3988,2021-11-20,71002,General Saavedra,Santa Cruz,2,78
+3989,2021-11-27,71002,General Saavedra,Santa Cruz,1,90
+3990,2021-11-27,71002,General Saavedra,Santa Cruz,2,80
+3991,2021-12-04,71002,General Saavedra,Santa Cruz,1,92
+3992,2021-12-04,71002,General Saavedra,Santa Cruz,2,82
+3993,2021-10-23,70701,Lagunillas,Santa Cruz,1,87
+3994,2021-10-23,70701,Lagunillas,Santa Cruz,2,78
+3995,2021-10-30,70701,Lagunillas,Santa Cruz,1,87
+3996,2021-10-30,70701,Lagunillas,Santa Cruz,2,79
+3997,2021-11-13,70701,Lagunillas,Santa Cruz,1,89
+3998,2021-11-13,70701,Lagunillas,Santa Cruz,2,84
+3999,2021-11-20,70701,Lagunillas,Santa Cruz,1,89
+4000,2021-11-20,70701,Lagunillas,Santa Cruz,2,84
+4001,2021-11-27,70701,Lagunillas,Santa Cruz,1,90
+4002,2021-11-27,70701,Lagunillas,Santa Cruz,2,85
+4003,2021-12-04,70701,Lagunillas,Santa Cruz,1,90
+4004,2021-12-04,70701,Lagunillas,Santa Cruz,2,86
+4005,2021-10-23,70503,Robore,Santa Cruz,1,87
+4006,2021-10-23,70503,Robore,Santa Cruz,2,64
+4007,2021-10-30,70503,Robore,Santa Cruz,1,88
+4008,2021-10-30,70503,Robore,Santa Cruz,2,66
+4009,2021-11-13,70503,Robore,Santa Cruz,1,90
+4010,2021-11-13,70503,Robore,Santa Cruz,2,73
+4011,2021-11-20,70503,Robore,Santa Cruz,1,90
+4012,2021-11-20,70503,Robore,Santa Cruz,2,73
+4013,2021-11-27,70503,Robore,Santa Cruz,1,92
+4014,2021-11-27,70503,Robore,Santa Cruz,2,77
+4015,2021-12-04,70503,Robore,Santa Cruz,1,93
+4016,2021-12-04,70503,Robore,Santa Cruz,2,79
+4017,2021-10-23,70603,Colpa Belgica,Santa Cruz,1,93
+4018,2021-10-23,70603,Colpa Belgica,Santa Cruz,2,90
+4019,2021-10-30,70603,Colpa Belgica,Santa Cruz,1,94
+4020,2021-10-30,70603,Colpa Belgica,Santa Cruz,2,90
+4021,2021-11-13,70603,Colpa Belgica,Santa Cruz,1,95
+4022,2021-11-13,70603,Colpa Belgica,Santa Cruz,2,91
+4023,2021-11-20,70603,Colpa Belgica,Santa Cruz,1,96
+4024,2021-11-20,70603,Colpa Belgica,Santa Cruz,2,91
+4025,2021-11-27,70603,Colpa Belgica,Santa Cruz,1,96
+4026,2021-11-27,70603,Colpa Belgica,Santa Cruz,2,92
+4027,2021-12-04,70603,Colpa Belgica,Santa Cruz,1,97
+4028,2021-12-04,70603,Colpa Belgica,Santa Cruz,2,92
+4029,2021-10-23,70102,Cotoca,Santa Cruz,1,93
+4030,2021-10-23,70102,Cotoca,Santa Cruz,2,70
+4031,2021-10-30,70102,Cotoca,Santa Cruz,1,94
+4032,2021-10-30,70102,Cotoca,Santa Cruz,2,73
+4033,2021-11-13,70102,Cotoca,Santa Cruz,1,95
+4034,2021-11-13,70102,Cotoca,Santa Cruz,2,74
+4035,2021-11-20,70102,Cotoca,Santa Cruz,1,96
+4036,2021-11-20,70102,Cotoca,Santa Cruz,2,74
+4037,2021-11-27,70102,Cotoca,Santa Cruz,1,97
+4038,2021-11-27,70102,Cotoca,Santa Cruz,2,77
+4039,2021-12-04,70102,Cotoca,Santa Cruz,1,98
+4040,2021-12-04,70102,Cotoca,Santa Cruz,2,79
+4041,2021-10-23,70706,Camiri,Santa Cruz,1,95
+4042,2021-10-23,70706,Camiri,Santa Cruz,2,91
+4043,2021-10-30,70706,Camiri,Santa Cruz,1,96
+4044,2021-10-30,70706,Camiri,Santa Cruz,2,91
+4045,2021-11-13,70706,Camiri,Santa Cruz,1,97
+4046,2021-11-13,70706,Camiri,Santa Cruz,2,92
+4047,2021-11-20,70706,Camiri,Santa Cruz,1,97
+4048,2021-11-20,70706,Camiri,Santa Cruz,2,92
+4049,2021-11-27,70706,Camiri,Santa Cruz,1,98
+4050,2021-11-27,70706,Camiri,Santa Cruz,2,92
+4051,2021-12-04,70706,Camiri,Santa Cruz,1,99
+4052,2021-12-04,70706,Camiri,Santa Cruz,2,93

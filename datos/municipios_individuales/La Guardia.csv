@@ -1,9 +1,7 @@
 fecha,cod_ine,municipio,departamento,poblacion2020,dosis,porcentaje
 2021-10-23,70104,La Guardia,Santa Cruz,177735,1,35
 2021-10-23,70104,La Guardia,Santa Cruz,177735,2,29
-2021-10-30,70104,La Guardia,Santa Cruz,177735,1,36
 2021-12-04,70104,La Guardia,Santa Cruz,177735,2,33
-2021-12-04,70104,La Guardia,Santa Cruz,177735,1,38
 2021-11-27,70104,La Guardia,Santa Cruz,177735,2,32
 2021-11-27,70104,La Guardia,Santa Cruz,177735,1,37
 2021-11-20,70104,La Guardia,Santa Cruz,177735,2,32
@@ -11,3 +9,5 @@ fecha,cod_ine,municipio,departamento,poblacion2020,dosis,porcentaje
 2021-11-13,70104,La Guardia,Santa Cruz,177735,2,32
 2021-11-13,70104,La Guardia,Santa Cruz,177735,1,37
 2021-10-30,70104,La Guardia,Santa Cruz,177735,2,31
+2021-10-30,70104,La Guardia,Santa Cruz,177735,1,36
+2021-12-04,70104,La Guardia,Santa Cruz,177735,1,38

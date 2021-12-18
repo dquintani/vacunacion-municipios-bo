@@ -1,6 +1,6 @@
 fecha,cod_ine,municipio,departamento,poblacion2020,dosis,porcentaje
-2021-10-23,71401,Puerto Suarez,Santa Cruz,24409,2,69
 2021-10-23,71401,Puerto Suarez,Santa Cruz,24409,1,71
+2021-10-30,71401,Puerto Suarez,Santa Cruz,24409,1,72
 2021-10-30,71401,Puerto Suarez,Santa Cruz,24409,2,70
 2021-11-13,71401,Puerto Suarez,Santa Cruz,24409,1,72
 2021-11-13,71401,Puerto Suarez,Santa Cruz,24409,2,70
@@ -8,6 +8,6 @@ fecha,cod_ine,municipio,departamento,poblacion2020,dosis,porcentaje
 2021-11-20,71401,Puerto Suarez,Santa Cruz,24409,2,70
 2021-11-27,71401,Puerto Suarez,Santa Cruz,24409,2,71
 2021-11-27,71401,Puerto Suarez,Santa Cruz,24409,1,73
-2021-10-30,71401,Puerto Suarez,Santa Cruz,24409,1,72
+2021-10-23,71401,Puerto Suarez,Santa Cruz,24409,2,69
 2021-12-04,71401,Puerto Suarez,Santa Cruz,24409,1,73
 2021-12-04,71401,Puerto Suarez,Santa Cruz,24409,2,71
