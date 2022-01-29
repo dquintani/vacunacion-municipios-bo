@@ -1,4 +1,6 @@
 fecha,cod_ine,municipio,departamento,poblacion2020,dosis,porcentaje
+2022-01-22,20104,Achocalla,La Paz,22883,2,70
+2022-01-22,20104,Achocalla,La Paz,22883,1,101
 2021-10-23,20104,Achocalla,La Paz,22883,1,68
 2021-10-23,20104,Achocalla,La Paz,22883,2,63
 2021-10-30,20104,Achocalla,La Paz,22883,1,68
@@ -7,7 +9,9 @@ fecha,cod_ine,municipio,departamento,poblacion2020,dosis,porcentaje
 2021-11-13,20104,Achocalla,La Paz,22883,2,65
 2021-11-20,20104,Achocalla,La Paz,22883,1,71
 2021-11-20,20104,Achocalla,La Paz,22883,2,65
-2021-11-27,20104,Achocalla,La Paz,22883,1,72
 2021-11-27,20104,Achocalla,La Paz,22883,2,65
 2021-12-04,20104,Achocalla,La Paz,22883,1,73
 2021-12-04,20104,Achocalla,La Paz,22883,2,67
+2021-12-18,20104,Achocalla,La Paz,22883,1,74
+2021-12-18,20104,Achocalla,La Paz,22883,2,68
+2021-11-27,20104,Achocalla,La Paz,22883,1,72

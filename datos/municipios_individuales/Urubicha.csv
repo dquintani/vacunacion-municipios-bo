@@ -1,6 +1,10 @@
 fecha,cod_ine,municipio,departamento,poblacion2020,dosis,porcentaje
 2021-10-30,71502,Urubicha,Santa Cruz,10233,2,34
 2021-11-13,71502,Urubicha,Santa Cruz,10233,1,50
+2022-01-22,71502,Urubicha,Santa Cruz,10233,1,62
+2021-12-18,71502,Urubicha,Santa Cruz,10233,2,43
+2021-12-18,71502,Urubicha,Santa Cruz,10233,1,54
+2021-12-04,71502,Urubicha,Santa Cruz,10233,2,40
 2021-12-04,71502,Urubicha,Santa Cruz,10233,1,53
 2021-11-27,71502,Urubicha,Santa Cruz,10233,2,36
 2021-11-27,71502,Urubicha,Santa Cruz,10233,1,52
@@ -8,6 +12,6 @@ fecha,cod_ine,municipio,departamento,poblacion2020,dosis,porcentaje
 2021-11-20,71502,Urubicha,Santa Cruz,10233,1,52
 2021-11-13,71502,Urubicha,Santa Cruz,10233,2,36
 2021-10-30,71502,Urubicha,Santa Cruz,10233,1,45
-2021-12-04,71502,Urubicha,Santa Cruz,10233,2,40
-2021-10-23,71502,Urubicha,Santa Cruz,10233,1,44
+2022-01-22,71502,Urubicha,Santa Cruz,10233,2,47
 2021-10-23,71502,Urubicha,Santa Cruz,10233,2,34
+2021-10-23,71502,Urubicha,Santa Cruz,10233,1,44

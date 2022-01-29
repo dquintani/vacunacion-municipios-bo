@@ -1,6 +1,9 @@
 fecha,cod_ine,municipio,departamento,poblacion2020,dosis,porcentaje
-2021-12-04,40602,Pazña,Oruro,6054,1,53
+2022-01-22,40602,Pazña,Oruro,6054,1,60
+2022-01-22,40602,Pazña,Oruro,6054,2,52
+2021-12-18,40602,Pazña,Oruro,6054,1,54
 2021-12-04,40602,Pazña,Oruro,6054,2,50
+2021-12-04,40602,Pazña,Oruro,6054,1,53
 2021-11-27,40602,Pazña,Oruro,6054,2,49
 2021-11-27,40602,Pazña,Oruro,6054,1,53
 2021-11-20,40602,Pazña,Oruro,6054,2,49
@@ -11,3 +14,4 @@ fecha,cod_ine,municipio,departamento,poblacion2020,dosis,porcentaje
 2021-10-30,40602,Pazña,Oruro,6054,1,51
 2021-10-23,40602,Pazña,Oruro,6054,2,47
 2021-10-23,40602,Pazña,Oruro,6054,1,51
+2021-12-18,40602,Pazña,Oruro,6054,2,50
